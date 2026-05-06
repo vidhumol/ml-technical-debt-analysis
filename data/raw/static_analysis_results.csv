@@ -1,0 +1,21 @@
+repo_name,category,pylint_score,avg_complexity,maintainability_index,flake8_violations,total_functions,complex_functions,loc
+keras-team/keras,Deep Learning,,2.38,66.52,4113.0,14506.0,379.0,314699
+fastai/fastai,Deep Learning,,,,16114.0,,,18223
+pytorch/examples,Deep Learning,,2.35,68.55,780.0,556.0,6.0,11378
+Lightning-AI/pytorch-lightning,Deep Learning,,2.91,69.53,79.0,7399.0,216.0,137163
+huggingface/datasets,NLP,,3.81,60.7,905.0,3762.0,237.0,76522
+explosion/spaCy,NLP,,,,1062.0,,,136247
+facebookresearch/fairseq,NLP,,3.29,65.18,2112.0,9164.0,407.0,194388
+allenai/allennlp,NLP,,3.26,70.91,451.0,4261.0,164.0,89889
+facebookresearch/detectron2,Computer Vision,,3.22,75.1,817.0,3215.0,119.0,74225
+ultralytics/yolov5,Computer Vision,,4.81,55.58,178.0,701.0,55.0,17927
+open-mmlab/mmdetection,Computer Vision,,3.93,83.47,449.0,5647.0,321.0,17692
+rwightman/pytorch-image-models,Computer Vision,,3.11,53.87,2203.0,6370.0,242.0,132364
+mlflow/mlflow,MLOps,,3.35,66.38,,27977.0,1197.0,29993
+iterative/dvc,MLOps,,3.38,63.27,16.0,4727.0,168.0,88711
+PrefectHQ/prefect,MLOps,,2.97,65.88,,28036.0,664.0,643971
+bentoml/BentoML,MLOps,,3.04,68.2,1006.0,3415.0,128.0,77367
+optuna/optuna,AutoML/RL,,3.35,69.43,457.0,2808.0,125.0,67364
+openai/gym,AutoML/RL,,3.38,64.07,763.0,1374.0,81.0,29671
+microsoft/nni,AutoML/RL,,3.07,68.37,6985.0,7925.0,288.0,143443
+automl/auto-sklearn,AutoML/RL,,3.33,72.47,84.0,2194.0,118.0,62854
