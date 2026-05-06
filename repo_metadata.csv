@@ -97,5 +97,3 @@ hill-a/stable-baselines,AutoML/RL,4323,726,138,101,839,Python,10365,2865,2018-07
 google/vizier,AutoML/RL,1642,110,48,24,1230,Python,5052,1540,2022-02-16,2026-05-05,"Python-based research interface for blackbox and hyperparameter optimization, based on the internal Google Vizier Service.",True,True,Apache License 2.0
 optuna/optuna-dashboard,AutoML/RL,771,117,25,41,3794,TypeScript,21246,2020,2020-10-24,2026-04-29,Real-time Web Dashboard for Optuna.,False,True,Other
 autonomio/talos,AutoML/RL,1638,267,13,16,671,Python,3214,2924,2018-05-04,2026-04-23,Hyperparameter Experiments with TensorFlow and Keras,True,True,MIT License
-google/dopamine,AutoML/RL,10879,1396,109,8,361,Jupyter Notebook,28837,2841,2018-07-26,2026-05-06,Dopamine is a research framework for fast prototyping of reinforcement learning algorithms. ,True,True,Apache License 2.0
-keras-team/keras-cv,Computer Vision,1062,325,70,96,1217,Python,26340,2179,2020-05-18,2026-05-03,Industry-strength Computer Vision workflows with Keras,True,True,Other
