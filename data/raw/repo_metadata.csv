@@ -19,3 +19,5 @@ optuna/optuna,AutoML/RL,14102,1324,40,314,20826,Python,22835,2996,2018-02-21,202
 openai/gym,AutoML/RL,37181,8703,128,365,1758,Python,7125,3661,2016-04-27,2026-05-06,A toolkit for developing and comparing reinforcement learning algorithms.,True,True,Other
 microsoft/nni,AutoML/RL,14352,1857,415,173,3012,Python,133124,2896,2018-06-01,2026-05-06,"An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.",True,True,MIT License
 automl/auto-sklearn,AutoML/RL,8092,1324,209,73,2759,Python,126435,3961,2015-07-02,2026-05-06,Automated Machine Learning with scikit-learn,True,True,"BSD 3-Clause ""New"" or ""Revised"" License"
+google/dopamine,AutoML/RL,10879,1396,109,8,361,Jupyter Notebook,28837,2841,2018-07-26,2026-05-06,Dopamine is a research framework for fast prototyping of reinforcement learning algorithms. ,True,True,Apache License 2.0
+keras-team/keras-cv,Computer Vision,1062,325,70,96,1217,Python,26340,2179,2020-05-18,2026-05-03,Industry-strength Computer Vision workflows with Keras,True,True,Other
