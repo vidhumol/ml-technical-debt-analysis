@@ -137,6 +137,331 @@ Lightning-AI/pytorch-lightning,Deep Learning,2026-02,3
 Lightning-AI/pytorch-lightning,Deep Learning,2026-03,42
 Lightning-AI/pytorch-lightning,Deep Learning,2026-04,17
 Lightning-AI/pytorch-lightning,Deep Learning,2026-05,1
+tensorflow/tensorflow,Deep Learning,2026-04,283
+tensorflow/tensorflow,Deep Learning,2026-05,217
+pytorch/pytorch,Deep Learning,2026-03,1
+pytorch/pytorch,Deep Learning,2026-04,159
+pytorch/pytorch,Deep Learning,2026-05,340
+google/flax,Deep Learning,2025-05,1
+google/flax,Deep Learning,2025-07,1
+google/flax,Deep Learning,2025-09,39
+google/flax,Deep Learning,2025-10,92
+google/flax,Deep Learning,2025-11,57
+google/flax,Deep Learning,2025-12,35
+google/flax,Deep Learning,2026-01,52
+google/flax,Deep Learning,2026-02,53
+google/flax,Deep Learning,2026-03,98
+google/flax,Deep Learning,2026-04,72
+lucidrains/vit-pytorch,Deep Learning,2020-10,27
+lucidrains/vit-pytorch,Deep Learning,2020-11,6
+lucidrains/vit-pytorch,Deep Learning,2020-12,20
+lucidrains/vit-pytorch,Deep Learning,2021-01,5
+lucidrains/vit-pytorch,Deep Learning,2021-02,15
+lucidrains/vit-pytorch,Deep Learning,2021-03,18
+lucidrains/vit-pytorch,Deep Learning,2021-04,42
+lucidrains/vit-pytorch,Deep Learning,2021-05,13
+lucidrains/vit-pytorch,Deep Learning,2021-06,5
+lucidrains/vit-pytorch,Deep Learning,2021-07,7
+lucidrains/vit-pytorch,Deep Learning,2021-08,15
+lucidrains/vit-pytorch,Deep Learning,2021-09,2
+lucidrains/vit-pytorch,Deep Learning,2021-10,1
+lucidrains/vit-pytorch,Deep Learning,2021-11,21
+lucidrains/vit-pytorch,Deep Learning,2021-12,16
+lucidrains/vit-pytorch,Deep Learning,2022-01,8
+lucidrains/vit-pytorch,Deep Learning,2022-03,14
+lucidrains/vit-pytorch,Deep Learning,2022-04,6
+lucidrains/vit-pytorch,Deep Learning,2022-05,2
+lucidrains/vit-pytorch,Deep Learning,2022-06,5
+lucidrains/vit-pytorch,Deep Learning,2022-07,2
+lucidrains/vit-pytorch,Deep Learning,2022-10,9
+lucidrains/vit-pytorch,Deep Learning,2022-12,3
+lucidrains/vit-pytorch,Deep Learning,2023-02,3
+lucidrains/vit-pytorch,Deep Learning,2023-03,6
+lucidrains/vit-pytorch,Deep Learning,2023-05,2
+lucidrains/vit-pytorch,Deep Learning,2023-06,1
+lucidrains/vit-pytorch,Deep Learning,2023-07,7
+lucidrains/vit-pytorch,Deep Learning,2023-08,5
+lucidrains/vit-pytorch,Deep Learning,2023-09,1
+lucidrains/vit-pytorch,Deep Learning,2023-10,13
+lucidrains/vit-pytorch,Deep Learning,2023-11,1
+lucidrains/vit-pytorch,Deep Learning,2023-12,1
+lucidrains/vit-pytorch,Deep Learning,2024-04,3
+lucidrains/vit-pytorch,Deep Learning,2024-05,2
+lucidrains/vit-pytorch,Deep Learning,2024-06,1
+lucidrains/vit-pytorch,Deep Learning,2024-07,5
+lucidrains/vit-pytorch,Deep Learning,2024-08,8
+lucidrains/vit-pytorch,Deep Learning,2024-10,8
+lucidrains/vit-pytorch,Deep Learning,2024-11,6
+lucidrains/vit-pytorch,Deep Learning,2024-12,1
+lucidrains/vit-pytorch,Deep Learning,2025-01,4
+lucidrains/vit-pytorch,Deep Learning,2025-03,1
+lucidrains/vit-pytorch,Deep Learning,2025-07,5
+lucidrains/vit-pytorch,Deep Learning,2025-08,4
+lucidrains/vit-pytorch,Deep Learning,2025-09,4
+lucidrains/vit-pytorch,Deep Learning,2025-10,6
+lucidrains/vit-pytorch,Deep Learning,2025-11,7
+lucidrains/vit-pytorch,Deep Learning,2025-12,8
+lucidrains/vit-pytorch,Deep Learning,2026-01,6
+lucidrains/vit-pytorch,Deep Learning,2026-02,5
+lucidrains/vit-pytorch,Deep Learning,2026-03,2
+lucidrains/vit-pytorch,Deep Learning,2026-04,4
+lucidrains/vit-pytorch,Deep Learning,2026-05,3
+huggingface/accelerate,Deep Learning,2024-06,18
+huggingface/accelerate,Deep Learning,2024-07,34
+huggingface/accelerate,Deep Learning,2024-08,31
+huggingface/accelerate,Deep Learning,2024-09,32
+huggingface/accelerate,Deep Learning,2024-10,36
+huggingface/accelerate,Deep Learning,2024-11,14
+huggingface/accelerate,Deep Learning,2024-12,18
+huggingface/accelerate,Deep Learning,2025-01,21
+huggingface/accelerate,Deep Learning,2025-02,13
+huggingface/accelerate,Deep Learning,2025-03,28
+huggingface/accelerate,Deep Learning,2025-04,33
+huggingface/accelerate,Deep Learning,2025-05,38
+huggingface/accelerate,Deep Learning,2025-06,28
+huggingface/accelerate,Deep Learning,2025-07,15
+huggingface/accelerate,Deep Learning,2025-08,22
+huggingface/accelerate,Deep Learning,2025-09,22
+huggingface/accelerate,Deep Learning,2025-10,7
+huggingface/accelerate,Deep Learning,2025-11,15
+huggingface/accelerate,Deep Learning,2025-12,12
+huggingface/accelerate,Deep Learning,2026-01,16
+huggingface/accelerate,Deep Learning,2026-02,12
+huggingface/accelerate,Deep Learning,2026-03,21
+huggingface/accelerate,Deep Learning,2026-04,14
+microsoft/DeepSpeed,Deep Learning,2025-01,29
+microsoft/DeepSpeed,Deep Learning,2025-02,40
+microsoft/DeepSpeed,Deep Learning,2025-03,32
+microsoft/DeepSpeed,Deep Learning,2025-04,25
+microsoft/DeepSpeed,Deep Learning,2025-05,26
+microsoft/DeepSpeed,Deep Learning,2025-06,47
+microsoft/DeepSpeed,Deep Learning,2025-07,26
+microsoft/DeepSpeed,Deep Learning,2025-08,30
+microsoft/DeepSpeed,Deep Learning,2025-09,44
+microsoft/DeepSpeed,Deep Learning,2025-10,34
+microsoft/DeepSpeed,Deep Learning,2025-11,20
+microsoft/DeepSpeed,Deep Learning,2025-12,22
+microsoft/DeepSpeed,Deep Learning,2026-01,45
+microsoft/DeepSpeed,Deep Learning,2026-02,18
+microsoft/DeepSpeed,Deep Learning,2026-03,38
+microsoft/DeepSpeed,Deep Learning,2026-04,21
+microsoft/DeepSpeed,Deep Learning,2026-05,3
+facebookresearch/xformers,Deep Learning,2023-09,5
+facebookresearch/xformers,Deep Learning,2023-10,45
+facebookresearch/xformers,Deep Learning,2023-11,22
+facebookresearch/xformers,Deep Learning,2023-12,17
+facebookresearch/xformers,Deep Learning,2024-01,21
+facebookresearch/xformers,Deep Learning,2024-02,15
+facebookresearch/xformers,Deep Learning,2024-03,22
+facebookresearch/xformers,Deep Learning,2024-04,15
+facebookresearch/xformers,Deep Learning,2024-05,24
+facebookresearch/xformers,Deep Learning,2024-06,25
+facebookresearch/xformers,Deep Learning,2024-07,22
+facebookresearch/xformers,Deep Learning,2024-08,37
+facebookresearch/xformers,Deep Learning,2024-09,21
+facebookresearch/xformers,Deep Learning,2024-10,13
+facebookresearch/xformers,Deep Learning,2024-11,7
+facebookresearch/xformers,Deep Learning,2024-12,24
+facebookresearch/xformers,Deep Learning,2025-01,9
+facebookresearch/xformers,Deep Learning,2025-02,32
+facebookresearch/xformers,Deep Learning,2025-03,12
+facebookresearch/xformers,Deep Learning,2025-04,12
+facebookresearch/xformers,Deep Learning,2025-05,3
+facebookresearch/xformers,Deep Learning,2025-06,27
+facebookresearch/xformers,Deep Learning,2025-07,13
+facebookresearch/xformers,Deep Learning,2025-08,6
+facebookresearch/xformers,Deep Learning,2025-09,4
+facebookresearch/xformers,Deep Learning,2025-10,10
+facebookresearch/xformers,Deep Learning,2025-11,7
+facebookresearch/xformers,Deep Learning,2025-12,12
+facebookresearch/xformers,Deep Learning,2026-01,6
+facebookresearch/xformers,Deep Learning,2026-02,5
+facebookresearch/xformers,Deep Learning,2026-03,3
+facebookresearch/xformers,Deep Learning,2026-04,4
+Lightning-AI/litgpt,Deep Learning,2024-05,23
+Lightning-AI/litgpt,Deep Learning,2024-06,77
+Lightning-AI/litgpt,Deep Learning,2024-07,71
+Lightning-AI/litgpt,Deep Learning,2024-08,39
+Lightning-AI/litgpt,Deep Learning,2024-09,31
+Lightning-AI/litgpt,Deep Learning,2024-10,32
+Lightning-AI/litgpt,Deep Learning,2024-11,6
+Lightning-AI/litgpt,Deep Learning,2024-12,21
+Lightning-AI/litgpt,Deep Learning,2025-01,17
+Lightning-AI/litgpt,Deep Learning,2025-02,3
+Lightning-AI/litgpt,Deep Learning,2025-03,18
+Lightning-AI/litgpt,Deep Learning,2025-04,37
+Lightning-AI/litgpt,Deep Learning,2025-05,28
+Lightning-AI/litgpt,Deep Learning,2025-06,16
+Lightning-AI/litgpt,Deep Learning,2025-07,10
+Lightning-AI/litgpt,Deep Learning,2025-08,11
+Lightning-AI/litgpt,Deep Learning,2025-09,12
+Lightning-AI/litgpt,Deep Learning,2025-10,1
+Lightning-AI/litgpt,Deep Learning,2025-11,11
+Lightning-AI/litgpt,Deep Learning,2025-12,8
+Lightning-AI/litgpt,Deep Learning,2026-01,9
+Lightning-AI/litgpt,Deep Learning,2026-02,5
+Lightning-AI/litgpt,Deep Learning,2026-03,7
+Lightning-AI/litgpt,Deep Learning,2026-04,7
+karpathy/nanoGPT,Deep Learning,2022-12,20
+karpathy/nanoGPT,Deep Learning,2023-01,89
+karpathy/nanoGPT,Deep Learning,2023-02,41
+karpathy/nanoGPT,Deep Learning,2023-03,7
+karpathy/nanoGPT,Deep Learning,2023-04,18
+karpathy/nanoGPT,Deep Learning,2023-05,6
+karpathy/nanoGPT,Deep Learning,2023-06,14
+karpathy/nanoGPT,Deep Learning,2024-01,4
+karpathy/nanoGPT,Deep Learning,2024-02,3
+karpathy/nanoGPT,Deep Learning,2024-03,1
+karpathy/nanoGPT,Deep Learning,2024-05,1
+karpathy/nanoGPT,Deep Learning,2024-06,3
+karpathy/nanoGPT,Deep Learning,2024-12,2
+karpathy/nanoGPT,Deep Learning,2025-11,1
+openai/whisper,Deep Learning,2022-09,37
+openai/whisper,Deep Learning,2022-10,8
+openai/whisper,Deep Learning,2022-11,3
+openai/whisper,Deep Learning,2022-12,9
+openai/whisper,Deep Learning,2023-01,22
+openai/whisper,Deep Learning,2023-02,1
+openai/whisper,Deep Learning,2023-03,22
+openai/whisper,Deep Learning,2023-04,6
+openai/whisper,Deep Learning,2023-05,7
+openai/whisper,Deep Learning,2023-06,1
+openai/whisper,Deep Learning,2023-07,1
+openai/whisper,Deep Learning,2023-08,1
+openai/whisper,Deep Learning,2023-09,5
+openai/whisper,Deep Learning,2023-10,1
+openai/whisper,Deep Learning,2023-11,10
+openai/whisper,Deep Learning,2023-12,2
+openai/whisper,Deep Learning,2024-09,8
+openai/whisper,Deep Learning,2024-10,2
+openai/whisper,Deep Learning,2024-11,3
+openai/whisper,Deep Learning,2024-12,1
+openai/whisper,Deep Learning,2025-01,4
+openai/whisper,Deep Learning,2025-05,4
+openai/whisper,Deep Learning,2025-06,8
+openai/whisper,Deep Learning,2026-03,1
+openai/whisper,Deep Learning,2026-04,1
+facebookresearch/llama,Deep Learning,2023-02,1
+facebookresearch/llama,Deep Learning,2023-03,10
+facebookresearch/llama,Deep Learning,2023-07,20
+facebookresearch/llama,Deep Learning,2023-08,27
+facebookresearch/llama,Deep Learning,2023-09,41
+facebookresearch/llama,Deep Learning,2023-10,9
+facebookresearch/llama,Deep Learning,2023-11,14
+facebookresearch/llama,Deep Learning,2024-02,4
+facebookresearch/llama,Deep Learning,2024-03,11
+facebookresearch/llama,Deep Learning,2024-04,3
+facebookresearch/llama,Deep Learning,2024-05,3
+facebookresearch/llama,Deep Learning,2024-07,4
+facebookresearch/llama,Deep Learning,2025-01,1
+CompVis/stable-diffusion,Deep Learning,2021-12,6
+CompVis/stable-diffusion,Deep Learning,2022-01,3
+CompVis/stable-diffusion,Deep Learning,2022-02,1
+CompVis/stable-diffusion,Deep Learning,2022-08,19
+CompVis/stable-diffusion,Deep Learning,2022-10,1
+CompVis/stable-diffusion,Deep Learning,2022-11,3
+invoke-ai/InvokeAI,Deep Learning,2025-09,53
+invoke-ai/InvokeAI,Deep Learning,2025-10,66
+invoke-ai/InvokeAI,Deep Learning,2025-11,12
+invoke-ai/InvokeAI,Deep Learning,2025-12,112
+invoke-ai/InvokeAI,Deep Learning,2026-01,94
+invoke-ai/InvokeAI,Deep Learning,2026-02,44
+invoke-ai/InvokeAI,Deep Learning,2026-03,30
+invoke-ai/InvokeAI,Deep Learning,2026-04,77
+invoke-ai/InvokeAI,Deep Learning,2026-05,12
+microsoft/unilm,Deep Learning,2022-06,17
+microsoft/unilm,Deep Learning,2022-07,19
+microsoft/unilm,Deep Learning,2022-08,6
+microsoft/unilm,Deep Learning,2022-09,26
+microsoft/unilm,Deep Learning,2022-10,27
+microsoft/unilm,Deep Learning,2022-11,42
+microsoft/unilm,Deep Learning,2022-12,11
+microsoft/unilm,Deep Learning,2023-01,11
+microsoft/unilm,Deep Learning,2023-02,2
+microsoft/unilm,Deep Learning,2023-03,23
+microsoft/unilm,Deep Learning,2023-04,3
+microsoft/unilm,Deep Learning,2023-05,11
+microsoft/unilm,Deep Learning,2023-06,56
+microsoft/unilm,Deep Learning,2023-07,30
+microsoft/unilm,Deep Learning,2023-08,10
+microsoft/unilm,Deep Learning,2023-09,9
+microsoft/unilm,Deep Learning,2023-10,23
+microsoft/unilm,Deep Learning,2023-11,11
+microsoft/unilm,Deep Learning,2023-12,28
+microsoft/unilm,Deep Learning,2024-01,3
+microsoft/unilm,Deep Learning,2024-02,5
+microsoft/unilm,Deep Learning,2024-03,14
+microsoft/unilm,Deep Learning,2024-04,26
+microsoft/unilm,Deep Learning,2024-05,20
+microsoft/unilm,Deep Learning,2024-07,5
+microsoft/unilm,Deep Learning,2024-08,5
+microsoft/unilm,Deep Learning,2024-09,2
+microsoft/unilm,Deep Learning,2024-10,22
+microsoft/unilm,Deep Learning,2024-11,6
+microsoft/unilm,Deep Learning,2024-12,9
+microsoft/unilm,Deep Learning,2025-01,2
+microsoft/unilm,Deep Learning,2025-02,3
+microsoft/unilm,Deep Learning,2025-03,2
+microsoft/unilm,Deep Learning,2025-06,2
+microsoft/unilm,Deep Learning,2025-07,2
+microsoft/unilm,Deep Learning,2025-12,1
+microsoft/unilm,Deep Learning,2026-01,6
+deepmind/sonnet,Deep Learning,2018-11,16
+deepmind/sonnet,Deep Learning,2018-12,13
+deepmind/sonnet,Deep Learning,2019-01,19
+deepmind/sonnet,Deep Learning,2019-02,8
+deepmind/sonnet,Deep Learning,2019-03,3
+deepmind/sonnet,Deep Learning,2019-04,10
+deepmind/sonnet,Deep Learning,2019-05,64
+deepmind/sonnet,Deep Learning,2019-06,70
+deepmind/sonnet,Deep Learning,2019-07,64
+deepmind/sonnet,Deep Learning,2019-08,28
+deepmind/sonnet,Deep Learning,2019-09,45
+deepmind/sonnet,Deep Learning,2019-10,36
+deepmind/sonnet,Deep Learning,2019-11,7
+deepmind/sonnet,Deep Learning,2019-12,5
+deepmind/sonnet,Deep Learning,2020-01,15
+deepmind/sonnet,Deep Learning,2020-02,17
+deepmind/sonnet,Deep Learning,2020-03,5
+deepmind/sonnet,Deep Learning,2020-04,10
+deepmind/sonnet,Deep Learning,2020-05,3
+deepmind/sonnet,Deep Learning,2020-07,5
+deepmind/sonnet,Deep Learning,2020-09,5
+deepmind/sonnet,Deep Learning,2020-10,3
+deepmind/sonnet,Deep Learning,2021-02,1
+deepmind/sonnet,Deep Learning,2021-03,3
+deepmind/sonnet,Deep Learning,2021-06,6
+deepmind/sonnet,Deep Learning,2021-08,3
+deepmind/sonnet,Deep Learning,2021-09,2
+deepmind/sonnet,Deep Learning,2021-10,1
+deepmind/sonnet,Deep Learning,2021-11,1
+deepmind/sonnet,Deep Learning,2021-12,2
+deepmind/sonnet,Deep Learning,2022-02,1
+deepmind/sonnet,Deep Learning,2022-03,1
+deepmind/sonnet,Deep Learning,2022-08,2
+deepmind/sonnet,Deep Learning,2022-10,1
+deepmind/sonnet,Deep Learning,2022-11,1
+deepmind/sonnet,Deep Learning,2022-12,2
+deepmind/sonnet,Deep Learning,2023-02,3
+deepmind/sonnet,Deep Learning,2023-06,1
+deepmind/sonnet,Deep Learning,2023-07,1
+deepmind/sonnet,Deep Learning,2024-01,3
+deepmind/sonnet,Deep Learning,2024-04,2
+deepmind/sonnet,Deep Learning,2024-10,1
+deepmind/sonnet,Deep Learning,2024-11,1
+deepmind/sonnet,Deep Learning,2025-01,1
+deepmind/sonnet,Deep Learning,2025-02,2
+deepmind/sonnet,Deep Learning,2025-06,1
+deepmind/sonnet,Deep Learning,2025-07,1
+deepmind/sonnet,Deep Learning,2025-08,2
+deepmind/sonnet,Deep Learning,2026-01,1
+deepmind/sonnet,Deep Learning,2026-02,1
+deepmind/sonnet,Deep Learning,2026-05,1
+AUTOMATIC1111/stable-diffusion-webui,Deep Learning,2024-03,104
+AUTOMATIC1111/stable-diffusion-webui,Deep Learning,2024-04,116
+AUTOMATIC1111/stable-diffusion-webui,Deep Learning,2024-05,55
+AUTOMATIC1111/stable-diffusion-webui,Deep Learning,2024-06,130
+AUTOMATIC1111/stable-diffusion-webui,Deep Learning,2024-07,95
 huggingface/datasets,NLP,2024-04,18
 huggingface/datasets,NLP,2024-05,29
 huggingface/datasets,NLP,2024-06,41
@@ -262,6 +587,269 @@ allenai/allennlp,NLP,2022-08,2
 allenai/allennlp,NLP,2022-09,1
 allenai/allennlp,NLP,2022-10,4
 allenai/allennlp,NLP,2022-11,1
+langchain-ai/langchain,NLP,2026-02,22
+langchain-ai/langchain,NLP,2026-03,233
+langchain-ai/langchain,NLP,2026-04,201
+langchain-ai/langchain,NLP,2026-05,44
+deepset-ai/haystack,NLP,2026-01,4
+deepset-ai/haystack,NLP,2026-02,143
+deepset-ai/haystack,NLP,2026-03,193
+deepset-ai/haystack,NLP,2026-04,140
+deepset-ai/haystack,NLP,2026-05,20
+nltk/nltk,NLP,2023-12,1
+nltk/nltk,NLP,2024-08,56
+nltk/nltk,NLP,2024-09,5
+nltk/nltk,NLP,2024-10,2
+nltk/nltk,NLP,2024-11,3
+nltk/nltk,NLP,2024-12,5
+nltk/nltk,NLP,2025-02,20
+nltk/nltk,NLP,2025-03,23
+nltk/nltk,NLP,2025-05,17
+nltk/nltk,NLP,2025-06,2
+nltk/nltk,NLP,2025-07,9
+nltk/nltk,NLP,2025-08,15
+nltk/nltk,NLP,2025-09,22
+nltk/nltk,NLP,2025-10,12
+nltk/nltk,NLP,2025-11,42
+nltk/nltk,NLP,2025-12,61
+nltk/nltk,NLP,2026-01,13
+nltk/nltk,NLP,2026-02,14
+nltk/nltk,NLP,2026-03,136
+nltk/nltk,NLP,2026-04,41
+nltk/nltk,NLP,2026-05,1
+RaRe-Technologies/gensim,NLP,2021-03,47
+RaRe-Technologies/gensim,NLP,2021-04,19
+RaRe-Technologies/gensim,NLP,2021-05,43
+RaRe-Technologies/gensim,NLP,2021-06,13
+RaRe-Technologies/gensim,NLP,2021-07,11
+RaRe-Technologies/gensim,NLP,2021-08,19
+RaRe-Technologies/gensim,NLP,2021-09,37
+RaRe-Technologies/gensim,NLP,2021-10,8
+RaRe-Technologies/gensim,NLP,2021-11,1
+RaRe-Technologies/gensim,NLP,2021-12,11
+RaRe-Technologies/gensim,NLP,2022-01,4
+RaRe-Technologies/gensim,NLP,2022-02,8
+RaRe-Technologies/gensim,NLP,2022-03,26
+RaRe-Technologies/gensim,NLP,2022-04,33
+RaRe-Technologies/gensim,NLP,2022-05,9
+RaRe-Technologies/gensim,NLP,2022-08,8
+RaRe-Technologies/gensim,NLP,2022-09,1
+RaRe-Technologies/gensim,NLP,2022-10,1
+RaRe-Technologies/gensim,NLP,2022-11,2
+RaRe-Technologies/gensim,NLP,2022-12,34
+RaRe-Technologies/gensim,NLP,2023-02,1
+RaRe-Technologies/gensim,NLP,2023-03,31
+RaRe-Technologies/gensim,NLP,2023-04,7
+RaRe-Technologies/gensim,NLP,2023-05,3
+RaRe-Technologies/gensim,NLP,2023-08,37
+RaRe-Technologies/gensim,NLP,2023-10,3
+RaRe-Technologies/gensim,NLP,2024-02,3
+RaRe-Technologies/gensim,NLP,2024-04,3
+RaRe-Technologies/gensim,NLP,2024-05,2
+RaRe-Technologies/gensim,NLP,2024-06,10
+RaRe-Technologies/gensim,NLP,2024-07,6
+RaRe-Technologies/gensim,NLP,2024-08,2
+RaRe-Technologies/gensim,NLP,2024-11,6
+RaRe-Technologies/gensim,NLP,2024-12,1
+RaRe-Technologies/gensim,NLP,2025-02,1
+RaRe-Technologies/gensim,NLP,2025-04,6
+RaRe-Technologies/gensim,NLP,2025-06,14
+RaRe-Technologies/gensim,NLP,2025-07,11
+RaRe-Technologies/gensim,NLP,2025-08,5
+RaRe-Technologies/gensim,NLP,2025-10,13
+stanfordnlp/stanza,NLP,2023-09,2
+stanfordnlp/stanza,NLP,2023-10,1
+stanfordnlp/stanza,NLP,2023-12,1
+stanfordnlp/stanza,NLP,2024-01,4
+stanfordnlp/stanza,NLP,2024-05,5
+stanfordnlp/stanza,NLP,2024-07,27
+stanfordnlp/stanza,NLP,2024-08,53
+stanfordnlp/stanza,NLP,2024-09,29
+stanfordnlp/stanza,NLP,2024-10,29
+stanfordnlp/stanza,NLP,2024-11,39
+stanfordnlp/stanza,NLP,2024-12,30
+stanfordnlp/stanza,NLP,2025-01,17
+stanfordnlp/stanza,NLP,2025-02,15
+stanfordnlp/stanza,NLP,2025-03,31
+stanfordnlp/stanza,NLP,2025-04,27
+stanfordnlp/stanza,NLP,2025-05,24
+stanfordnlp/stanza,NLP,2025-06,15
+stanfordnlp/stanza,NLP,2025-07,5
+stanfordnlp/stanza,NLP,2025-08,11
+stanfordnlp/stanza,NLP,2025-09,34
+stanfordnlp/stanza,NLP,2025-10,19
+stanfordnlp/stanza,NLP,2025-11,16
+stanfordnlp/stanza,NLP,2025-12,16
+stanfordnlp/stanza,NLP,2026-01,10
+stanfordnlp/stanza,NLP,2026-02,40
+flairNLP/flair,NLP,2024-01,1
+flairNLP/flair,NLP,2024-07,4
+flairNLP/flair,NLP,2024-08,219
+flairNLP/flair,NLP,2024-09,14
+flairNLP/flair,NLP,2024-10,5
+flairNLP/flair,NLP,2024-11,17
+flairNLP/flair,NLP,2024-12,68
+flairNLP/flair,NLP,2025-01,50
+flairNLP/flair,NLP,2025-02,17
+flairNLP/flair,NLP,2025-03,73
+flairNLP/flair,NLP,2025-04,7
+flairNLP/flair,NLP,2025-06,25
+facebookresearch/ParlAI,NLP,2021-07,6
+facebookresearch/ParlAI,NLP,2021-08,34
+facebookresearch/ParlAI,NLP,2021-09,29
+facebookresearch/ParlAI,NLP,2021-10,29
+facebookresearch/ParlAI,NLP,2021-11,29
+facebookresearch/ParlAI,NLP,2021-12,38
+facebookresearch/ParlAI,NLP,2022-01,27
+facebookresearch/ParlAI,NLP,2022-02,20
+facebookresearch/ParlAI,NLP,2022-03,43
+facebookresearch/ParlAI,NLP,2022-04,21
+facebookresearch/ParlAI,NLP,2022-05,19
+facebookresearch/ParlAI,NLP,2022-06,20
+facebookresearch/ParlAI,NLP,2022-07,23
+facebookresearch/ParlAI,NLP,2022-08,43
+facebookresearch/ParlAI,NLP,2022-09,11
+facebookresearch/ParlAI,NLP,2022-10,6
+facebookresearch/ParlAI,NLP,2022-11,25
+facebookresearch/ParlAI,NLP,2022-12,9
+facebookresearch/ParlAI,NLP,2023-01,3
+facebookresearch/ParlAI,NLP,2023-02,8
+facebookresearch/ParlAI,NLP,2023-03,7
+facebookresearch/ParlAI,NLP,2023-04,9
+facebookresearch/ParlAI,NLP,2023-05,10
+facebookresearch/ParlAI,NLP,2023-06,15
+facebookresearch/ParlAI,NLP,2023-07,1
+facebookresearch/ParlAI,NLP,2023-08,5
+facebookresearch/ParlAI,NLP,2023-09,4
+facebookresearch/ParlAI,NLP,2023-10,5
+facebookresearch/ParlAI,NLP,2023-11,1
+google-research/bert,NLP,2018-10,10
+google-research/bert,NLP,2018-11,74
+google-research/bert,NLP,2018-12,13
+google-research/bert,NLP,2019-02,6
+google-research/bert,NLP,2019-03,2
+google-research/bert,NLP,2019-05,1
+google-research/bert,NLP,2019-07,2
+google-research/bert,NLP,2019-10,1
+google-research/bert,NLP,2020-03,2
+huggingface/peft,NLP,2024-12,12
+huggingface/peft,NLP,2025-01,35
+huggingface/peft,NLP,2025-02,16
+huggingface/peft,NLP,2025-03,28
+huggingface/peft,NLP,2025-04,32
+huggingface/peft,NLP,2025-05,11
+huggingface/peft,NLP,2025-06,34
+huggingface/peft,NLP,2025-07,31
+huggingface/peft,NLP,2025-08,54
+huggingface/peft,NLP,2025-09,27
+huggingface/peft,NLP,2025-10,40
+huggingface/peft,NLP,2025-11,25
+huggingface/peft,NLP,2025-12,16
+huggingface/peft,NLP,2026-01,31
+huggingface/peft,NLP,2026-02,26
+huggingface/peft,NLP,2026-03,26
+huggingface/peft,NLP,2026-04,49
+huggingface/peft,NLP,2026-05,7
+microsoft/promptflow,NLP,2024-04,103
+microsoft/promptflow,NLP,2024-05,199
+microsoft/promptflow,NLP,2024-06,46
+microsoft/promptflow,NLP,2024-07,46
+microsoft/promptflow,NLP,2024-08,32
+microsoft/promptflow,NLP,2024-09,14
+microsoft/promptflow,NLP,2024-10,3
+microsoft/promptflow,NLP,2024-11,6
+microsoft/promptflow,NLP,2024-12,3
+microsoft/promptflow,NLP,2025-01,8
+microsoft/promptflow,NLP,2025-02,4
+microsoft/promptflow,NLP,2025-03,1
+microsoft/promptflow,NLP,2025-04,2
+microsoft/promptflow,NLP,2025-05,3
+microsoft/promptflow,NLP,2025-06,6
+microsoft/promptflow,NLP,2025-07,2
+microsoft/promptflow,NLP,2025-08,2
+microsoft/promptflow,NLP,2025-09,2
+microsoft/promptflow,NLP,2025-10,3
+microsoft/promptflow,NLP,2025-11,2
+microsoft/promptflow,NLP,2025-12,3
+microsoft/promptflow,NLP,2026-02,1
+microsoft/promptflow,NLP,2026-03,2
+microsoft/promptflow,NLP,2026-04,5
+microsoft/promptflow,NLP,2026-05,2
+guidance-ai/guidance,NLP,2024-05,96
+guidance-ai/guidance,NLP,2024-06,24
+guidance-ai/guidance,NLP,2024-07,33
+guidance-ai/guidance,NLP,2024-08,23
+guidance-ai/guidance,NLP,2024-09,19
+guidance-ai/guidance,NLP,2024-10,10
+guidance-ai/guidance,NLP,2024-11,16
+guidance-ai/guidance,NLP,2024-12,7
+guidance-ai/guidance,NLP,2025-01,13
+guidance-ai/guidance,NLP,2025-02,40
+guidance-ai/guidance,NLP,2025-03,37
+guidance-ai/guidance,NLP,2025-04,4
+guidance-ai/guidance,NLP,2025-05,35
+guidance-ai/guidance,NLP,2025-06,46
+guidance-ai/guidance,NLP,2025-07,34
+guidance-ai/guidance,NLP,2025-08,18
+guidance-ai/guidance,NLP,2025-09,15
+guidance-ai/guidance,NLP,2025-10,2
+guidance-ai/guidance,NLP,2025-11,4
+guidance-ai/guidance,NLP,2025-12,2
+guidance-ai/guidance,NLP,2026-01,7
+guidance-ai/guidance,NLP,2026-02,5
+guidance-ai/guidance,NLP,2026-03,8
+guidance-ai/guidance,NLP,2026-04,1
+guidance-ai/guidance,NLP,2026-05,1
+run-llama/llama_index,NLP,2025-11,43
+run-llama/llama_index,NLP,2025-12,55
+run-llama/llama_index,NLP,2026-01,83
+run-llama/llama_index,NLP,2026-02,117
+run-llama/llama_index,NLP,2026-03,142
+run-llama/llama_index,NLP,2026-04,55
+run-llama/llama_index,NLP,2026-05,5
+openai/tiktoken,NLP,2022-12,5
+openai/tiktoken,NLP,2023-01,3
+openai/tiktoken,NLP,2023-02,4
+openai/tiktoken,NLP,2023-03,7
+openai/tiktoken,NLP,2023-04,2
+openai/tiktoken,NLP,2023-05,1
+openai/tiktoken,NLP,2023-06,4
+openai/tiktoken,NLP,2023-09,4
+openai/tiktoken,NLP,2023-12,2
+openai/tiktoken,NLP,2024-01,5
+openai/tiktoken,NLP,2024-02,7
+openai/tiktoken,NLP,2024-05,3
+openai/tiktoken,NLP,2024-10,4
+openai/tiktoken,NLP,2025-02,6
+openai/tiktoken,NLP,2025-03,1
+openai/tiktoken,NLP,2025-08,4
+openai/tiktoken,NLP,2025-09,4
+openai/tiktoken,NLP,2025-10,1
+openai/tiktoken,NLP,2026-02,2
+openai/tiktoken,NLP,2026-03,1
+BerriAI/litellm,NLP,2026-03,12
+BerriAI/litellm,NLP,2026-04,25
+BerriAI/litellm,NLP,2026-05,463
+openai/openai-python,NLP,2025-03,27
+openai/openai-python,NLP,2025-04,52
+openai/openai-python,NLP,2025-05,26
+openai/openai-python,NLP,2025-06,31
+openai/openai-python,NLP,2025-07,39
+openai/openai-python,NLP,2025-08,55
+openai/openai-python,NLP,2025-09,39
+openai/openai-python,NLP,2025-10,32
+openai/openai-python,NLP,2025-11,15
+openai/openai-python,NLP,2025-12,28
+openai/openai-python,NLP,2026-01,21
+openai/openai-python,NLP,2026-02,35
+openai/openai-python,NLP,2026-03,35
+openai/openai-python,NLP,2026-04,42
+openai/openai-python,NLP,2026-05,23
+huggingface/trl,NLP,2026-01,16
+huggingface/trl,NLP,2026-02,178
+huggingface/trl,NLP,2026-03,123
+huggingface/trl,NLP,2026-04,158
+huggingface/trl,NLP,2026-05,25
 facebookresearch/detectron2,Computer Vision,2021-03,15
 facebookresearch/detectron2,Computer Vision,2021-04,50
 facebookresearch/detectron2,Computer Vision,2021-05,35
@@ -396,6 +984,254 @@ rwightman/pytorch-image-models,Computer Vision,2026-01,16
 rwightman/pytorch-image-models,Computer Vision,2026-02,8
 rwightman/pytorch-image-models,Computer Vision,2026-03,13
 rwightman/pytorch-image-models,Computer Vision,2026-04,33
+ultralytics/ultralytics,Computer Vision,2026-01,124
+ultralytics/ultralytics,Computer Vision,2026-02,87
+ultralytics/ultralytics,Computer Vision,2026-03,134
+ultralytics/ultralytics,Computer Vision,2026-04,144
+ultralytics/ultralytics,Computer Vision,2026-05,11
+facebookresearch/segment-anything,Computer Vision,2023-04,45
+facebookresearch/segment-anything,Computer Vision,2023-05,1
+facebookresearch/segment-anything,Computer Vision,2024-09,3
+openai/CLIP,Computer Vision,2020-12,1
+openai/CLIP,Computer Vision,2021-01,9
+openai/CLIP,Computer Vision,2021-02,2
+openai/CLIP,Computer Vision,2021-03,5
+openai/CLIP,Computer Vision,2021-04,1
+openai/CLIP,Computer Vision,2021-07,6
+openai/CLIP,Computer Vision,2021-08,6
+openai/CLIP,Computer Vision,2021-09,5
+openai/CLIP,Computer Vision,2021-10,1
+openai/CLIP,Computer Vision,2021-11,4
+openai/CLIP,Computer Vision,2022-01,2
+openai/CLIP,Computer Vision,2022-04,5
+openai/CLIP,Computer Vision,2022-05,1
+openai/CLIP,Computer Vision,2022-07,4
+openai/CLIP,Computer Vision,2023-01,1
+openai/CLIP,Computer Vision,2023-02,1
+openai/CLIP,Computer Vision,2023-07,1
+openai/CLIP,Computer Vision,2024-06,1
+openai/CLIP,Computer Vision,2026-02,1
+openai/CLIP,Computer Vision,2026-03,1
+facebookresearch/dinov2,Computer Vision,2023-04,9
+facebookresearch/dinov2,Computer Vision,2023-08,13
+facebookresearch/dinov2,Computer Vision,2023-09,5
+facebookresearch/dinov2,Computer Vision,2023-10,5
+facebookresearch/dinov2,Computer Vision,2023-12,1
+facebookresearch/dinov2,Computer Vision,2024-02,1
+facebookresearch/dinov2,Computer Vision,2024-10,2
+facebookresearch/dinov2,Computer Vision,2025-05,2
+facebookresearch/dinov2,Computer Vision,2025-06,3
+facebookresearch/dinov2,Computer Vision,2025-08,1
+facebookresearch/dinov2,Computer Vision,2025-12,5
+facebookresearch/dinov2,Computer Vision,2026-02,2
+pytorch/vision,Computer Vision,2023-10,21
+pytorch/vision,Computer Vision,2023-11,17
+pytorch/vision,Computer Vision,2023-12,23
+pytorch/vision,Computer Vision,2024-01,17
+pytorch/vision,Computer Vision,2024-02,10
+pytorch/vision,Computer Vision,2024-03,35
+pytorch/vision,Computer Vision,2024-04,9
+pytorch/vision,Computer Vision,2024-05,24
+pytorch/vision,Computer Vision,2024-06,20
+pytorch/vision,Computer Vision,2024-07,26
+pytorch/vision,Computer Vision,2024-08,23
+pytorch/vision,Computer Vision,2024-09,10
+pytorch/vision,Computer Vision,2024-10,10
+pytorch/vision,Computer Vision,2024-11,19
+pytorch/vision,Computer Vision,2024-12,10
+pytorch/vision,Computer Vision,2025-01,6
+pytorch/vision,Computer Vision,2025-02,28
+pytorch/vision,Computer Vision,2025-03,26
+pytorch/vision,Computer Vision,2025-04,11
+pytorch/vision,Computer Vision,2025-05,9
+pytorch/vision,Computer Vision,2025-06,19
+pytorch/vision,Computer Vision,2025-07,13
+pytorch/vision,Computer Vision,2025-08,15
+pytorch/vision,Computer Vision,2025-09,12
+pytorch/vision,Computer Vision,2025-10,7
+pytorch/vision,Computer Vision,2025-11,8
+pytorch/vision,Computer Vision,2025-12,4
+pytorch/vision,Computer Vision,2026-01,15
+pytorch/vision,Computer Vision,2026-02,22
+pytorch/vision,Computer Vision,2026-03,22
+pytorch/vision,Computer Vision,2026-04,9
+albumentations-team/albumentations,Computer Vision,2024-04,34
+albumentations-team/albumentations,Computer Vision,2024-05,30
+albumentations-team/albumentations,Computer Vision,2024-06,32
+albumentations-team/albumentations,Computer Vision,2024-07,23
+albumentations-team/albumentations,Computer Vision,2024-08,26
+albumentations-team/albumentations,Computer Vision,2024-09,26
+albumentations-team/albumentations,Computer Vision,2024-10,55
+albumentations-team/albumentations,Computer Vision,2024-11,52
+albumentations-team/albumentations,Computer Vision,2024-12,36
+albumentations-team/albumentations,Computer Vision,2025-01,74
+albumentations-team/albumentations,Computer Vision,2025-02,38
+albumentations-team/albumentations,Computer Vision,2025-03,24
+albumentations-team/albumentations,Computer Vision,2025-04,14
+albumentations-team/albumentations,Computer Vision,2025-05,21
+albumentations-team/albumentations,Computer Vision,2025-06,15
+facebookresearch/detr,Computer Vision,2020-05,9
+facebookresearch/detr,Computer Vision,2020-06,16
+facebookresearch/detr,Computer Vision,2020-07,4
+facebookresearch/detr,Computer Vision,2020-08,6
+facebookresearch/detr,Computer Vision,2020-09,5
+facebookresearch/detr,Computer Vision,2020-11,1
+facebookresearch/detr,Computer Vision,2021-06,1
+facebookresearch/detr,Computer Vision,2021-09,1
+facebookresearch/detr,Computer Vision,2021-10,2
+facebookresearch/detr,Computer Vision,2022-03,1
+facebookresearch/detr,Computer Vision,2023-02,1
+facebookresearch/detr,Computer Vision,2024-03,1
+huggingface/diffusers,Computer Vision,2025-11,61
+huggingface/diffusers,Computer Vision,2025-12,61
+huggingface/diffusers,Computer Vision,2026-01,117
+huggingface/diffusers,Computer Vision,2026-02,74
+huggingface/diffusers,Computer Vision,2026-03,91
+huggingface/diffusers,Computer Vision,2026-04,82
+huggingface/diffusers,Computer Vision,2026-05,14
+open-mmlab/mmsegmentation,Computer Vision,2022-06,40
+open-mmlab/mmsegmentation,Computer Vision,2022-07,39
+open-mmlab/mmsegmentation,Computer Vision,2022-08,45
+open-mmlab/mmsegmentation,Computer Vision,2022-09,27
+open-mmlab/mmsegmentation,Computer Vision,2022-10,22
+open-mmlab/mmsegmentation,Computer Vision,2022-11,59
+open-mmlab/mmsegmentation,Computer Vision,2022-12,27
+open-mmlab/mmsegmentation,Computer Vision,2023-01,27
+open-mmlab/mmsegmentation,Computer Vision,2023-02,25
+open-mmlab/mmsegmentation,Computer Vision,2023-03,39
+open-mmlab/mmsegmentation,Computer Vision,2023-04,28
+open-mmlab/mmsegmentation,Computer Vision,2023-05,16
+open-mmlab/mmsegmentation,Computer Vision,2023-06,39
+open-mmlab/mmsegmentation,Computer Vision,2023-07,12
+open-mmlab/mmsegmentation,Computer Vision,2023-08,16
+open-mmlab/mmsegmentation,Computer Vision,2023-09,14
+open-mmlab/mmsegmentation,Computer Vision,2023-10,7
+open-mmlab/mmsegmentation,Computer Vision,2023-12,5
+open-mmlab/mmsegmentation,Computer Vision,2024-01,7
+open-mmlab/mmsegmentation,Computer Vision,2024-03,6
+open-mmlab/mmpose,Computer Vision,2022-03,5
+open-mmlab/mmpose,Computer Vision,2022-04,21
+open-mmlab/mmpose,Computer Vision,2022-05,15
+open-mmlab/mmpose,Computer Vision,2022-06,42
+open-mmlab/mmpose,Computer Vision,2022-07,12
+open-mmlab/mmpose,Computer Vision,2022-08,41
+open-mmlab/mmpose,Computer Vision,2022-09,39
+open-mmlab/mmpose,Computer Vision,2022-10,16
+open-mmlab/mmpose,Computer Vision,2022-11,10
+open-mmlab/mmpose,Computer Vision,2022-12,15
+open-mmlab/mmpose,Computer Vision,2023-01,4
+open-mmlab/mmpose,Computer Vision,2023-02,17
+open-mmlab/mmpose,Computer Vision,2023-03,59
+open-mmlab/mmpose,Computer Vision,2023-04,60
+open-mmlab/mmpose,Computer Vision,2023-05,19
+open-mmlab/mmpose,Computer Vision,2023-06,33
+open-mmlab/mmpose,Computer Vision,2023-07,9
+open-mmlab/mmpose,Computer Vision,2023-10,5
+open-mmlab/mmpose,Computer Vision,2023-11,5
+open-mmlab/mmpose,Computer Vision,2023-12,19
+open-mmlab/mmpose,Computer Vision,2024-01,8
+open-mmlab/mmpose,Computer Vision,2024-02,2
+open-mmlab/mmpose,Computer Vision,2024-03,7
+open-mmlab/mmpose,Computer Vision,2024-04,16
+open-mmlab/mmpose,Computer Vision,2024-05,6
+open-mmlab/mmpose,Computer Vision,2024-06,4
+open-mmlab/mmpose,Computer Vision,2024-07,7
+open-mmlab/mmpose,Computer Vision,2024-08,1
+open-mmlab/mmpose,Computer Vision,2025-08,3
+roboflow/supervision,Computer Vision,2025-07,131
+roboflow/supervision,Computer Vision,2025-08,26
+roboflow/supervision,Computer Vision,2025-09,4
+roboflow/supervision,Computer Vision,2025-10,6
+roboflow/supervision,Computer Vision,2025-11,81
+roboflow/supervision,Computer Vision,2026-01,72
+roboflow/supervision,Computer Vision,2026-02,101
+roboflow/supervision,Computer Vision,2026-03,34
+roboflow/supervision,Computer Vision,2026-04,45
+CompVis/latent-diffusion,Computer Vision,2021-12,6
+CompVis/latent-diffusion,Computer Vision,2022-01,3
+CompVis/latent-diffusion,Computer Vision,2022-02,1
+CompVis/latent-diffusion,Computer Vision,2022-04,18
+CompVis/latent-diffusion,Computer Vision,2022-07,12
+IDEA-Research/GroundingDINO,Computer Vision,2023-03,17
+IDEA-Research/GroundingDINO,Computer Vision,2023-04,23
+IDEA-Research/GroundingDINO,Computer Vision,2023-05,12
+IDEA-Research/GroundingDINO,Computer Vision,2023-06,11
+IDEA-Research/GroundingDINO,Computer Vision,2023-07,3
+IDEA-Research/GroundingDINO,Computer Vision,2023-11,4
+IDEA-Research/GroundingDINO,Computer Vision,2023-12,2
+IDEA-Research/GroundingDINO,Computer Vision,2024-02,1
+IDEA-Research/GroundingDINO,Computer Vision,2024-03,1
+IDEA-Research/GroundingDINO,Computer Vision,2024-04,2
+IDEA-Research/GroundingDINO,Computer Vision,2024-05,2
+IDEA-Research/GroundingDINO,Computer Vision,2024-06,1
+IDEA-Research/GroundingDINO,Computer Vision,2024-07,4
+IDEA-Research/GroundingDINO,Computer Vision,2024-08,1
+google-research/vision_transformer,Computer Vision,2020-05,15
+google-research/vision_transformer,Computer Vision,2020-07,1
+google-research/vision_transformer,Computer Vision,2020-08,1
+google-research/vision_transformer,Computer Vision,2020-10,9
+google-research/vision_transformer,Computer Vision,2020-11,17
+google-research/vision_transformer,Computer Vision,2020-12,8
+google-research/vision_transformer,Computer Vision,2021-01,2
+google-research/vision_transformer,Computer Vision,2021-03,1
+google-research/vision_transformer,Computer Vision,2021-04,4
+google-research/vision_transformer,Computer Vision,2021-05,14
+google-research/vision_transformer,Computer Vision,2021-06,20
+google-research/vision_transformer,Computer Vision,2021-07,17
+google-research/vision_transformer,Computer Vision,2021-09,13
+google-research/vision_transformer,Computer Vision,2021-10,2
+google-research/vision_transformer,Computer Vision,2021-12,3
+google-research/vision_transformer,Computer Vision,2022-02,1
+google-research/vision_transformer,Computer Vision,2022-03,1
+google-research/vision_transformer,Computer Vision,2022-04,29
+google-research/vision_transformer,Computer Vision,2022-06,6
+google-research/vision_transformer,Computer Vision,2022-07,14
+google-research/vision_transformer,Computer Vision,2022-08,5
+google-research/vision_transformer,Computer Vision,2022-09,4
+google-research/vision_transformer,Computer Vision,2022-10,6
+google-research/vision_transformer,Computer Vision,2022-11,1
+google-research/vision_transformer,Computer Vision,2022-12,1
+google-research/vision_transformer,Computer Vision,2023-01,1
+google-research/vision_transformer,Computer Vision,2023-02,4
+google-research/vision_transformer,Computer Vision,2023-04,1
+google-research/vision_transformer,Computer Vision,2023-05,3
+google-research/vision_transformer,Computer Vision,2023-06,1
+google-research/vision_transformer,Computer Vision,2023-07,2
+google-research/vision_transformer,Computer Vision,2023-11,2
+google-research/vision_transformer,Computer Vision,2024-01,1
+google-research/vision_transformer,Computer Vision,2024-02,2
+google-research/vision_transformer,Computer Vision,2024-03,1
+google-research/vision_transformer,Computer Vision,2024-05,1
+google-research/vision_transformer,Computer Vision,2026-01,1
+aleju/imgaug,Computer Vision,2019-10,206
+aleju/imgaug,Computer Vision,2019-11,100
+aleju/imgaug,Computer Vision,2019-12,36
+aleju/imgaug,Computer Vision,2020-01,110
+aleju/imgaug,Computer Vision,2020-02,10
+aleju/imgaug,Computer Vision,2020-04,10
+aleju/imgaug,Computer Vision,2020-05,25
+aleju/imgaug,Computer Vision,2020-06,3
+keras-team/keras-cv,Computer Vision,2023-01,8
+keras-team/keras-cv,Computer Vision,2023-02,33
+keras-team/keras-cv,Computer Vision,2023-03,95
+keras-team/keras-cv,Computer Vision,2023-04,39
+keras-team/keras-cv,Computer Vision,2023-05,58
+keras-team/keras-cv,Computer Vision,2023-06,29
+keras-team/keras-cv,Computer Vision,2023-07,39
+keras-team/keras-cv,Computer Vision,2023-08,23
+keras-team/keras-cv,Computer Vision,2023-09,29
+keras-team/keras-cv,Computer Vision,2023-10,11
+keras-team/keras-cv,Computer Vision,2023-11,25
+keras-team/keras-cv,Computer Vision,2023-12,35
+keras-team/keras-cv,Computer Vision,2024-01,27
+keras-team/keras-cv,Computer Vision,2024-02,19
+keras-team/keras-cv,Computer Vision,2024-03,10
+keras-team/keras-cv,Computer Vision,2024-04,8
+keras-team/keras-cv,Computer Vision,2024-05,3
+keras-team/keras-cv,Computer Vision,2024-08,4
+keras-team/keras-cv,Computer Vision,2024-09,2
+keras-team/keras-cv,Computer Vision,2024-10,1
+keras-team/keras-cv,Computer Vision,2024-11,2
 mlflow/mlflow,MLOps,2026-03,10
 mlflow/mlflow,MLOps,2026-04,472
 mlflow/mlflow,MLOps,2026-05,18
@@ -454,6 +1290,265 @@ bentoml/BentoML,MLOps,2026-02,10
 bentoml/BentoML,MLOps,2026-03,12
 bentoml/BentoML,MLOps,2026-04,11
 bentoml/BentoML,MLOps,2026-05,1
+wandb/wandb,MLOps,2025-12,29
+wandb/wandb,MLOps,2026-01,105
+wandb/wandb,MLOps,2026-02,97
+wandb/wandb,MLOps,2026-03,136
+wandb/wandb,MLOps,2026-04,119
+wandb/wandb,MLOps,2026-05,14
+allegroai/clearml,MLOps,2023-11,20
+allegroai/clearml,MLOps,2023-12,15
+allegroai/clearml,MLOps,2024-01,24
+allegroai/clearml,MLOps,2024-02,22
+allegroai/clearml,MLOps,2024-03,25
+allegroai/clearml,MLOps,2024-04,11
+allegroai/clearml,MLOps,2024-05,22
+allegroai/clearml,MLOps,2024-06,12
+allegroai/clearml,MLOps,2024-07,26
+allegroai/clearml,MLOps,2024-08,14
+allegroai/clearml,MLOps,2024-09,10
+allegroai/clearml,MLOps,2024-10,9
+allegroai/clearml,MLOps,2024-11,9
+allegroai/clearml,MLOps,2024-12,13
+allegroai/clearml,MLOps,2025-01,14
+allegroai/clearml,MLOps,2025-02,10
+allegroai/clearml,MLOps,2025-03,12
+allegroai/clearml,MLOps,2025-04,20
+allegroai/clearml,MLOps,2025-05,12
+allegroai/clearml,MLOps,2025-06,10
+allegroai/clearml,MLOps,2025-07,10
+allegroai/clearml,MLOps,2025-08,9
+allegroai/clearml,MLOps,2025-09,7
+allegroai/clearml,MLOps,2025-10,11
+allegroai/clearml,MLOps,2025-11,12
+allegroai/clearml,MLOps,2025-12,11
+allegroai/clearml,MLOps,2026-01,13
+allegroai/clearml,MLOps,2026-02,25
+allegroai/clearml,MLOps,2026-03,50
+allegroai/clearml,MLOps,2026-04,32
+allegroai/clearml,MLOps,2026-05,10
+zenml-io/zenml,MLOps,2025-09,39
+zenml-io/zenml,MLOps,2025-10,61
+zenml-io/zenml,MLOps,2025-11,86
+zenml-io/zenml,MLOps,2025-12,74
+zenml-io/zenml,MLOps,2026-01,59
+zenml-io/zenml,MLOps,2026-02,65
+zenml-io/zenml,MLOps,2026-03,65
+zenml-io/zenml,MLOps,2026-04,51
+feast-dev/feast,MLOps,2025-04,1
+feast-dev/feast,MLOps,2025-05,15
+feast-dev/feast,MLOps,2025-06,47
+feast-dev/feast,MLOps,2025-07,55
+feast-dev/feast,MLOps,2025-08,21
+feast-dev/feast,MLOps,2025-09,26
+feast-dev/feast,MLOps,2025-10,38
+feast-dev/feast,MLOps,2025-11,18
+feast-dev/feast,MLOps,2025-12,33
+feast-dev/feast,MLOps,2026-01,54
+feast-dev/feast,MLOps,2026-02,39
+feast-dev/feast,MLOps,2026-03,67
+feast-dev/feast,MLOps,2026-04,66
+feast-dev/feast,MLOps,2026-05,20
+netflix/metaflow,MLOps,2024-11,15
+netflix/metaflow,MLOps,2024-12,32
+netflix/metaflow,MLOps,2025-01,36
+netflix/metaflow,MLOps,2025-02,43
+netflix/metaflow,MLOps,2025-03,33
+netflix/metaflow,MLOps,2025-04,21
+netflix/metaflow,MLOps,2025-05,32
+netflix/metaflow,MLOps,2025-06,18
+netflix/metaflow,MLOps,2025-07,41
+netflix/metaflow,MLOps,2025-08,34
+netflix/metaflow,MLOps,2025-09,25
+netflix/metaflow,MLOps,2025-10,35
+netflix/metaflow,MLOps,2025-11,32
+netflix/metaflow,MLOps,2025-12,14
+netflix/metaflow,MLOps,2026-01,15
+netflix/metaflow,MLOps,2026-02,29
+netflix/metaflow,MLOps,2026-03,9
+netflix/metaflow,MLOps,2026-04,24
+netflix/metaflow,MLOps,2026-05,12
+apache/airflow,MLOps,2026-04,364
+apache/airflow,MLOps,2026-05,136
+ray-project/ray,MLOps,2026-03,5
+ray-project/ray,MLOps,2026-04,424
+ray-project/ray,MLOps,2026-05,71
+kubeflow/pipelines,MLOps,2025-09,24
+kubeflow/pipelines,MLOps,2025-10,57
+kubeflow/pipelines,MLOps,2025-11,40
+kubeflow/pipelines,MLOps,2025-12,43
+kubeflow/pipelines,MLOps,2026-01,39
+kubeflow/pipelines,MLOps,2026-02,85
+kubeflow/pipelines,MLOps,2026-03,126
+kubeflow/pipelines,MLOps,2026-04,79
+kubeflow/pipelines,MLOps,2026-05,7
+tensorflow/serving,MLOps,2024-09,42
+tensorflow/serving,MLOps,2024-10,65
+tensorflow/serving,MLOps,2024-11,10
+tensorflow/serving,MLOps,2024-12,3
+tensorflow/serving,MLOps,2025-01,10
+tensorflow/serving,MLOps,2025-02,77
+tensorflow/serving,MLOps,2025-03,69
+tensorflow/serving,MLOps,2025-04,94
+tensorflow/serving,MLOps,2025-05,70
+tensorflow/serving,MLOps,2025-06,5
+tensorflow/serving,MLOps,2025-07,10
+tensorflow/serving,MLOps,2025-08,10
+tensorflow/serving,MLOps,2025-09,12
+tensorflow/serving,MLOps,2025-10,3
+tensorflow/serving,MLOps,2025-11,2
+tensorflow/serving,MLOps,2025-12,1
+tensorflow/serving,MLOps,2026-04,13
+tensorflow/serving,MLOps,2026-05,4
+evidentlyai/evidently,MLOps,2024-10,85
+evidentlyai/evidently,MLOps,2024-11,8
+evidentlyai/evidently,MLOps,2024-12,18
+evidentlyai/evidently,MLOps,2025-01,62
+evidentlyai/evidently,MLOps,2025-02,42
+evidentlyai/evidently,MLOps,2025-03,17
+evidentlyai/evidently,MLOps,2025-04,46
+evidentlyai/evidently,MLOps,2025-05,39
+evidentlyai/evidently,MLOps,2025-06,23
+evidentlyai/evidently,MLOps,2025-07,29
+evidentlyai/evidently,MLOps,2025-08,27
+evidentlyai/evidently,MLOps,2025-09,9
+evidentlyai/evidently,MLOps,2025-10,13
+evidentlyai/evidently,MLOps,2025-11,14
+evidentlyai/evidently,MLOps,2025-12,33
+evidentlyai/evidently,MLOps,2026-01,10
+evidentlyai/evidently,MLOps,2026-02,16
+evidentlyai/evidently,MLOps,2026-03,4
+evidentlyai/evidently,MLOps,2026-05,5
+whylabs/whylogs,MLOps,2022-09,4
+whylabs/whylogs,MLOps,2022-10,27
+whylabs/whylogs,MLOps,2022-11,35
+whylabs/whylogs,MLOps,2022-12,22
+whylabs/whylogs,MLOps,2023-01,28
+whylabs/whylogs,MLOps,2023-02,24
+whylabs/whylogs,MLOps,2023-03,40
+whylabs/whylogs,MLOps,2023-04,37
+whylabs/whylogs,MLOps,2023-05,19
+whylabs/whylogs,MLOps,2023-06,23
+whylabs/whylogs,MLOps,2023-07,23
+whylabs/whylogs,MLOps,2023-08,25
+whylabs/whylogs,MLOps,2023-09,16
+whylabs/whylogs,MLOps,2023-10,27
+whylabs/whylogs,MLOps,2023-11,19
+whylabs/whylogs,MLOps,2023-12,9
+whylabs/whylogs,MLOps,2024-01,16
+whylabs/whylogs,MLOps,2024-02,10
+whylabs/whylogs,MLOps,2024-03,18
+whylabs/whylogs,MLOps,2024-04,9
+whylabs/whylogs,MLOps,2024-05,15
+whylabs/whylogs,MLOps,2024-06,6
+whylabs/whylogs,MLOps,2024-07,11
+whylabs/whylogs,MLOps,2024-08,4
+whylabs/whylogs,MLOps,2024-09,10
+whylabs/whylogs,MLOps,2024-10,10
+whylabs/whylogs,MLOps,2024-11,8
+whylabs/whylogs,MLOps,2024-12,3
+whylabs/whylogs,MLOps,2025-01,2
+kedro-org/kedro,MLOps,2025-03,7
+kedro-org/kedro,MLOps,2025-04,64
+kedro-org/kedro,MLOps,2025-05,71
+kedro-org/kedro,MLOps,2025-06,75
+kedro-org/kedro,MLOps,2025-07,118
+kedro-org/kedro,MLOps,2025-08,14
+kedro-org/kedro,MLOps,2025-09,11
+kedro-org/kedro,MLOps,2025-10,15
+kedro-org/kedro,MLOps,2025-11,16
+kedro-org/kedro,MLOps,2025-12,25
+kedro-org/kedro,MLOps,2026-01,24
+kedro-org/kedro,MLOps,2026-02,15
+kedro-org/kedro,MLOps,2026-03,22
+kedro-org/kedro,MLOps,2026-04,18
+kedro-org/kedro,MLOps,2026-05,5
+great-expectations/great_expectations,MLOps,2025-05,51
+great-expectations/great_expectations,MLOps,2025-06,37
+great-expectations/great_expectations,MLOps,2025-07,33
+great-expectations/great_expectations,MLOps,2025-08,21
+great-expectations/great_expectations,MLOps,2025-09,32
+great-expectations/great_expectations,MLOps,2025-10,73
+great-expectations/great_expectations,MLOps,2025-11,29
+great-expectations/great_expectations,MLOps,2025-12,33
+great-expectations/great_expectations,MLOps,2026-01,28
+great-expectations/great_expectations,MLOps,2026-02,47
+great-expectations/great_expectations,MLOps,2026-03,36
+great-expectations/great_expectations,MLOps,2026-04,74
+great-expectations/great_expectations,MLOps,2026-05,6
+SeldonIO/seldon-core,MLOps,2024-03,7
+SeldonIO/seldon-core,MLOps,2024-04,17
+SeldonIO/seldon-core,MLOps,2024-05,38
+SeldonIO/seldon-core,MLOps,2024-06,26
+SeldonIO/seldon-core,MLOps,2024-07,38
+SeldonIO/seldon-core,MLOps,2024-08,5
+SeldonIO/seldon-core,MLOps,2024-09,33
+SeldonIO/seldon-core,MLOps,2024-10,30
+SeldonIO/seldon-core,MLOps,2024-11,47
+SeldonIO/seldon-core,MLOps,2024-12,27
+SeldonIO/seldon-core,MLOps,2025-01,12
+SeldonIO/seldon-core,MLOps,2025-02,25
+SeldonIO/seldon-core,MLOps,2025-03,26
+SeldonIO/seldon-core,MLOps,2025-04,10
+SeldonIO/seldon-core,MLOps,2025-05,13
+SeldonIO/seldon-core,MLOps,2025-06,15
+SeldonIO/seldon-core,MLOps,2025-07,24
+SeldonIO/seldon-core,MLOps,2025-08,10
+SeldonIO/seldon-core,MLOps,2025-09,29
+SeldonIO/seldon-core,MLOps,2025-10,25
+SeldonIO/seldon-core,MLOps,2025-11,15
+SeldonIO/seldon-core,MLOps,2025-12,21
+SeldonIO/seldon-core,MLOps,2026-01,7
+apache/flink,MLOps,2024-03,1
+apache/flink,MLOps,2024-10,1
+apache/flink,MLOps,2025-02,1
+apache/flink,MLOps,2025-03,1
+apache/flink,MLOps,2025-04,8
+apache/flink,MLOps,2025-06,1
+apache/flink,MLOps,2025-07,1
+apache/flink,MLOps,2025-09,5
+apache/flink,MLOps,2025-10,2
+apache/flink,MLOps,2025-11,5
+apache/flink,MLOps,2025-12,18
+apache/flink,MLOps,2026-01,99
+apache/flink,MLOps,2026-02,106
+apache/flink,MLOps,2026-03,126
+apache/flink,MLOps,2026-04,108
+apache/flink,MLOps,2026-05,17
+lightly-ai/lightly,MLOps,2023-03,36
+lightly-ai/lightly,MLOps,2023-04,26
+lightly-ai/lightly,MLOps,2023-05,37
+lightly-ai/lightly,MLOps,2023-06,28
+lightly-ai/lightly,MLOps,2023-07,26
+lightly-ai/lightly,MLOps,2023-08,12
+lightly-ai/lightly,MLOps,2023-09,20
+lightly-ai/lightly,MLOps,2023-10,5
+lightly-ai/lightly,MLOps,2023-11,9
+lightly-ai/lightly,MLOps,2023-12,11
+lightly-ai/lightly,MLOps,2024-01,12
+lightly-ai/lightly,MLOps,2024-02,14
+lightly-ai/lightly,MLOps,2024-03,6
+lightly-ai/lightly,MLOps,2024-04,4
+lightly-ai/lightly,MLOps,2024-05,13
+lightly-ai/lightly,MLOps,2024-06,10
+lightly-ai/lightly,MLOps,2024-07,40
+lightly-ai/lightly,MLOps,2024-08,13
+lightly-ai/lightly,MLOps,2024-09,8
+lightly-ai/lightly,MLOps,2024-10,24
+lightly-ai/lightly,MLOps,2024-11,27
+lightly-ai/lightly,MLOps,2024-12,19
+lightly-ai/lightly,MLOps,2025-01,16
+lightly-ai/lightly,MLOps,2025-02,13
+lightly-ai/lightly,MLOps,2025-03,6
+lightly-ai/lightly,MLOps,2025-04,5
+lightly-ai/lightly,MLOps,2025-05,10
+lightly-ai/lightly,MLOps,2025-06,16
+lightly-ai/lightly,MLOps,2025-07,15
+lightly-ai/lightly,MLOps,2025-08,3
+lightly-ai/lightly,MLOps,2025-09,2
+lightly-ai/lightly,MLOps,2026-03,8
+lightly-ai/lightly,MLOps,2026-04,5
+lightly-ai/lightly,MLOps,2026-05,1
 optuna/optuna,AutoML/RL,2025-08,2
 optuna/optuna,AutoML/RL,2025-12,95
 optuna/optuna,AutoML/RL,2026-01,39
@@ -533,3 +1628,599 @@ automl/auto-sklearn,AutoML/RL,2022-10,4
 automl/auto-sklearn,AutoML/RL,2022-11,7
 automl/auto-sklearn,AutoML/RL,2022-12,1
 automl/auto-sklearn,AutoML/RL,2023-04,1
+openai/baselines,AutoML/RL,2017-05,11
+openai/baselines,AutoML/RL,2017-06,12
+openai/baselines,AutoML/RL,2017-07,11
+openai/baselines,AutoML/RL,2017-08,12
+openai/baselines,AutoML/RL,2017-09,7
+openai/baselines,AutoML/RL,2017-10,5
+openai/baselines,AutoML/RL,2017-11,5
+openai/baselines,AutoML/RL,2017-12,20
+openai/baselines,AutoML/RL,2018-01,18
+openai/baselines,AutoML/RL,2018-02,10
+openai/baselines,AutoML/RL,2018-03,6
+openai/baselines,AutoML/RL,2018-04,1
+openai/baselines,AutoML/RL,2018-05,5
+openai/baselines,AutoML/RL,2018-06,2
+openai/baselines,AutoML/RL,2018-07,1
+openai/baselines,AutoML/RL,2018-08,40
+openai/baselines,AutoML/RL,2018-09,55
+openai/baselines,AutoML/RL,2018-10,33
+openai/baselines,AutoML/RL,2018-11,30
+openai/baselines,AutoML/RL,2018-12,2
+openai/baselines,AutoML/RL,2019-01,7
+openai/baselines,AutoML/RL,2019-02,3
+openai/baselines,AutoML/RL,2019-03,8
+openai/baselines,AutoML/RL,2019-04,17
+openai/baselines,AutoML/RL,2019-05,7
+openai/baselines,AutoML/RL,2019-06,3
+openai/baselines,AutoML/RL,2019-08,6
+openai/baselines,AutoML/RL,2019-09,2
+openai/baselines,AutoML/RL,2019-10,5
+openai/baselines,AutoML/RL,2019-11,2
+openai/baselines,AutoML/RL,2020-01,1
+DLR-RM/stable-baselines3,AutoML/RL,2020-07,14
+DLR-RM/stable-baselines3,AutoML/RL,2020-08,9
+DLR-RM/stable-baselines3,AutoML/RL,2020-09,9
+DLR-RM/stable-baselines3,AutoML/RL,2020-10,18
+DLR-RM/stable-baselines3,AutoML/RL,2020-11,12
+DLR-RM/stable-baselines3,AutoML/RL,2020-12,6
+DLR-RM/stable-baselines3,AutoML/RL,2021-01,4
+DLR-RM/stable-baselines3,AutoML/RL,2021-02,7
+DLR-RM/stable-baselines3,AutoML/RL,2021-03,10
+DLR-RM/stable-baselines3,AutoML/RL,2021-04,7
+DLR-RM/stable-baselines3,AutoML/RL,2021-05,9
+DLR-RM/stable-baselines3,AutoML/RL,2021-06,3
+DLR-RM/stable-baselines3,AutoML/RL,2021-07,6
+DLR-RM/stable-baselines3,AutoML/RL,2021-08,3
+DLR-RM/stable-baselines3,AutoML/RL,2021-09,12
+DLR-RM/stable-baselines3,AutoML/RL,2021-10,11
+DLR-RM/stable-baselines3,AutoML/RL,2021-11,9
+DLR-RM/stable-baselines3,AutoML/RL,2021-12,10
+DLR-RM/stable-baselines3,AutoML/RL,2022-01,6
+DLR-RM/stable-baselines3,AutoML/RL,2022-02,15
+DLR-RM/stable-baselines3,AutoML/RL,2022-03,5
+DLR-RM/stable-baselines3,AutoML/RL,2022-04,8
+DLR-RM/stable-baselines3,AutoML/RL,2022-05,9
+DLR-RM/stable-baselines3,AutoML/RL,2022-06,2
+DLR-RM/stable-baselines3,AutoML/RL,2022-07,8
+DLR-RM/stable-baselines3,AutoML/RL,2022-08,12
+DLR-RM/stable-baselines3,AutoML/RL,2022-09,13
+DLR-RM/stable-baselines3,AutoML/RL,2022-10,21
+DLR-RM/stable-baselines3,AutoML/RL,2022-11,16
+DLR-RM/stable-baselines3,AutoML/RL,2022-12,20
+DLR-RM/stable-baselines3,AutoML/RL,2023-01,11
+DLR-RM/stable-baselines3,AutoML/RL,2023-02,10
+DLR-RM/stable-baselines3,AutoML/RL,2023-03,8
+DLR-RM/stable-baselines3,AutoML/RL,2023-04,9
+DLR-RM/stable-baselines3,AutoML/RL,2023-05,9
+DLR-RM/stable-baselines3,AutoML/RL,2023-06,9
+DLR-RM/stable-baselines3,AutoML/RL,2023-07,7
+DLR-RM/stable-baselines3,AutoML/RL,2023-08,8
+DLR-RM/stable-baselines3,AutoML/RL,2023-09,10
+DLR-RM/stable-baselines3,AutoML/RL,2023-10,11
+DLR-RM/stable-baselines3,AutoML/RL,2023-11,9
+DLR-RM/stable-baselines3,AutoML/RL,2023-12,1
+DLR-RM/stable-baselines3,AutoML/RL,2024-01,3
+DLR-RM/stable-baselines3,AutoML/RL,2024-02,4
+DLR-RM/stable-baselines3,AutoML/RL,2024-03,4
+DLR-RM/stable-baselines3,AutoML/RL,2024-04,7
+DLR-RM/stable-baselines3,AutoML/RL,2024-05,3
+DLR-RM/stable-baselines3,AutoML/RL,2024-06,3
+DLR-RM/stable-baselines3,AutoML/RL,2024-07,6
+DLR-RM/stable-baselines3,AutoML/RL,2024-08,3
+DLR-RM/stable-baselines3,AutoML/RL,2024-09,1
+DLR-RM/stable-baselines3,AutoML/RL,2024-10,3
+DLR-RM/stable-baselines3,AutoML/RL,2024-11,7
+DLR-RM/stable-baselines3,AutoML/RL,2024-12,5
+DLR-RM/stable-baselines3,AutoML/RL,2025-01,6
+DLR-RM/stable-baselines3,AutoML/RL,2025-02,4
+DLR-RM/stable-baselines3,AutoML/RL,2025-03,3
+DLR-RM/stable-baselines3,AutoML/RL,2025-04,2
+DLR-RM/stable-baselines3,AutoML/RL,2025-05,3
+DLR-RM/stable-baselines3,AutoML/RL,2025-06,3
+DLR-RM/stable-baselines3,AutoML/RL,2025-07,3
+DLR-RM/stable-baselines3,AutoML/RL,2025-08,5
+DLR-RM/stable-baselines3,AutoML/RL,2025-09,5
+DLR-RM/stable-baselines3,AutoML/RL,2025-10,4
+DLR-RM/stable-baselines3,AutoML/RL,2025-11,1
+DLR-RM/stable-baselines3,AutoML/RL,2025-12,5
+DLR-RM/stable-baselines3,AutoML/RL,2026-01,1
+DLR-RM/stable-baselines3,AutoML/RL,2026-02,3
+DLR-RM/stable-baselines3,AutoML/RL,2026-03,2
+DLR-RM/stable-baselines3,AutoML/RL,2026-04,4
+DLR-RM/stable-baselines3,AutoML/RL,2026-05,1
+keras-team/keras-tuner,AutoML/RL,2019-08,3
+keras-team/keras-tuner,AutoML/RL,2019-09,81
+keras-team/keras-tuner,AutoML/RL,2019-10,55
+keras-team/keras-tuner,AutoML/RL,2019-11,9
+keras-team/keras-tuner,AutoML/RL,2019-12,4
+keras-team/keras-tuner,AutoML/RL,2020-01,5
+keras-team/keras-tuner,AutoML/RL,2020-03,6
+keras-team/keras-tuner,AutoML/RL,2020-04,1
+keras-team/keras-tuner,AutoML/RL,2020-05,1
+keras-team/keras-tuner,AutoML/RL,2020-06,10
+keras-team/keras-tuner,AutoML/RL,2020-07,7
+keras-team/keras-tuner,AutoML/RL,2020-08,6
+keras-team/keras-tuner,AutoML/RL,2020-09,1
+keras-team/keras-tuner,AutoML/RL,2020-10,5
+keras-team/keras-tuner,AutoML/RL,2020-11,4
+keras-team/keras-tuner,AutoML/RL,2020-12,1
+keras-team/keras-tuner,AutoML/RL,2021-01,2
+keras-team/keras-tuner,AutoML/RL,2021-02,11
+keras-team/keras-tuner,AutoML/RL,2021-03,9
+keras-team/keras-tuner,AutoML/RL,2021-04,1
+keras-team/keras-tuner,AutoML/RL,2021-06,16
+keras-team/keras-tuner,AutoML/RL,2021-07,2
+keras-team/keras-tuner,AutoML/RL,2021-08,12
+keras-team/keras-tuner,AutoML/RL,2021-09,11
+keras-team/keras-tuner,AutoML/RL,2021-10,4
+keras-team/keras-tuner,AutoML/RL,2021-11,5
+keras-team/keras-tuner,AutoML/RL,2021-12,3
+keras-team/keras-tuner,AutoML/RL,2022-01,6
+keras-team/keras-tuner,AutoML/RL,2022-03,16
+keras-team/keras-tuner,AutoML/RL,2022-04,5
+keras-team/keras-tuner,AutoML/RL,2022-05,1
+keras-team/keras-tuner,AutoML/RL,2022-06,5
+keras-team/keras-tuner,AutoML/RL,2022-07,4
+keras-team/keras-tuner,AutoML/RL,2022-08,9
+keras-team/keras-tuner,AutoML/RL,2022-09,9
+keras-team/keras-tuner,AutoML/RL,2022-10,7
+keras-team/keras-tuner,AutoML/RL,2022-11,5
+keras-team/keras-tuner,AutoML/RL,2022-12,25
+keras-team/keras-tuner,AutoML/RL,2023-01,17
+keras-team/keras-tuner,AutoML/RL,2023-02,22
+keras-team/keras-tuner,AutoML/RL,2023-03,24
+keras-team/keras-tuner,AutoML/RL,2023-04,15
+keras-team/keras-tuner,AutoML/RL,2023-06,1
+keras-team/keras-tuner,AutoML/RL,2023-08,1
+keras-team/keras-tuner,AutoML/RL,2023-09,22
+keras-team/keras-tuner,AutoML/RL,2023-10,13
+keras-team/keras-tuner,AutoML/RL,2023-11,9
+keras-team/keras-tuner,AutoML/RL,2024-03,7
+keras-team/keras-tuner,AutoML/RL,2024-06,1
+keras-team/keras-tuner,AutoML/RL,2025-11,1
+automl/SMAC3,AutoML/RL,2022-05,3
+automl/SMAC3,AutoML/RL,2022-06,58
+automl/SMAC3,AutoML/RL,2022-07,60
+automl/SMAC3,AutoML/RL,2022-10,36
+automl/SMAC3,AutoML/RL,2022-12,41
+automl/SMAC3,AutoML/RL,2023-01,16
+automl/SMAC3,AutoML/RL,2023-02,13
+automl/SMAC3,AutoML/RL,2023-03,13
+automl/SMAC3,AutoML/RL,2023-04,23
+automl/SMAC3,AutoML/RL,2023-05,30
+automl/SMAC3,AutoML/RL,2023-06,14
+automl/SMAC3,AutoML/RL,2023-07,3
+automl/SMAC3,AutoML/RL,2023-08,2
+automl/SMAC3,AutoML/RL,2023-10,3
+automl/SMAC3,AutoML/RL,2023-11,3
+automl/SMAC3,AutoML/RL,2023-12,1
+automl/SMAC3,AutoML/RL,2024-01,1
+automl/SMAC3,AutoML/RL,2024-02,3
+automl/SMAC3,AutoML/RL,2024-03,4
+automl/SMAC3,AutoML/RL,2024-04,1
+automl/SMAC3,AutoML/RL,2024-05,6
+automl/SMAC3,AutoML/RL,2024-06,1
+automl/SMAC3,AutoML/RL,2024-07,23
+automl/SMAC3,AutoML/RL,2024-08,1
+automl/SMAC3,AutoML/RL,2024-09,6
+automl/SMAC3,AutoML/RL,2024-11,3
+automl/SMAC3,AutoML/RL,2024-12,3
+automl/SMAC3,AutoML/RL,2025-01,22
+automl/SMAC3,AutoML/RL,2025-02,13
+automl/SMAC3,AutoML/RL,2025-03,4
+automl/SMAC3,AutoML/RL,2025-04,5
+automl/SMAC3,AutoML/RL,2025-05,2
+automl/SMAC3,AutoML/RL,2025-06,1
+automl/SMAC3,AutoML/RL,2025-07,2
+automl/SMAC3,AutoML/RL,2025-08,1
+automl/SMAC3,AutoML/RL,2025-09,8
+automl/SMAC3,AutoML/RL,2025-10,10
+automl/SMAC3,AutoML/RL,2025-11,28
+automl/SMAC3,AutoML/RL,2025-12,8
+automl/SMAC3,AutoML/RL,2026-02,15
+automl/SMAC3,AutoML/RL,2026-03,7
+automl/SMAC3,AutoML/RL,2026-04,3
+facebookresearch/nevergrad,AutoML/RL,2020-10,21
+facebookresearch/nevergrad,AutoML/RL,2020-11,16
+facebookresearch/nevergrad,AutoML/RL,2020-12,51
+facebookresearch/nevergrad,AutoML/RL,2021-01,26
+facebookresearch/nevergrad,AutoML/RL,2021-02,23
+facebookresearch/nevergrad,AutoML/RL,2021-03,20
+facebookresearch/nevergrad,AutoML/RL,2021-04,15
+facebookresearch/nevergrad,AutoML/RL,2021-05,9
+facebookresearch/nevergrad,AutoML/RL,2021-06,18
+facebookresearch/nevergrad,AutoML/RL,2021-07,11
+facebookresearch/nevergrad,AutoML/RL,2021-08,22
+facebookresearch/nevergrad,AutoML/RL,2021-09,10
+facebookresearch/nevergrad,AutoML/RL,2021-10,15
+facebookresearch/nevergrad,AutoML/RL,2021-11,24
+facebookresearch/nevergrad,AutoML/RL,2021-12,13
+facebookresearch/nevergrad,AutoML/RL,2022-01,7
+facebookresearch/nevergrad,AutoML/RL,2022-02,7
+facebookresearch/nevergrad,AutoML/RL,2022-03,29
+facebookresearch/nevergrad,AutoML/RL,2022-04,20
+facebookresearch/nevergrad,AutoML/RL,2022-05,6
+facebookresearch/nevergrad,AutoML/RL,2022-06,8
+facebookresearch/nevergrad,AutoML/RL,2022-07,2
+facebookresearch/nevergrad,AutoML/RL,2022-08,1
+facebookresearch/nevergrad,AutoML/RL,2022-12,8
+facebookresearch/nevergrad,AutoML/RL,2023-01,2
+facebookresearch/nevergrad,AutoML/RL,2023-02,4
+facebookresearch/nevergrad,AutoML/RL,2023-05,1
+facebookresearch/nevergrad,AutoML/RL,2023-06,8
+facebookresearch/nevergrad,AutoML/RL,2023-07,9
+facebookresearch/nevergrad,AutoML/RL,2023-08,1
+facebookresearch/nevergrad,AutoML/RL,2023-09,9
+facebookresearch/nevergrad,AutoML/RL,2023-10,6
+facebookresearch/nevergrad,AutoML/RL,2023-11,5
+facebookresearch/nevergrad,AutoML/RL,2023-12,1
+facebookresearch/nevergrad,AutoML/RL,2024-01,7
+facebookresearch/nevergrad,AutoML/RL,2024-02,4
+facebookresearch/nevergrad,AutoML/RL,2024-03,2
+facebookresearch/nevergrad,AutoML/RL,2024-04,1
+facebookresearch/nevergrad,AutoML/RL,2024-06,3
+facebookresearch/nevergrad,AutoML/RL,2024-07,4
+facebookresearch/nevergrad,AutoML/RL,2024-08,3
+facebookresearch/nevergrad,AutoML/RL,2024-09,10
+facebookresearch/nevergrad,AutoML/RL,2024-10,4
+facebookresearch/nevergrad,AutoML/RL,2024-11,10
+facebookresearch/nevergrad,AutoML/RL,2024-12,7
+facebookresearch/nevergrad,AutoML/RL,2025-02,3
+facebookresearch/nevergrad,AutoML/RL,2025-03,5
+facebookresearch/nevergrad,AutoML/RL,2025-04,5
+facebookresearch/nevergrad,AutoML/RL,2026-03,4
+pytorch/rl,AutoML/RL,2025-06,28
+pytorch/rl,AutoML/RL,2025-07,53
+pytorch/rl,AutoML/RL,2025-08,16
+pytorch/rl,AutoML/RL,2025-09,28
+pytorch/rl,AutoML/RL,2025-10,33
+pytorch/rl,AutoML/RL,2025-11,10
+pytorch/rl,AutoML/RL,2025-12,37
+pytorch/rl,AutoML/RL,2026-01,123
+pytorch/rl,AutoML/RL,2026-02,83
+pytorch/rl,AutoML/RL,2026-03,16
+pytorch/rl,AutoML/RL,2026-04,61
+pytorch/rl,AutoML/RL,2026-05,12
+thu-ml/tianshou,AutoML/RL,2024-08,15
+thu-ml/tianshou,AutoML/RL,2024-09,5
+thu-ml/tianshou,AutoML/RL,2024-10,2
+thu-ml/tianshou,AutoML/RL,2024-11,1
+thu-ml/tianshou,AutoML/RL,2024-12,3
+thu-ml/tianshou,AutoML/RL,2025-01,3
+thu-ml/tianshou,AutoML/RL,2025-02,1
+thu-ml/tianshou,AutoML/RL,2025-03,91
+thu-ml/tianshou,AutoML/RL,2025-04,11
+thu-ml/tianshou,AutoML/RL,2025-05,200
+thu-ml/tianshou,AutoML/RL,2025-06,9
+thu-ml/tianshou,AutoML/RL,2025-07,13
+thu-ml/tianshou,AutoML/RL,2025-08,4
+thu-ml/tianshou,AutoML/RL,2025-09,3
+thu-ml/tianshou,AutoML/RL,2025-10,108
+thu-ml/tianshou,AutoML/RL,2025-11,13
+thu-ml/tianshou,AutoML/RL,2025-12,7
+thu-ml/tianshou,AutoML/RL,2026-02,1
+thu-ml/tianshou,AutoML/RL,2026-03,3
+thu-ml/tianshou,AutoML/RL,2026-04,7
+google-deepmind/acme,AutoML/RL,2022-02,32
+google-deepmind/acme,AutoML/RL,2022-03,30
+google-deepmind/acme,AutoML/RL,2022-04,74
+google-deepmind/acme,AutoML/RL,2022-05,46
+google-deepmind/acme,AutoML/RL,2022-06,60
+google-deepmind/acme,AutoML/RL,2022-07,62
+google-deepmind/acme,AutoML/RL,2022-08,41
+google-deepmind/acme,AutoML/RL,2022-09,57
+google-deepmind/acme,AutoML/RL,2022-10,15
+google-deepmind/acme,AutoML/RL,2022-11,8
+google-deepmind/acme,AutoML/RL,2022-12,4
+google-deepmind/acme,AutoML/RL,2023-01,5
+google-deepmind/acme,AutoML/RL,2023-02,8
+google-deepmind/acme,AutoML/RL,2023-03,9
+google-deepmind/acme,AutoML/RL,2023-04,1
+google-deepmind/acme,AutoML/RL,2023-06,1
+google-deepmind/acme,AutoML/RL,2023-07,2
+google-deepmind/acme,AutoML/RL,2023-08,6
+google-deepmind/acme,AutoML/RL,2023-09,4
+google-deepmind/acme,AutoML/RL,2023-10,3
+google-deepmind/acme,AutoML/RL,2023-11,1
+google-deepmind/acme,AutoML/RL,2024-01,2
+google-deepmind/acme,AutoML/RL,2024-03,2
+google-deepmind/acme,AutoML/RL,2024-04,2
+google-deepmind/acme,AutoML/RL,2024-05,2
+google-deepmind/acme,AutoML/RL,2024-07,1
+google-deepmind/acme,AutoML/RL,2024-08,2
+google-deepmind/acme,AutoML/RL,2024-09,1
+google-deepmind/acme,AutoML/RL,2024-10,1
+google-deepmind/acme,AutoML/RL,2025-01,1
+google-deepmind/acme,AutoML/RL,2025-04,2
+google-deepmind/acme,AutoML/RL,2025-05,2
+google-deepmind/acme,AutoML/RL,2025-07,2
+google-deepmind/acme,AutoML/RL,2025-09,1
+google-deepmind/acme,AutoML/RL,2025-12,2
+google-deepmind/acme,AutoML/RL,2026-01,1
+google-deepmind/acme,AutoML/RL,2026-02,4
+google-deepmind/acme,AutoML/RL,2026-03,2
+google-deepmind/acme,AutoML/RL,2026-04,1
+tensorflow/agents,AutoML/RL,2021-07,17
+tensorflow/agents,AutoML/RL,2021-08,54
+tensorflow/agents,AutoML/RL,2021-09,36
+tensorflow/agents,AutoML/RL,2021-10,12
+tensorflow/agents,AutoML/RL,2021-11,30
+tensorflow/agents,AutoML/RL,2021-12,17
+tensorflow/agents,AutoML/RL,2022-01,9
+tensorflow/agents,AutoML/RL,2022-02,23
+tensorflow/agents,AutoML/RL,2022-03,17
+tensorflow/agents,AutoML/RL,2022-04,23
+tensorflow/agents,AutoML/RL,2022-05,13
+tensorflow/agents,AutoML/RL,2022-06,20
+tensorflow/agents,AutoML/RL,2022-07,11
+tensorflow/agents,AutoML/RL,2022-08,13
+tensorflow/agents,AutoML/RL,2022-09,32
+tensorflow/agents,AutoML/RL,2022-10,10
+tensorflow/agents,AutoML/RL,2022-11,9
+tensorflow/agents,AutoML/RL,2022-12,13
+tensorflow/agents,AutoML/RL,2023-01,5
+tensorflow/agents,AutoML/RL,2023-02,9
+tensorflow/agents,AutoML/RL,2023-03,13
+tensorflow/agents,AutoML/RL,2023-04,8
+tensorflow/agents,AutoML/RL,2023-05,6
+tensorflow/agents,AutoML/RL,2023-06,7
+tensorflow/agents,AutoML/RL,2023-07,5
+tensorflow/agents,AutoML/RL,2023-08,4
+tensorflow/agents,AutoML/RL,2023-09,11
+tensorflow/agents,AutoML/RL,2023-10,14
+tensorflow/agents,AutoML/RL,2023-11,7
+tensorflow/agents,AutoML/RL,2023-12,20
+tensorflow/agents,AutoML/RL,2024-01,4
+tensorflow/agents,AutoML/RL,2024-02,2
+tensorflow/agents,AutoML/RL,2024-03,1
+tensorflow/agents,AutoML/RL,2024-07,2
+tensorflow/agents,AutoML/RL,2024-08,4
+tensorflow/agents,AutoML/RL,2024-09,2
+tensorflow/agents,AutoML/RL,2024-10,1
+tensorflow/agents,AutoML/RL,2024-12,2
+tensorflow/agents,AutoML/RL,2025-01,3
+tensorflow/agents,AutoML/RL,2025-02,2
+tensorflow/agents,AutoML/RL,2025-03,1
+tensorflow/agents,AutoML/RL,2025-04,2
+tensorflow/agents,AutoML/RL,2025-06,1
+tensorflow/agents,AutoML/RL,2025-12,1
+tensorflow/agents,AutoML/RL,2026-01,4
+google/dopamine,AutoML/RL,2018-08,14
+google/dopamine,AutoML/RL,2018-09,12
+google/dopamine,AutoML/RL,2018-10,4
+google/dopamine,AutoML/RL,2018-11,14
+google/dopamine,AutoML/RL,2018-12,10
+google/dopamine,AutoML/RL,2019-01,12
+google/dopamine,AutoML/RL,2019-02,13
+google/dopamine,AutoML/RL,2019-03,3
+google/dopamine,AutoML/RL,2019-04,6
+google/dopamine,AutoML/RL,2019-05,4
+google/dopamine,AutoML/RL,2019-06,9
+google/dopamine,AutoML/RL,2019-07,7
+google/dopamine,AutoML/RL,2019-08,2
+google/dopamine,AutoML/RL,2019-09,4
+google/dopamine,AutoML/RL,2019-10,1
+google/dopamine,AutoML/RL,2019-11,3
+google/dopamine,AutoML/RL,2019-12,3
+google/dopamine,AutoML/RL,2020-03,32
+google/dopamine,AutoML/RL,2020-04,1
+google/dopamine,AutoML/RL,2020-06,2
+google/dopamine,AutoML/RL,2020-07,33
+google/dopamine,AutoML/RL,2020-08,8
+google/dopamine,AutoML/RL,2020-09,3
+google/dopamine,AutoML/RL,2020-10,6
+google/dopamine,AutoML/RL,2020-11,4
+google/dopamine,AutoML/RL,2021-01,6
+google/dopamine,AutoML/RL,2021-02,6
+google/dopamine,AutoML/RL,2021-03,3
+google/dopamine,AutoML/RL,2021-04,7
+google/dopamine,AutoML/RL,2021-05,4
+google/dopamine,AutoML/RL,2021-06,5
+google/dopamine,AutoML/RL,2021-07,6
+google/dopamine,AutoML/RL,2021-08,6
+google/dopamine,AutoML/RL,2021-09,14
+google/dopamine,AutoML/RL,2021-10,5
+google/dopamine,AutoML/RL,2021-11,4
+google/dopamine,AutoML/RL,2021-12,6
+google/dopamine,AutoML/RL,2022-01,1
+google/dopamine,AutoML/RL,2022-02,6
+google/dopamine,AutoML/RL,2022-03,2
+google/dopamine,AutoML/RL,2022-04,4
+google/dopamine,AutoML/RL,2022-05,2
+google/dopamine,AutoML/RL,2022-06,6
+google/dopamine,AutoML/RL,2022-07,2
+google/dopamine,AutoML/RL,2022-08,5
+google/dopamine,AutoML/RL,2022-09,2
+google/dopamine,AutoML/RL,2022-11,2
+google/dopamine,AutoML/RL,2022-12,1
+google/dopamine,AutoML/RL,2023-01,1
+google/dopamine,AutoML/RL,2023-02,3
+google/dopamine,AutoML/RL,2023-03,2
+google/dopamine,AutoML/RL,2023-04,2
+google/dopamine,AutoML/RL,2023-06,2
+google/dopamine,AutoML/RL,2023-07,1
+google/dopamine,AutoML/RL,2023-08,3
+google/dopamine,AutoML/RL,2023-09,1
+google/dopamine,AutoML/RL,2023-10,1
+google/dopamine,AutoML/RL,2023-11,2
+google/dopamine,AutoML/RL,2024-01,2
+google/dopamine,AutoML/RL,2024-02,2
+google/dopamine,AutoML/RL,2024-04,1
+google/dopamine,AutoML/RL,2024-05,4
+google/dopamine,AutoML/RL,2024-10,5
+google/dopamine,AutoML/RL,2024-11,5
+google/dopamine,AutoML/RL,2024-12,1
+google/dopamine,AutoML/RL,2025-01,1
+google/dopamine,AutoML/RL,2025-03,2
+google/dopamine,AutoML/RL,2025-04,1
+google/dopamine,AutoML/RL,2025-10,1
+google/dopamine,AutoML/RL,2025-11,1
+google/dopamine,AutoML/RL,2026-01,1
+google/dopamine,AutoML/RL,2026-03,1
+mljar/mljar-supervised,AutoML/RL,2021-01,12
+mljar/mljar-supervised,AutoML/RL,2021-02,39
+mljar/mljar-supervised,AutoML/RL,2021-03,48
+mljar/mljar-supervised,AutoML/RL,2021-04,53
+mljar/mljar-supervised,AutoML/RL,2021-05,9
+mljar/mljar-supervised,AutoML/RL,2021-06,16
+mljar/mljar-supervised,AutoML/RL,2021-07,4
+mljar/mljar-supervised,AutoML/RL,2021-08,9
+mljar/mljar-supervised,AutoML/RL,2021-09,20
+mljar/mljar-supervised,AutoML/RL,2021-10,11
+mljar/mljar-supervised,AutoML/RL,2021-12,11
+mljar/mljar-supervised,AutoML/RL,2022-02,17
+mljar/mljar-supervised,AutoML/RL,2022-03,4
+mljar/mljar-supervised,AutoML/RL,2022-04,1
+mljar/mljar-supervised,AutoML/RL,2022-07,2
+mljar/mljar-supervised,AutoML/RL,2022-08,3
+mljar/mljar-supervised,AutoML/RL,2022-10,1
+mljar/mljar-supervised,AutoML/RL,2022-11,1
+mljar/mljar-supervised,AutoML/RL,2022-12,7
+mljar/mljar-supervised,AutoML/RL,2023-04,4
+mljar/mljar-supervised,AutoML/RL,2023-05,30
+mljar/mljar-supervised,AutoML/RL,2023-06,32
+mljar/mljar-supervised,AutoML/RL,2023-07,9
+mljar/mljar-supervised,AutoML/RL,2023-08,7
+mljar/mljar-supervised,AutoML/RL,2023-09,28
+mljar/mljar-supervised,AutoML/RL,2023-10,2
+mljar/mljar-supervised,AutoML/RL,2023-11,2
+mljar/mljar-supervised,AutoML/RL,2023-12,5
+mljar/mljar-supervised,AutoML/RL,2024-01,13
+mljar/mljar-supervised,AutoML/RL,2024-03,14
+mljar/mljar-supervised,AutoML/RL,2024-04,6
+mljar/mljar-supervised,AutoML/RL,2024-05,2
+mljar/mljar-supervised,AutoML/RL,2024-06,3
+mljar/mljar-supervised,AutoML/RL,2024-07,9
+mljar/mljar-supervised,AutoML/RL,2024-08,16
+mljar/mljar-supervised,AutoML/RL,2024-09,15
+mljar/mljar-supervised,AutoML/RL,2024-10,2
+mljar/mljar-supervised,AutoML/RL,2024-11,5
+mljar/mljar-supervised,AutoML/RL,2025-01,4
+mljar/mljar-supervised,AutoML/RL,2025-02,1
+mljar/mljar-supervised,AutoML/RL,2025-03,3
+mljar/mljar-supervised,AutoML/RL,2025-04,4
+mljar/mljar-supervised,AutoML/RL,2025-07,4
+mljar/mljar-supervised,AutoML/RL,2026-03,12
+pycaret/pycaret,AutoML/RL,2023-10,17
+pycaret/pycaret,AutoML/RL,2023-11,57
+pycaret/pycaret,AutoML/RL,2023-12,28
+pycaret/pycaret,AutoML/RL,2024-01,58
+pycaret/pycaret,AutoML/RL,2024-02,33
+pycaret/pycaret,AutoML/RL,2024-03,20
+pycaret/pycaret,AutoML/RL,2024-04,25
+pycaret/pycaret,AutoML/RL,2024-05,12
+pycaret/pycaret,AutoML/RL,2024-06,68
+pycaret/pycaret,AutoML/RL,2024-07,25
+pycaret/pycaret,AutoML/RL,2024-08,29
+pycaret/pycaret,AutoML/RL,2025-02,13
+pycaret/pycaret,AutoML/RL,2025-03,1
+pycaret/pycaret,AutoML/RL,2026-04,114
+hill-a/stable-baselines,AutoML/RL,2018-08,109
+hill-a/stable-baselines,AutoML/RL,2018-09,145
+hill-a/stable-baselines,AutoML/RL,2018-10,34
+hill-a/stable-baselines,AutoML/RL,2018-11,36
+hill-a/stable-baselines,AutoML/RL,2018-12,12
+hill-a/stable-baselines,AutoML/RL,2019-01,10
+hill-a/stable-baselines,AutoML/RL,2019-02,7
+hill-a/stable-baselines,AutoML/RL,2019-03,7
+hill-a/stable-baselines,AutoML/RL,2019-04,14
+hill-a/stable-baselines,AutoML/RL,2019-05,13
+hill-a/stable-baselines,AutoML/RL,2019-06,9
+hill-a/stable-baselines,AutoML/RL,2019-07,9
+hill-a/stable-baselines,AutoML/RL,2019-08,7
+hill-a/stable-baselines,AutoML/RL,2019-09,9
+hill-a/stable-baselines,AutoML/RL,2019-10,8
+hill-a/stable-baselines,AutoML/RL,2019-11,10
+hill-a/stable-baselines,AutoML/RL,2019-12,9
+hill-a/stable-baselines,AutoML/RL,2020-01,7
+hill-a/stable-baselines,AutoML/RL,2020-02,7
+hill-a/stable-baselines,AutoML/RL,2020-03,11
+hill-a/stable-baselines,AutoML/RL,2020-04,5
+hill-a/stable-baselines,AutoML/RL,2020-05,4
+hill-a/stable-baselines,AutoML/RL,2020-06,4
+hill-a/stable-baselines,AutoML/RL,2020-07,4
+hill-a/stable-baselines,AutoML/RL,2020-08,3
+hill-a/stable-baselines,AutoML/RL,2020-09,1
+hill-a/stable-baselines,AutoML/RL,2020-10,1
+hill-a/stable-baselines,AutoML/RL,2020-12,1
+hill-a/stable-baselines,AutoML/RL,2021-04,1
+hill-a/stable-baselines,AutoML/RL,2021-06,1
+hill-a/stable-baselines,AutoML/RL,2021-08,1
+hill-a/stable-baselines,AutoML/RL,2022-09,1
+google/vizier,AutoML/RL,2023-06,46
+google/vizier,AutoML/RL,2023-07,28
+google/vizier,AutoML/RL,2023-08,44
+google/vizier,AutoML/RL,2023-09,52
+google/vizier,AutoML/RL,2023-10,29
+google/vizier,AutoML/RL,2023-11,40
+google/vizier,AutoML/RL,2023-12,9
+google/vizier,AutoML/RL,2024-01,23
+google/vizier,AutoML/RL,2024-02,7
+google/vizier,AutoML/RL,2024-03,21
+google/vizier,AutoML/RL,2024-04,22
+google/vizier,AutoML/RL,2024-05,13
+google/vizier,AutoML/RL,2024-06,15
+google/vizier,AutoML/RL,2024-07,21
+google/vizier,AutoML/RL,2024-08,18
+google/vizier,AutoML/RL,2024-09,13
+google/vizier,AutoML/RL,2024-10,11
+google/vizier,AutoML/RL,2024-11,8
+google/vizier,AutoML/RL,2024-12,9
+google/vizier,AutoML/RL,2025-01,19
+google/vizier,AutoML/RL,2025-02,5
+google/vizier,AutoML/RL,2025-03,1
+google/vizier,AutoML/RL,2025-04,7
+google/vizier,AutoML/RL,2025-05,2
+google/vizier,AutoML/RL,2025-06,5
+google/vizier,AutoML/RL,2025-07,7
+google/vizier,AutoML/RL,2025-08,5
+google/vizier,AutoML/RL,2025-09,6
+google/vizier,AutoML/RL,2025-10,5
+google/vizier,AutoML/RL,2025-11,1
+google/vizier,AutoML/RL,2026-01,4
+google/vizier,AutoML/RL,2026-02,4
+optuna/optuna-dashboard,AutoML/RL,2025-05,22
+optuna/optuna-dashboard,AutoML/RL,2025-06,1
+optuna/optuna-dashboard,AutoML/RL,2025-07,158
+optuna/optuna-dashboard,AutoML/RL,2025-08,53
+optuna/optuna-dashboard,AutoML/RL,2025-09,91
+optuna/optuna-dashboard,AutoML/RL,2025-10,49
+optuna/optuna-dashboard,AutoML/RL,2025-11,19
+optuna/optuna-dashboard,AutoML/RL,2025-12,7
+optuna/optuna-dashboard,AutoML/RL,2026-01,16
+optuna/optuna-dashboard,AutoML/RL,2026-02,25
+optuna/optuna-dashboard,AutoML/RL,2026-03,34
+optuna/optuna-dashboard,AutoML/RL,2026-04,25
+autonomio/talos,AutoML/RL,2018-07,4
+autonomio/talos,AutoML/RL,2018-08,30
+autonomio/talos,AutoML/RL,2018-09,22
+autonomio/talos,AutoML/RL,2018-10,33
+autonomio/talos,AutoML/RL,2018-11,5
+autonomio/talos,AutoML/RL,2018-12,4
+autonomio/talos,AutoML/RL,2019-01,27
+autonomio/talos,AutoML/RL,2019-02,46
+autonomio/talos,AutoML/RL,2019-03,26
+autonomio/talos,AutoML/RL,2019-04,15
+autonomio/talos,AutoML/RL,2019-05,4
+autonomio/talos,AutoML/RL,2019-06,1
+autonomio/talos,AutoML/RL,2019-07,12
+autonomio/talos,AutoML/RL,2019-08,33
+autonomio/talos,AutoML/RL,2019-09,54
+autonomio/talos,AutoML/RL,2019-10,1
+autonomio/talos,AutoML/RL,2019-11,1
+autonomio/talos,AutoML/RL,2020-01,26
+autonomio/talos,AutoML/RL,2020-02,2
+autonomio/talos,AutoML/RL,2020-05,2
+autonomio/talos,AutoML/RL,2020-10,1
+autonomio/talos,AutoML/RL,2020-11,22
+autonomio/talos,AutoML/RL,2021-03,1
+autonomio/talos,AutoML/RL,2021-05,16
+autonomio/talos,AutoML/RL,2022-01,10
+autonomio/talos,AutoML/RL,2022-03,16
+autonomio/talos,AutoML/RL,2022-04,50
+autonomio/talos,AutoML/RL,2022-09,2
+autonomio/talos,AutoML/RL,2023-11,1
+autonomio/talos,AutoML/RL,2024-03,5
+autonomio/talos,AutoML/RL,2024-04,28
