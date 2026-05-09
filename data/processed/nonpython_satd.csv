@@ -1,0 +1,77 @@
+repo_name,category,file_type,file_name,line_number,line_content
+keras-team/keras,Deep Learning,dependency,requirements.txt,14,# Pinned to 0.8.0 on CPU for CI compatibility with older backends.
+keras-team/keras,Deep Learning,cicd,actions.yml,3,"# TODO: Consider enabling all tests (pytest, applications, etc.) with NNX in the future"
+fastai/fastai,Deep Learning,notebook,00_torch_core.ipynb,626,# ToDo: add TensorDict when released
+fastai/fastai,Deep Learning,notebook,03_data.core.ipynb,930,"# TODO: check if we really need this, or can simplify"
+fastai/fastai,Deep Learning,notebook,11_vision.models.xresnet.ipynb,102,# TODO pretrain all sizes. Currently will fail with non-xrn50
+fastai/fastai,Deep Learning,notebook,12_optimizer.ipynb,662,#TODO: test warning
+fastai/fastai,Deep Learning,notebook,12_optimizer.ipynb,807,#TODO: fix cause this formula was wrong
+fastai/fastai,Deep Learning,notebook,14_callback.schedule.ipynb,46,"#TODO Jeremy, make this pickle"
+fastai/fastai,Deep Learning,notebook,15_callback.hook.ipynb,702,#TODO: find a way to have them counted in param number somehow
+fastai/fastai,Deep Learning,notebook,20_interpret.ipynb,174,#TODO: figure out if this is needed
+fastai/fastai,Deep Learning,notebook,21_vision.learner.ipynb,288,"#TODO: refactor, i.e. something like this?"
+fastai/fastai,Deep Learning,notebook,30_text.core.ipynb,843,class SentencePieceTokenizer():#TODO: pass the special tokens symbol to sp
+fastai/fastai,Deep Learning,notebook,31_text.data.ipynb,206,#TODO: add backward
+fastai/fastai,Deep Learning,notebook,31_text.data.ipynb,406,idx = pad_fields.items.index(field_idx) #TODO: remove items if L.index is fixed
+fastai/fastai,Deep Learning,notebook,40_tabular.core.ipynb,726,"def setup(self, items=None, train_setup=False): #TODO: properly deal with train_setup"
+fastai/fastai,Deep Learning,notebook,_42_tabular_rapids.ipynb,122,#TODO Categorical (fails for now)
+fastai/fastai,Deep Learning,notebook,lesson3-head-pose.ipynb,54,#TODO: look in after_item for c
+pytorch/examples,Deep Learning,cicd,run_python_examples.sh,36,# TODO: Leave only USE_ACCEL and drop USE_CUDA once all examples will be converted
+pytorch/examples,Deep Learning,dependency,requirements.txt,3,#Pinned versions: 5.3.0
+Lightning-AI/pytorch-lightning,Deep Learning,cicd,.pre-commit-config.yaml,63,# TODO: remove language_version pin once docformatter drops the `untokenize` dependency
+Lightning-AI/pytorch-lightning,Deep Learning,documentation,CONTRIBUTING.md,231,"- **[wip]** when you start to re-edit your work, mark it so no one will accidentally merge it in meantime."
+Lightning-AI/pytorch-lightning,Deep Learning,cicd,_legacy-checkpoints.yml,64,# TODO: Avoid activating environment like this
+Lightning-AI/pytorch-lightning,Deep Learning,cicd,ci-tests-fabric.yml,68,# TODO: Remove this - Enable running MPS tests on this platform
+Lightning-AI/pytorch-lightning,Deep Learning,cicd,ci-tests-fabric.yml,78,# TODO: Avoid activating environment like this
+Lightning-AI/pytorch-lightning,Deep Learning,cicd,ci-tests-pytorch.yml,73,# TODO: Remove this - Enable running MPS tests on this platform
+Lightning-AI/pytorch-lightning,Deep Learning,cicd,ci-tests-pytorch.yml,83,# TODO: Avoid activating environment like this
+Lightning-AI/pytorch-lightning,Deep Learning,cicd,code-checks.yml,37,# TODO: Avoid activating environment like this
+Lightning-AI/pytorch-lightning,Deep Learning,cicd,docs-build.yml,78,# TODO: Avoid activating environment like this
+Lightning-AI/pytorch-lightning,Deep Learning,cicd,fabric.yml,150,"#  echo ""Reporting coverage"" # todo"
+Lightning-AI/pytorch-lightning,Deep Learning,cicd,fabric.yml,155,# TODO: enable coverage
+Lightning-AI/pytorch-lightning,Deep Learning,cicd,pytorch.yml,177,"# echo ""Reporting coverage"" # todo"
+Lightning-AI/pytorch-lightning,Deep Learning,cicd,pytorch.yml,182,# TODO: enable coverage
+Lightning-AI/pytorch-lightning,Deep Learning,documentation,index.rst,68,:description: Coming soon
+Lightning-AI/pytorch-lightning,Deep Learning,documentation,trainer_template.rst,7,.. TODO:: Write a guide explaining how to build a template like the one in https://github.com/Lightning-AI/lightning/tree/master/examples/fabric/build_your_own_trainer
+Lightning-AI/pytorch-lightning,Deep Learning,documentation,model_parallel.rst,69,- Coming soon
+Lightning-AI/pytorch-lightning,Deep Learning,documentation,training_tricks.rst,202,".. warning:: Batch size finder is not yet supported for DDP or any of its variations, it is coming soon."
+Lightning-AI/pytorch-lightning,Deep Learning,documentation,logging_advanced.rst,350,.. TODO:: show images of both
+Lightning-AI/pytorch-lightning,Deep Learning,documentation,logging_basic.rst,42,.. TODO:: show plot of metric changing over time
+Lightning-AI/pytorch-lightning,Deep Learning,documentation,logging_intermediate.rst,52,.. TODO:: show tracked hyperparameters.
+Lightning-AI/pytorch-lightning,Deep Learning,documentation,logging_intermediate.rst,69,.. TODO:: show tensorboard topology.
+Lightning-AI/pytorch-lightning,Deep Learning,documentation,index.rst,84,:description: Coming soon
+Lightning-AI/pytorch-lightning,Deep Learning,documentation,tp_fsdp.rst,279,:description: Coming soon
+Lightning-AI/pytorch-lightning,Deep Learning,documentation,other.rst,56,Coming soon.
+Lightning-AI/pytorch-lightning,Deep Learning,documentation,other.rst,66,Coming soon.
+Lightning-AI/pytorch-lightning,Deep Learning,documentation,index.rst,84,:description: Coming soon
+Lightning-AI/pytorch-lightning,Deep Learning,documentation,tp_fsdp.rst,285,:description: Coming soon
+huggingface/datasets,NLP,dependency,setup.py,168,"""faiss-cpu>=1.8.0.post1"",  # Pins numpy < 2"
+huggingface/datasets,NLP,dependency,setup.py,181,"""tensorflow>=2.16.0; python_version>='3.10' and sys_platform != 'win32' and python_version < '3.14'"",  # Pins numpy < 2"
+huggingface/datasets,NLP,dependency,setup.py,185,"""transformers>=4.42.0"",  # Pins numpy < 2"
+huggingface/datasets,NLP,documentation,README.md,2,"TODO: ""Add YAML tags here. Delete these instructions and copy-paste the YAML tags obtained with the online tagging app: https://huggingface.co/spaces/huggingface/datasets-tagging"""
+huggingface/datasets,NLP,documentation,README_guide.md,2,"TODO: ""Add YAML tags here. Delete these instructions and copy-paste the YAML tags obtained with the online tagging app: https://huggingface.co/spaces/huggingface/datasets-tagging"""
+explosion/spaCy,NLP,documentation,CONTRIBUTING.md,85,"also use the issue to ask questions, or share your work in progress."
+explosion/spaCy,NLP,documentation,PULL_REQUEST_TEMPLATE.md,7,"issue number. If your PR is still a work in progress, that's totally fine – just"
+explosion/spaCy,NLP,documentation,UNIVERSE.md,26,"✅ We're happy to include work in progress and prereleases, but we'd like to"
+explosion/spaCy,NLP,documentation,Code Conventions.md,127,"It's fine to include code comments that indicate future TODOs, using the `TODO:` prefix. Modern editors typically format this in a different color, so it's easy to spot. TODOs don't necessarily have t"
+explosion/spaCy,NLP,documentation,Code Conventions.md,130,+ # TODO: this is currently pretty slow
+explosion/spaCy,NLP,documentation,Code Conventions.md,525,"+ @pytest.mark.xfail(reason=""Issue #225 - not yet implemented"")"
+explosion/spaCy,NLP,documentation,Satellite Packages.md,36,"- [spacy-ray](https://github.com/explosion/spacy-ray): A wrapper to integrate spaCy with Ray, a distributed training framework. Currently a work in progress."
+facebookresearch/fairseq,NLP,cicd,release.yml,54,# TODO: change this to main once shipit is disabled.
+facebookresearch/fairseq,NLP,documentation,README.md,126,Coming soon.
+facebookresearch/fairseq,NLP,documentation,README.md,4,- Coming soon: Commands for MLM experiments
+facebookresearch/fairseq,NLP,cicd,download_ML50_v1.sh,15,# TODO: need to print out instructions on downloading a few files which requires manually authentication from the websites
+facebookresearch/fairseq,NLP,cicd,download_ML50_v1.sh,26,# IWSLT downloading URLs have changed in between; TODO: fix them:
+facebookresearch/fairseq,NLP,cicd,download_ML50_v1.sh,29,# TODO: globalvoices URLs changed; need to be fixed
+facebookresearch/fairseq,NLP,cicd,download_wmt20.sh,18,# TODO update the workdir and dest dir name
+facebookresearch/fairseq,NLP,cicd,download_wmt20.sh,64,# TODO specify global workdir
+facebookresearch/fairseq,NLP,cicd,download_wmt20.sh,83,# TODO specify global workdir
+facebookresearch/fairseq,NLP,cicd,download_wmt20.sh,546,# TODO remove intermediate files
+facebookresearch/fairseq,NLP,documentation,direct_s2st_discrete_units.md,173,Coming soon.
+facebookresearch/fairseq,NLP,documentation,README.md,119,*** Note: these instructions are a work in progress and will be updated over the next few days
+allenai/allennlp,NLP,cicd,codecov.yml,18,# TODO(epwalsh): re-enable if there is a way to only enable annotations
+allenai/allennlp,NLP,cicd,mkdocs-skeleton.yml,23,"# TODO(markn): Consider adding GA here, if we care about it."
+facebookresearch/detectron2,Computer Vision,cicd,action.yml,14,# TODO: this command fails because windows does not have wget
+facebookresearch/detectron2,Computer Vision,cicd,action.yml,8,echo TODO: unittest fails for now
+ultralytics/yolov5,Computer Vision,dependency,pyproject.toml,103,"""keras>=3.5.0,<=3.12.0"", # pin to avoid XNNPACK errors"
+ultralytics/yolov5,Computer Vision,cicd,stale.yml,51,"exempt-issue-labels: ""documentation,tutorial,TODO"""
