@@ -1,0 +1,428 @@
+repo_name,category,avg_complexity,maintainability_index,flake8_violations,total_functions,complex_functions,loc
+Dao-AILab/flash-attention,Deep Learning,6.39,49.83,1764.0,2215.0,312.0,104742.0
+PaddlePaddle/PaddleDetection,Computer Vision,3.86,58.12,4412.0,5641.0,309.0,146585.0
+facebookresearch/flores,NLP,3.65,62.76,249.0,102.0,7.0,2512.0
+PaddlePaddle/PaddleSeg,Computer Vision,3.4,68.98,4253.0,6467.0,262.0,153499.0
+huggingface/setfit,Deep Learning,3.28,66.09,621.0,674.0,26.0,15917.0
+google-research/t5x,NLP,2.47,74.36,7216.0,1479.0,31.0,45459.0
+mosaicml/composer,Deep Learning,3.6,68.57,993.0,3367.0,176.0,84993.0
+PaddlePaddle/PaddleOCR,Computer Vision,3.51,67.03,2157.0,4936.0,217.0,110299.0
+openai/glide-text2im,Deep Learning,3.08,63.59,16.0,200.0,7.0,3387.0
+triton-lang/triton,Deep Learning,3.1,55.1,1805.0,6531.0,270.0,142781.0
+WongKinYiu/yolov7,Computer Vision,4.23,53.63,1129.0,579.0,33.0,11875.0
+huggingface/transformers,NLP,2.95,,,68937.0,2568.0,
+google-deepmind/graphcast,Deep Learning,2.18,67.52,2250.0,406.0,6.0,11274.0
+allenai/open-instruct,NLP,3.5,58.11,701.0,2658.0,149.0,71590.0
+huggingface/optimum,Deep Learning,3.39,71.82,271.0,784.0,37.0,16334.0
+OpenRLHF/OpenRLHF,NLP,4.48,64.2,85.0,450.0,43.0,13077.0
+meituan/YOLOv6,Computer Vision,3.61,72.87,2003.0,626.0,28.0,19104.0
+huggingface/tokenizers,Deep Learning,3.71,67.15,237.0,506.0,16.0,8008.0
+CarperAI/trlx,NLP,3.6,62.47,169.0,710.0,38.0,17332.0
+huggingface/hub-docs,Deep Learning,4.33,79.81,4.0,6.0,0.0,369.0
+facebookresearch/audiocraft,Deep Learning,3.33,72.91,74.0,1514.0,57.0,28313.0
+facebookresearch/esm,Deep Learning,2.71,74.04,724.0,580.0,17.0,11111.0
+suno-ai/bark,Deep Learning,4.12,75.82,81.0,59.0,5.0,1391.0
+opencv/opencv-python,Computer Vision,6.57,83.45,29.0,14.0,2.0,704.0
+kornia/kornia,Computer Vision,2.35,69.21,480.0,8589.0,121.0,168703.0
+coqui-ai/TTS,Deep Learning,3.17,70.89,971.0,3321.0,115.0,77995.0
+facebookresearch/jepa,Deep Learning,3.51,65.7,14.0,318.0,13.0,7536.0
+scikit-image/scikit-image,Computer Vision,2.61,66.93,484.0,3754.0,83.0,122953.0
+haotian-liu/LLaVA,Deep Learning,4.31,58.86,298.0,312.0,27.0,8183.0
+google-deepmind/alphageometry,Deep Learning,4.12,55.15,3732.0,714.0,56.0,12903.0
+Zulko/moviepy,Computer Vision,3.99,79.82,471.0,621.0,41.0,19565.0
+IST-DASLab/gptq,NLP,2.22,55.0,289.0,506.0,15.0,6536.0
+google-deepmind/alphamissense,Deep Learning,2.76,71.5,2016.0,360.0,8.0,9020.0
+QwenLM/Qwen,Deep Learning,4.4,55.39,689.0,218.0,22.0,7225.0
+imageio/imageio,Computer Vision,4.44,57.93,61.0,1329.0,118.0,42130.0
+google-deepmind/deepmind-research,Deep Learning,2.64,69.55,20900.0,4214.0,95.0,94680.0
+meta-llama/llama3,Deep Learning,2.88,80.44,27.0,51.0,2.0,1154.0
+openai/point-e,Deep Learning,3.06,69.23,19.0,286.0,9.0,5141.0
+JDAI-CV/fast-reid,Computer Vision,2.82,74.45,1338.0,1434.0,25.0,37741.0
+continuedev/continue,NLP,2.21,81.64,454.0,330.0,8.0,6799.0
+BlinkDL/RWKV-LM,Deep Learning,3.76,47.23,5655.0,970.0,73.0,20338.0
+openai/shap-e,Deep Learning,2.95,65.15,56.0,656.0,12.0,13357.0
+nomic-ai/nomic,NLP,4.0,71.97,201.0,277.0,22.0,6811.0
+facebookresearch/ConvNeXt-V2,Computer Vision,3.58,52.94,213.0,142.0,9.0,2652.0
+mlfoundations/open_flamingo,Deep Learning,4.91,66.14,105.0,222.0,20.0,9115.0
+salesforce/BLIP,Deep Learning,2.97,55.33,2435.0,319.0,12.0,6366.0
+facebookresearch/fairscale,Deep Learning,3.22,70.28,287.0,2340.0,87.0,47418.0
+facebookresearch/moco,Computer Vision,,,0.0,,,
+LAION-AI/Open-Assistant,Deep Learning,3.0,72.62,440.0,2072.0,84.0,46946.0
+mistralai/mistral-common,NLP,2.85,66.19,47.0,1024.0,32.0,19957.0
+NVIDIA/apex,Deep Learning,4.24,66.81,674.0,1166.0,102.0,36797.0
+Vision-CAIR/MiniGPT-4,Deep Learning,2.65,68.54,911.0,705.0,23.0,12166.0
+facebookresearch/swav,Computer Vision,4.12,60.12,42.0,66.0,6.0,2368.0
+mlfoundations/open_clip,Deep Learning,4.01,52.07,639.0,1045.0,58.0,23206.0
+google-research/text-to-text-transfer-transformer,NLP,2.53,75.1,2017.0,398.0,14.0,13421.0
+yoheinakajima/babyagi,NLP,3.14,76.22,704.0,221.0,11.0,6143.0
+NVIDIA/DeepLearningExamples,Computer Vision,3.07,,,19799.0,706.0,
+salesforce/LAVIS,Deep Learning,3.29,72.91,3530.0,4539.0,183.0,99887.0
+NVIDIA/TensorRT,Computer Vision,3.04,74.78,4822.0,5895.0,202.0,135372.0
+lucidrains/x-transformers,Deep Learning,4.12,50.84,5916.0,535.0,33.0,13114.0
+karpathy/minGPT,Deep Learning,3.09,73.3,156.0,67.0,2.0,1250.0
+bigcode-project/bigcode-dataset,NLP,3.94,65.77,319.0,238.0,16.0,7173.0
+microsoft/onnxruntime,Computer Vision,3.83,,,9871.0,725.0,
+onnx/onnx,Computer Vision,2.45,,,3997.0,145.0,
+PKU-YuanGroup/Video-LLaVA,Deep Learning,4.43,58.7,1361.0,755.0,66.0,21231.0
+google/trax,Deep Learning,2.29,65.66,14877.0,3385.0,62.0,69534.0
+bigcode-project/bigcode-evaluation-harness,NLP,3.08,70.99,307.0,451.0,18.0,9457.0
+apache/tvm,Computer Vision,2.61,65.26,,18596.0,560.0,
+X-PLUG/mPLUG-Owl,Deep Learning,3.8,56.13,1756.0,1069.0,68.0,23430.0
+openai/gpt-2,Deep Learning,2.93,64.05,43.0,29.0,1.0,586.0
+salesforce/CodeT5,NLP,7.03,54.9,2008.0,194.0,27.0,7192.0
+InternLM/InternLM,Deep Learning,4.94,39.68,0.0,82.0,9.0,2638.0
+openvinotoolkit/openvino,Computer Vision,2.8,73.2,9772.0,9985.0,250.0,22709.0
+facebookresearch/metaseq,Deep Learning,3.04,67.13,123.0,2097.0,86.0,40428.0
+pytorch/ao,Computer Vision,3.26,66.44,1339.0,6646.0,311.0,215560.0
+baichuan-inc/Baichuan2,Deep Learning,2.47,53.99,15.0,19.0,1.0,371.0
+Stability-AI/StableLM,NLP,,,0.0,,,
+EleutherAI/lm-evaluation-harness,Deep Learning,2.97,70.87,1370.0,4589.0,115.0,100892.0
+EleutherAI/pythia,NLP,1.95,65.0,246.0,111.0,2.0,2133.0
+google-deepmind/tapnet,Computer Vision,3.55,,,413.0,26.0,
+01-ai/Yi,Deep Learning,3.3,61.32,71.0,204.0,10.0,5142.0
+facebookresearch/co-tracker,Computer Vision,5.81,64.69,350.0,198.0,24.0,8485.0
+deepseek-ai/DeepSeek-LLM,Deep Learning,,,0.0,,,
+isl-org/MiDaS,Computer Vision,3.25,65.05,266.0,155.0,7.0,4049.0
+mosaicml/llm-foundry,NLP,4.42,68.34,907.0,1642.0,149.0,61928.0
+openlm-research/open_llama,NLP,,,0.0,,,
+google-deepmind/gemma,Deep Learning,2.52,78.03,6136.0,933.0,13.0,26208.0
+google/gemma_pytorch,Deep Learning,2.72,68.83,311.0,178.0,4.0,4307.0
+google-research/language,NLP,3.29,71.22,44695.0,6214.0,310.0,194618.0
+OptimalScale/LMFlow,NLP,5.51,68.81,427.0,877.0,109.0,34994.0
+lllyasviel/ControlNet,Computer Vision,3.48,74.89,953.0,2755.0,128.0,60247.0
+allenai/OLMo,Deep Learning,2.44,,,4518.0,126.0,
+google/sentencepiece,NLP,2.25,64.28,687.0,206.0,4.0,2638.0
+XPixelGroup/HAT,Computer Vision,3.62,73.87,38.0,92.0,5.0,2298.0
+OpenGVLab/InternVL,NLP,4.27,67.11,1742.0,2761.0,217.0,76360.0
+microsoft/nlp-recipes,NLP,3.91,71.28,386.0,911.0,60.0,27687.0
+microsoft/torchscale,Deep Learning,3.18,66.53,370.0,522.0,23.0,10013.0
+lucidrains/denoising-diffusion-pytorch,Deep Learning,2.43,45.09,3728.0,668.0,14.0,9294.0
+jantic/DeOldify,Computer Vision,2.55,55.44,15477.0,2017.0,27.0,15770.0
+THUDM/GLM,NLP,3.7,53.03,489.0,1258.0,76.0,21936.0
+google-research/electra,NLP,3.46,63.08,1946.0,362.0,19.0,6927.0
+cloneofsimo/lora,Computer Vision,5.22,50.56,84.0,147.0,17.0,7256.0
+tatsu-lab/alpaca_eval,Deep Learning,3.91,65.39,104.0,299.0,16.0,8821.0
+PaddlePaddle/ERNIE,NLP,5.3,63.55,280.0,2660.0,341.0,97958.0
+ymcui/Chinese-LLaMA-Alpaca,NLP,4.9,49.64,594.0,96.0,12.0,3806.0
+kohya-ss/sd-scripts,Computer Vision,5.15,45.27,4357.0,3058.0,295.0,103272.0
+google-research/pegasus,NLP,2.94,78.31,3954.0,646.0,18.0,20264.0
+bmaltais/kohya_ss,Computer Vision,6.63,60.87,1467.0,387.0,45.0,25525.0
+google-research/albert,NLP,4.21,50.76,2704.0,292.0,23.0,9633.0
+apple/ml-stable-diffusion,Deep Learning,4.95,59.17,344.0,183.0,19.0,6766.0
+FreedomIntelligence/HuatuoGPT,NLP,5.47,49.04,86.0,17.0,2.0,553.0
+TencentARC/GFPGAN,Deep Learning,5.04,64.7,0.0,186.0,21.0,5230.0
+dmlc/gluon-nlp,NLP,4.01,57.72,1785.0,1536.0,92.0,50368.0
+facebookresearch/bart_ls,NLP,2.93,67.45,1794.0,6105.0,230.0,126987.0
+facebookresearch/Mask2Former,Computer Vision,4.04,72.09,771.0,453.0,28.0,14941.0
+clips/pattern,NLP,3.18,66.96,9656.0,3000.0,171.0,44025.0
+allenai/longformer,NLP,3.14,67.97,222.0,330.0,14.0,6552.0
+JaidedAI/EasyOCR,Computer Vision,3.62,59.87,2900.0,650.0,27.0,14363.0
+allenai/macaw,NLP,4.62,47.74,264.0,63.0,6.0,1304.0
+SillyTavern/SillyTavern,NLP,,,0.0,,,
+openai/jukebox,Deep Learning,3.14,67.73,3147.0,1364.0,48.0,30080.0
+mindee/doctr,Computer Vision,4.68,75.46,296.0,1130.0,106.0,35987.0
+microsoft/MASS,NLP,5.04,61.48,254.0,311.0,38.0,7494.0
+ollama/ollama,NLP,,,0.0,,,
+google-research/scenic,Computer Vision,3.59,72.34,56019.0,5134.0,274.0,217319.0
+OpenBMB/ToolBench,NLP,3.67,72.72,2795.0,412.0,17.0,9671.0
+microsoft/ProphetNet,NLP,4.53,62.65,3574.0,1836.0,137.0,51632.0
+google-research/multinerf,Computer Vision,3.52,55.85,2637.0,289.0,20.0,8432.0
+thunlp/OpenPrompt,NLP,3.22,65.01,4115.0,850.0,32.0,16025.0
+thunlp/OpenDelta,NLP,3.74,68.17,4035.0,913.0,52.0,24195.0
+microsoft/JARVIS,NLP,6.51,41.55,700.0,165.0,25.0,6245.0
+bmild/nerf,Computer Vision,5.31,43.22,332.0,35.0,5.0,1657.0
+NVlabs/instant-ngp,Computer Vision,5.46,55.2,7090.0,448.0,61.0,16044.0
+adapter-hub/adapters,NLP,3.93,73.93,241.0,1909.0,131.0,45900.0
+nerfstudio-project/nerfstudio,Computer Vision,3.44,68.47,620.0,1872.0,112.0,50731.0
+langchain-ai/langchainjs,NLP,,,3.0,,,
+google-research/xtreme,NLP,5.93,55.97,3756.0,380.0,44.0,13336.0
+facebookresearch/cc_net,NLP,3.33,62.16,41.0,392.0,19.0,6253.0
+graphdeco-inria/gaussian-splatting,Computer Vision,3.09,62.95,516.0,164.0,7.0,3760.0
+deepset-ai/haystack-experimental,NLP,3.22,84.01,67.0,274.0,6.0,6217.0
+EleutherAI/the-pile,NLP,1.66,58.91,608.0,318.0,3.0,2525.0
+facebookresearch/sam2,Deep Learning,3.65,64.87,102.0,711.0,36.0,16982.0
+facebookresearch/ClassyVision,Computer Vision,2.33,77.93,139.0,1742.0,20.0,30676.0
+bigscience-workshop/xmtf,NLP,4.88,62.95,222.0,17.0,1.0,1078.0
+openai/evals,Deep Learning,3.07,69.5,791.0,2232.0,62.0,45989.0
+open-mmlab/mmrotate,Computer Vision,4.44,80.34,0.0,712.0,65.0,31787.0
+microsoft/graphrag,NLP,2.96,82.8,445.0,2076.0,53.0,50414.0
+allenai/unifiedqa,NLP,4.23,47.38,1030.0,221.0,22.0,5763.0
+PromtEngineer/localGPT,NLP,5.15,61.52,1379.0,340.0,26.0,10366.0
+facebookresearch/pytorchvideo,Computer Vision,3.11,74.74,101.0,1356.0,34.0,38836.0
+open-mmlab/mmocr,Computer Vision,3.0,84.08,2.0,2426.0,78.0,65954.0
+Stability-AI/generative-models,Deep Learning,3.53,55.75,658.0,814.0,43.0,17845.0
+roboflow/roboflow-python,Computer Vision,2.33,65.96,10.0,1675.0,40.0,30023.0
+open-mmlab/mmagic,Computer Vision,3.74,77.35,260.0,5242.0,288.0,176931.0
+google-deepmind/dm-haiku,Deep Learning,1.96,70.95,7468.0,1985.0,22.0,34930.0
+open-mmlab/mmaction2,Computer Vision,4.21,78.03,66.0,2286.0,172.0,89903.0
+cleanlab/cleanlab,Computer Vision,3.8,63.3,1171.0,1442.0,78.0,43325.0
+xinntao/Real-ESRGAN,Deep Learning,5.61,71.8,0.0,85.0,14.0,2770.0
+pallets/flask,Non-ML Control,2.94,68.83,59.0,925.0,29.0,18337.0
+pyro-ppl/pyro,MLOps,2.98,65.3,231.0,5887.0,189.0,133935.0
+automl/HpBandSter,AutoML/RL,3.0,77.12,6918.0,309.0,9.0,8617.0
+catboost/catboost,AutoML/RL,3.5,61.08,8113.0,10453.0,586.0,184016.0
+lucidrains/imagen-pytorch,Deep Learning,3.49,52.85,3355.0,405.0,19.0,7507.0
+django/django,Non-ML Control,1.84,82.38,,38007.0,439.0,
+facebookresearch/vissl,Computer Vision,2.94,72.68,164.0,2653.0,73.0,58602.0
+albumentations-team/autoalbument,Computer Vision,1.77,72.76,6.0,390.0,0.0,2918.0
+tensorflow/probability,MLOps,1.91,,,18997.0,195.0,
+EpistasisLab/tpot,AutoML/RL,3.55,73.04,5129.0,694.0,34.0,17579.0
+python/mypy,Non-ML Control,3.84,60.98,318.0,10112.0,759.0,178962.0
+davidhalter/jedi,Non-ML Control,2.8,77.18,1393.0,2887.0,86.0,46659.0
+google/neural-tangents,Deep Learning,3.99,66.66,4913.0,637.0,53.0,27060.0
+psf/requests,Non-ML Control,2.84,68.04,94.0,713.0,13.0,11997.0
+EpistasisLab/tpot2,AutoML/RL,3.53,73.57,5098.0,692.0,33.0,17469.0
+openml/openml-python,AutoML/RL,3.36,74.96,165.0,1118.0,44.0,29657.0
+catalyst-team/catalyst,MLOps,2.38,75.43,36.0,2397.0,28.0,57291.0
+sqlalchemy/sqlalchemy,Non-ML Control,2.08,50.07,,30535.0,524.0,
+sphinx-doc/sphinx,Non-ML Control,3.16,76.3,233.0,8182.0,365.0,147879.0
+facebookresearch/mae,Deep Learning,3.1,66.79,75.0,104.0,4.0,2502.0
+open-mmlab/mmtracking,Computer Vision,4.69,76.6,33.0,990.0,84.0,36314.0
+shankarpandala/lazypredict,AutoML/RL,3.12,69.47,0.0,508.0,14.0,10042.0
+Arize-ai/phoenix,MLOps,3.84,68.06,807.0,12579.0,724.0,321437.0
+automl/Auto-PyTorch,AutoML/RL,3.56,74.8,72.0,2501.0,153.0,64051.0
+executablebooks/MyST-Parser,Non-ML Control,3.78,74.12,15.0,481.0,34.0,10711.0
+celery/celery,Non-ML Control,2.55,63.78,43.0,7781.0,116.0,99667.0
+tryolabs/norfair,Computer Vision,3.46,61.69,175.0,319.0,14.0,10086.0
+facebookresearch/dino,Deep Learning,3.23,51.86,169.0,169.0,6.0,3782.0
+h2oai/h2o-3,AutoML/RL,3.18,71.83,36302.0,7824.0,410.0,102627.0
+google/init2winit,AutoML/RL,2.67,66.7,11091.0,1937.0,43.0,64064.0
+readthedocs/readthedocs.org,Non-ML Control,2.22,86.94,370.0,6168.0,90.0,134415.0
+langfuse/langfuse,MLOps,,,8.0,,,727.0
+scrapy/scrapy,Non-ML Control,2.65,65.76,63.0,5781.0,75.0,76492.0
+microsoft/Swin-Transformer,Deep Learning,3.37,58.12,136.0,311.0,10.0,6708.0
+traceloop/openllmetry,MLOps,4.23,67.35,142.0,5830.0,500.0,135882.0
+google-deepmind/rlax,AutoML/RL,1.47,70.32,1992.0,540.0,0.0,11315.0
+openai/procgen,AutoML/RL,3.43,74.0,27.0,49.0,1.0,1227.0
+jupyterlab/jupyterlab,Non-ML Control,3.47,78.53,54.0,572.0,23.0,12849.0
+facebookresearch/ConvNeXt,Deep Learning,4.95,80.85,280.0,132.0,18.0,5077.0
+google-deepmind/reverb,AutoML/RL,2.12,75.38,1338.0,424.0,3.0,8630.0
+MVIG-SJTU/AlphaPose,Computer Vision,3.46,67.67,4052.0,1517.0,71.0,34328.0
+open-telemetry/opentelemetry-python,MLOps,1.87,84.78,1574.0,5363.0,56.0,112998.0
+jupyter/notebook,Non-ML Control,2.8,84.25,2.0,41.0,0.0,1089.0
+pydantic/pydantic,Non-ML Control,2.97,,,8166.0,231.0,
+google-research/simclr,Deep Learning,3.53,58.92,1118.0,154.0,7.0,5238.0
+zuoxingdong/lagom,AutoML/RL,3.43,70.03,2095.0,682.0,32.0,10845.0
+microsoft/CvT,Computer Vision,3.79,67.9,26.0,104.0,6.0,2454.0
+facebookresearch/Pearl,AutoML/RL,2.5,80.47,43.0,1244.0,21.0,32469.0
+getsentry/sentry-python,MLOps,5.64,62.46,486.0,4962.0,666.0,168235.0
+pytest-dev/pytest,Non-ML Control,2.73,65.32,53.0,6029.0,129.0,107828.0
+facebookresearch/ReAgent,AutoML/RL,2.51,77.14,183.0,3691.0,68.0,68525.0
+DataDog/datadogpy,MLOps,2.89,75.36,406.0,1154.0,49.0,22888.0
+ipython/ipython,Non-ML Control,3.16,68.18,3800.0,3863.0,156.0,84630.0
+pygments/pygments,Non-ML Control,3.23,,,2089.0,69.0,
+unslothai/unsloth,Deep Learning,4.67,54.52,47087.0,6834.0,572.0,221471.0
+redis/redis-py,Non-ML Control,3.25,56.46,269.0,9758.0,382.0,169898.0
+apple/ml-4m,Computer Vision,3.84,61.75,4059.0,1344.0,92.0,32679.0
+kengz/SLM-Lab,AutoML/RL,3.08,64.08,245.0,957.0,20.0,15706.0
+replicate/replicate-python,MLOps,3.35,63.82,13.0,347.0,22.0,8113.0
+pfnet/pfrl,AutoML/RL,2.88,70.25,8.0,1598.0,54.0,31332.0
+pyparsing/pyparsing,Non-ML Control,2.84,70.13,1414.0,1675.0,53.0,51206.0
+axolotl-ai-cloud/axolotl,Deep Learning,3.81,68.72,509.0,5225.0,311.0,144009.0
+iterative/mlem,MLOps,2.58,66.17,39.0,2366.0,32.0,33477.0
+arrow-py/arrow,Non-ML Control,5.37,54.85,12.0,1115.0,157.0,19928.0
+artidoro/qlora,Deep Learning,5.72,49.73,107.0,29.0,3.0,1220.0
+openai/mujoco-py,AutoML/RL,3.49,74.63,347.0,217.0,10.0,5843.0
+aio-libs/aiohttp,Non-ML Control,2.96,47.07,56.0,5376.0,128.0,91932.0
+bentoml/Yatai,MLOps,,100.0,0.0,,,
+mlcommons/algorithmic-efficiency,AutoML/RL,2.81,72.84,11215.0,1891.0,83.0,48244.0
+google-deepmind/dm_control,AutoML/RL,2.11,72.19,13428.0,4031.0,38.0,63662.0
+cortexlabs/cortex,MLOps,3.57,81.58,107.0,188.0,14.0,5791.0
+karpathy/llama2.c,Deep Learning,3.83,61.79,118.0,59.0,5.0,1827.0
+encode/django-rest-framework,Non-ML Control,2.6,64.66,122.0,3532.0,43.0,40281.0
+polyaxon/polyaxon,MLOps,,,0.0,,,
+MagicStack/uvloop,Non-ML Control,1.78,59.89,18.0,534.0,3.0,11434.0
+openai/safety-gym,AutoML/RL,4.66,71.37,168.0,117.0,12.0,2909.0
+facebookresearch/Detectron,Computer Vision,3.25,68.93,57.0,608.0,28.0,18631.0
+open-mmlab/mmdetection3d,Computer Vision,4.13,76.91,86.0,3062.0,225.0,134787.0
+Farama-Foundation/Metaworld,AutoML/RL,2.6,55.23,23.0,960.0,35.0,20531.0
+amoffat/sh,Non-ML Control,2.3,48.57,3.0,392.0,5.0,7474.0
+tornadoweb/tornado,Non-ML Control,2.09,59.13,42.0,3378.0,43.0,46124.0
+Trusted-AI/AIX360,MLOps,2.81,80.4,3521.0,1235.0,49.0,28388.0
+google-research/maxvit,Computer Vision,2.62,73.53,553.0,146.0,2.0,2698.0
+twisted/twisted,Non-ML Control,1.69,72.93,742.0,28287.0,148.0,395916.0
+keleshev/schema,Non-ML Control,3.2,36.05,5.0,178.0,7.0,3276.0
+google-research/big_vision,Deep Learning,3.18,,,1482.0,53.0,
+benoitc/gunicorn,Non-ML Control,3.07,74.53,378.0,5285.0,111.0,82174.0
+google-deepmind/bsuite,AutoML/RL,1.82,90.86,1884.0,567.0,3.0,12149.0
+oegedijk/explainerdashboard,MLOps,3.78,51.09,1036.0,1301.0,70.0,36549.0
+openai/consistency_models,Deep Learning,2.72,55.9,49.0,359.0,6.0,6279.0
+minerllabs/minerl,AutoML/RL,2.24,76.3,607.0,959.0,14.0,12582.0
+google-deepmind/dm_pix,Computer Vision,2.35,72.18,801.0,139.0,0.0,4113.0
+crowsonkb/k-diffusion,Deep Learning,2.43,48.04,125.0,431.0,8.0,4665.0
+tartley/colorama,Non-ML Control,1.82,76.25,194.0,159.0,0.0,1886.0
+gevent/gevent,Non-ML Control,1.8,56.56,9170.0,19879.0,164.0,266033.0
+pachyderm/pachyderm,MLOps,2.19,73.89,478.0,1222.0,13.0,19109.0
+AI4Finance-Foundation/FinRL,AutoML/RL,3.21,71.24,264.0,471.0,14.0,18610.0
+google-deepmind/optax,MLOps,1.75,67.76,5725.0,1216.0,2.0,39685.0
+MongoEngine/mongoengine,Non-ML Control,4.08,51.63,3176.0,2025.0,125.0,41828.0
+msgpack/msgpack-python,Non-ML Control,3.27,61.41,15.0,214.0,9.0,3264.0
+tatsu-lab/stanford_alpaca,Deep Learning,3.75,60.8,10.0,28.0,3.0,770.0
+dagster-io/dagster,MLOps,2.89,,,43172.0,1478.0,
+pgmpy/pgmpy,MLOps,3.08,79.35,64.0,3993.0,160.0,100673.0
+AI4Finance-Foundation/ElegantRL,AutoML/RL,2.66,61.56,3543.0,3403.0,84.0,65095.0
+coleifer/peewee,Non-ML Control,2.1,44.7,6184.0,4777.0,48.0,53899.0
+OpenBMB/ChatDev,Deep Learning,3.8,62.63,894.0,1531.0,81.0,29697.0
+mongodb/motor,Non-ML Control,1.91,70.4,135.0,1030.0,6.0,19303.0
+arviz-devs/arviz,MLOps,3.38,77.64,6.0,13.0,0.0,750.0
+mage-ai/mage-ai,MLOps,3.33,76.08,3480.0,11477.0,602.0,67311.0
+google/evojax,AutoML/RL,1.87,70.76,338.0,442.0,2.0,8909.0
+rq/rq,Non-ML Control,2.04,66.52,17.0,1430.0,24.0,23821.0
+pynamodb/PynamoDB,Non-ML Control,2.61,69.94,190.0,1075.0,20.0,18729.0
+nomic-ai/gpt4all,Deep Learning,3.26,65.8,288.0,123.0,9.0,3098.0
+determined-ai/determined,MLOps,3.17,68.16,593.0,7047.0,268.0,129115.0
+miguelgrinberg/Flask-SocketIO,Non-ML Control,2.07,54.01,12.0,168.0,3.0,2735.0
+tensorflow/lattice,MLOps,3.98,57.71,3876.0,626.0,46.0,24898.0
+CMA-ES/pycma,AutoML/RL,4.1,40.03,1878.0,1258.0,81.0,27107.0
+clearml/clearml-serving,MLOps,3.93,80.61,34.0,293.0,25.0,6259.0
+DEAP/deap,AutoML/RL,3.51,71.75,785.0,629.0,38.0,17305.0
+google-deepmind/distrax,MLOps,1.56,64.99,4897.0,1744.0,14.0,28046.0
+pypa/wheel,Non-ML Control,4.73,68.1,11.0,137.0,16.0,4043.0
+deepchecks/deepchecks,MLOps,2.49,79.4,2183.0,3497.0,94.0,90243.0
+bentoml/OpenLLM,MLOps,4.1,51.95,638.0,106.0,8.0,2135.0
+trevorstephens/gplearn,AutoML/RL,4.38,62.13,150.0,117.0,10.0,4947.0
+pypa/build,Non-ML Control,2.44,74.6,22.0,299.0,4.0,5751.0
+grpc/grpc,Non-ML Control,2.07,90.1,36173.0,6487.0,78.0,129862.0
+FlagAI-Open/FlagAI,Deep Learning,3.61,66.62,23943.0,8720.0,489.0,191545.0
+flyteorg/flyte,MLOps,1.26,93.0,8351.0,1014.0,2.0,18340.0
+unionai-oss/pandera,MLOps,2.77,68.34,421.0,4656.0,112.0,98841.0
+optuna/optuna-integration,AutoML/RL,3.11,77.76,1.0,653.0,10.0,15591.0
+protocolbuffers/protobuf,Non-ML Control,1.91,66.47,7348.0,2210.0,30.0,42837.0
+saltstack/salt,Non-ML Control,3.74,,,31634.0,1802.0,
+abetlen/llama-cpp-python,Deep Learning,2.35,65.15,285.0,845.0,21.0,19714.0
+tensorflow/tfx,MLOps,2.25,84.42,23101.0,6472.0,137.0,160526.0
+apache/beam,MLOps,2.11,70.28,81071.0,23117.0,295.0,50157.0
+google/ml-metadata,MLOps,2.0,82.75,550.0,241.0,2.0,5456.0
+open-mmlab/mmdeploy,MLOps,3.12,85.96,10.0,1931.0,59.0,59575.0
+miguelgrinberg/python-socketio,Non-ML Control,2.79,62.83,19.0,1243.0,29.0,18704.0
+marshmallow-code/marshmallow,Non-ML Control,3.22,59.51,15.0,1121.0,28.0,15698.0
+cherrypy/cherrypy,Non-ML Control,2.97,62.01,19.0,1387.0,48.0,31004.0
+hpcaitech/ColossalAI,Deep Learning,3.62,68.33,3670.0,12157.0,722.0,31644.0
+joke2k/faker,Non-ML Control,2.74,,,4788.0,56.0,
+googleapis/python-aiplatform,MLOps,2.67,,,81337.0,1797.0,
+boto/boto3,Non-ML Control,2.06,77.01,61.0,1308.0,6.0,21113.0
+microsoft/semantic-kernel,NLP,3.12,73.98,761.0,8797.0,259.0,5230.0
+D-X-Y/AutoDL-Projects,AutoML/RL,3.2,59.78,2003.0,1808.0,65.0,44463.0
+Textualize/rich,Non-ML Control,3.01,,,1914.0,64.0,
+microsoft/archai,AutoML/RL,3.1,74.09,3359.0,3281.0,115.0,64172.0
+paramiko/paramiko,Non-ML Control,2.69,54.92,68.0,1499.0,41.0,27226.0
+kubeflow/katib,MLOps,2.65,73.66,3927.0,3166.0,66.0,59863.0
+alibaba/FederatedScope,MLOps,3.36,73.22,449.0,2401.0,120.0,56283.0
+Textualize/textual,Non-ML Control,2.58,67.35,644.0,8544.0,173.0,140960.0
+yaml/pyyaml,Non-ML Control,3.73,53.83,1323.0,630.0,37.0,9433.0
+Netflix/dispatch,MLOps,2.37,79.3,324.0,3928.0,81.0,83974.0
+pallets/click,Non-ML Control,3.29,59.8,74.0,1232.0,37.0,25948.0
+tqdm/tqdm,Non-ML Control,3.83,74.82,0.0,474.0,26.0,9018.0
+Significant-Gravitas/AutoGPT,NLP,3.39,61.86,771.0,17850.0,640.0,428335.0
+triton-inference-server/server,MLOps,3.32,74.45,1443.0,3073.0,162.0,96741.0
+microsoft/qlib,AutoML/RL,2.63,67.52,981.0,4018.0,72.0,73999.0
+pypa/pip,Non-ML Control,2.96,,,8120.0,257.0,
+aws/sagemaker-training-toolkit,MLOps,2.42,75.77,28.0,532.0,10.0,11557.0
+microsoft/autogen,NLP,3.46,71.05,1880.0,4870.0,256.0,112463.0
+neptune-ai/neptune-client,MLOps,2.06,85.33,78.0,2546.0,22.0,38427.0
+googleapis/python-bigquery,MLOps,1.95,81.86,36.0,5115.0,48.0,102301.0
+AI4Finance-Foundation/FinGPT,AutoML/RL,3.08,69.99,1679.0,1177.0,42.0,31051.0
+google/python-fire,Non-ML Control,2.18,73.4,2548.0,760.0,13.0,11514.0
+crewAIInc/crewAI,NLP,3.55,69.04,892.0,11364.0,481.0,250749.0
+dbt-labs/dbt-core,MLOps,2.69,66.16,513.0,10194.0,242.0,152797.0
+orchest/orchest,MLOps,2.71,83.63,286.0,1738.0,48.0,47059.0
+mkdocs/mkdocs,Non-ML Control,1.92,66.96,57.0,1403.0,17.0,19331.0
+giampaolo/psutil,Non-ML Control,3.63,58.0,24.0,1925.0,85.0,32928.0
+tensortrade-org/tensortrade,AutoML/RL,2.52,77.35,1056.0,1170.0,24.0,23391.0
+pdoc3/pdoc,Non-ML Control,1.9,77.65,5.0,633.0,10.0,9419.0
+stanford-oval/storm,NLP,2.96,67.3,314.0,633.0,12.0,14390.0
+dask/dask,MLOps,3.25,52.13,1039.0,9191.0,437.0,183058.0
+DLR-RM/rl-baselines3-zoo,AutoML/RL,4.35,71.0,51.0,163.0,11.0,6530.0
+pyenv/pyenv,Non-ML Control,3.2,39.8,144.0,88.0,4.0,1221.0
+sematic-ai/sematic,MLOps,2.82,78.87,63.0,2552.0,58.0,57908.0
+fabric/fabric,Non-ML Control,2.75,72.84,18.0,312.0,7.0,8658.0
+modin-project/modin,MLOps,2.77,73.53,411.0,6058.0,233.0,147039.0
+anthropics/anthropic-sdk-python,NLP,2.61,91.18,1515.0,5045.0,94.0,103542.0
+fiddler-labs/fiddler-auditor,MLOps,2.08,80.57,47.0,156.0,1.0,2623.0
+pyinvoke/invoke,Non-ML Control,2.86,76.94,969.0,1240.0,39.0,25890.0
+vaexio/vaex,MLOps,3.28,59.97,13953.0,5825.0,261.0,93163.0
+PaddlePaddle/PaddleSlim,MLOps,3.27,63.39,12361.0,8601.0,361.0,181572.0
+leggedrobotics/legged_gym,AutoML/RL,2.65,73.35,637.0,127.0,5.0,2992.0
+pydantic/pydantic-settings,Non-ML Control,3.65,57.36,31.0,687.0,45.0,16255.0
+ansible/ansible,Non-ML Control,3.58,77.8,5725.0,12618.0,730.0,116222.0
+cohere-ai/cohere-python,NLP,3.57,91.36,1405.0,1156.0,98.0,46287.0
+rapidsai/cuml,MLOps,3.34,69.73,294.0,3866.0,179.0,110049.0
+zenml-io/zenml-projects,MLOps,4.31,84.53,1200.0,1395.0,128.0,77544.0
+pytest-dev/pluggy,Non-ML Control,2.93,64.59,0.0,273.0,7.0,5266.0
+python-attrs/attrs,Non-ML Control,2.78,70.15,12.0,1100.0,22.0,20190.0
+AgentOps-AI/agentops,NLP,3.96,73.48,896.0,3499.0,206.0,89058.0
+google-deepmind/launchpad,AutoML/RL,2.19,84.54,1851.0,462.0,9.0,8310.0
+rapidsai/cudf,MLOps,,,,,,
+qdrant/qdrant,MLOps,4.25,62.79,2658.0,1301.0,104.0,46177.0
+robusta-dev/robusta,MLOps,2.84,75.51,1402.0,2913.0,84.0,45462.0
+robotframework/robotframework,Non-ML Control,1.9,71.44,670.0,11370.0,41.0,111514.0
+microsoft/hummingbird,MLOps,2.44,70.31,648.0,1472.0,40.0,24093.0
+facebookresearch/rlstructures,AutoML/RL,2.34,74.43,1042.0,910.0,14.0,15336.0
+encode/httpx,Non-ML Control,3.07,55.7,97.0,1145.0,23.0,17753.0
+chroma-core/chroma,NLP,3.45,64.33,538.0,3250.0,200.0,68776.0
+feast-dev/feast-spark,MLOps,2.19,72.42,25.0,521.0,6.0,10534.0
+pytorch/serve,MLOps,2.77,75.68,699.0,2131.0,48.0,45808.0
+behave/behave,Non-ML Control,2.78,72.94,979.0,3271.0,54.0,49438.0
+sherpa-ai/sherpa,MLOps,3.26,73.48,419.0,264.0,7.0,6103.0
+Farama-Foundation/D4RL,AutoML/RL,2.55,64.29,2257.0,938.0,25.0,17156.0
+pypa/setuptools,Non-ML Control,3.27,68.01,304.0,4157.0,139.0,81311.0
+tensorflow/model-analysis,MLOps,2.62,68.22,144.0,2300.0,69.0,75056.0
+rq/rq-scheduler,Non-ML Control,1.52,73.66,53.0,168.0,0.0,2017.0
+milvus-io/pymilvus,NLP,2.48,56.51,3971.0,6689.0,96.0,107022.0
+qdrant/qdrant-client,NLP,3.01,,,2958.0,123.0,
+tensorflow/data-validation,MLOps,2.34,66.5,27.0,1534.0,31.0,57368.0
+wandb/sweeps,AutoML/RL,3.77,66.85,9.0,223.0,9.0,7359.0
+python-poetry/poetry,Non-ML Control,3.45,69.99,51.0,3437.0,150.0,77565.0
+celery/kombu,Non-ML Control,2.4,58.47,0.0,3985.0,42.0,49617.0
+jax-ml/jax,Deep Learning,2.69,,,23900.0,807.0,
+marqo-ai/marqo,NLP,2.41,75.59,7025.0,6918.0,115.0,153860.0
+tensorflow/transform,MLOps,2.48,68.43,715.0,1651.0,32.0,56332.0
+Farama-Foundation/Gymnasium,AutoML/RL,3.78,63.15,1366.0,1991.0,146.0,53161.0
+PaddlePaddle/PaddleNLP,Deep Learning,3.75,,,26505.0,1685.0,
+astral-sh/uv,Non-ML Control,3.47,82.67,48.0,320.0,19.0,9381.0
+neuml/txtai,NLP,2.74,82.13,724.0,2447.0,49.0,46150.0
+Trusted-AI/AIF360,MLOps,3.12,71.85,2333.0,1037.0,39.0,27203.0
+Farama-Foundation/PettingZoo,AutoML/RL,3.33,74.98,400.0,1010.0,53.0,25428.0
+openai/spinningup,AutoML/RL,2.68,71.39,1186.0,356.0,17.0,9061.0
+conda/conda,Non-ML Control,3.72,65.5,138.0,5430.0,303.0,122578.0
+weaviate/weaviate,NLP,5.26,59.54,51.0,448.0,31.0,15909.0
+microsoft/responsible-ai-toolbox,MLOps,3.21,78.23,0.0,1766.0,79.0,40877.0
+NVIDIA/Megatron-LM,Deep Learning,4.35,61.26,4230.0,11618.0,892.0,338289.0
+Farama-Foundation/Minigrid,AutoML/RL,3.43,66.16,103.0,673.0,32.0,17691.0
+mamba-org/mamba,Non-ML Control,5.72,51.35,54.0,700.0,96.0,16882.0
+CompVis/taming-transformers,Deep Learning,2.96,54.92,571.0,536.0,17.0,8072.0
+deepset-ai/FARM,NLP,4.06,68.44,2061.0,845.0,52.0,26194.0
+astooke/rlpyt,AutoML/RL,2.83,79.44,1311.0,1592.0,45.0,39577.0
+lucidrains/flamingo-pytorch,Deep Learning,2.33,76.46,174.0,40.0,2.0,570.0
+EleutherAI/gpt-neox,Deep Learning,3.82,67.37,671.0,1011.0,63.0,29946.0
+ray-project/tune-sklearn,AutoML/RL,2.89,77.8,0.0,250.0,11.0,5999.0
+EleutherAI/gpt-neo,Deep Learning,3.9,60.3,247.0,109.0,6.0,3441.0
+allenai/scispacy,NLP,3.88,68.22,170.0,202.0,12.0,5254.0
+hyperopt/hyperopt,AutoML/RL,3.34,62.14,124.0,888.0,52.0,16135.0
+ikostrikov/pytorch-a2c-ppo-acktr-gail,AutoML/RL,2.68,62.83,52.0,119.0,1.0,2048.0
+lucidrains/PaLM-pytorch,Deep Learning,1.62,67.62,123.0,88.0,0.0,1187.0
+tox-dev/tox,Non-ML Control,2.97,63.14,53.0,2387.0,77.0,36123.0
+PyCQA/flake8,Non-ML Control,2.62,71.14,0.0,566.0,6.0,9936.0
+vllm-project/vllm,Deep Learning,3.43,,,38894.0,1820.0,
+huggingface/evaluate,NLP,2.79,82.15,336.0,899.0,30.0,22390.0
+scipy/scipy,MLOps,2.53,57.91,,25243.0,746.0,
+scikit-optimize/scikit-optimize,AutoML/RL,3.39,63.93,333.0,582.0,34.0,17741.0
+lucidrains/DALLE-pytorch,Deep Learning,2.64,64.23,1359.0,226.0,4.0,3929.0
+google-deepmind/open_spiel,AutoML/RL,2.92,73.12,24022.0,4958.0,145.0,118530.0
+huggingface/text-generation-inference,Deep Learning,3.51,56.26,729.0,4239.0,190.0,108900.0
+openai/human-eval,NLP,2.48,83.39,2.0,21.0,0.0,448.0
+scikit-learn/scikit-learn,MLOps,3.24,62.96,1499.0,11728.0,526.0,442050.0
+lucidrains/perceiver-pytorch,Deep Learning,2.47,66.2,572.0,58.0,0.0,930.0
+PyCQA/isort,Non-ML Control,4.11,76.08,32.0,814.0,43.0,28263.0
+facebookresearch/nle,AutoML/RL,4.14,59.58,33.0,339.0,24.0,8367.0
+lm-sys/FastChat,Deep Learning,3.29,58.66,773.0,1301.0,68.0,35040.0
+allenai/dolma,NLP,3.35,65.16,361.0,1317.0,56.0,25308.0
+statsmodels/statsmodels,MLOps,2.57,,,14275.0,431.0,
+keras-team/autokeras,AutoML/RL,2.31,83.15,110.0,769.0,8.0,13932.0
+lucidrains/bidirectional-cross-attention,Deep Learning,3.33,85.69,100.0,9.0,0.0,227.0
+psf/black,Non-ML Control,2.52,,,2747.0,96.0,
+pymc-devs/pymc,MLOps,2.96,59.77,839.0,4910.0,160.0,103879.0
+togethercomputer/RedPajama-Data,NLP,2.52,79.02,61.0,291.0,2.0,6142.0
+dmlc/xgboost,AutoML/RL,3.0,63.84,232.0,2131.0,74.0,53032.0
+astral-sh/ruff,Non-ML Control,1.56,92.77,0.0,9126.0,49.0,8895.0
+openai/guided-diffusion,Deep Learning,2.77,58.73,35.0,318.0,7.0,5654.0
