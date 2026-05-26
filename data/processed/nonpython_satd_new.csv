@@ -1,0 +1,220 @@
+repo_name,category,file_type,file_name,sdlc_phase,line_number,line_content
+Dao-AILab/flash-attention,Deep Learning,documentation,README.md,P7_Documentation,152,"The Triton implementation of [Flash Attention](https://tridao.me/publications/flash2/flash2.pdf) supports AMD's CDNA (MI200, MI300) and RDNA GPUs using fp16, bf16, and fp32 datatypes. It provides forw"
+Dao-AILab/flash-attention,Deep Learning,documentation,usage.md,P7_Documentation,15,coming soon.
+mosaicml/composer,Deep Learning,documentation,README.md,P7_Documentation,118,**********************************************Hardware requirements:**********************************************  System with CUDA-compatible GPUs (AMD + RoCM coming soon!). Composer can run on CPUs
+mosaicml/composer,Deep Learning,dependency,pyproject.toml,P4_Build_Packaging,1013,"# Deprecated modules which should not be used, separated by a comma."
+mosaicml/composer,Deep Learning,dependency,setup.py,P4_Build_Packaging,101,# Pinning versions strictly to avoid random test failures.
+huggingface/transformers,NLP,documentation,CONTRIBUTING.md,P7_Documentation,473,☐ To indicate a work in progress please prefix the title with `[WIP]`. These are
+allenai/open-instruct,NLP,dependency,pyproject.toml,P4_Build_Packaging,38,# Pin the Linux x86_64 wheel directly so uv doesn't resolve to an aarch64-only version.
+opencv/opencv-python,Computer Vision,cicd,travis_osx_brew_cache.sh,P5_CICD_Deployment,7,"#FIXME: temporary fix to enable the build, should be replaced with the proper path to the cache dir"
+kornia/kornia,Computer Vision,documentation,CHANGELOG.md,P7_Documentation,42,* torch_version_geq -> torch_version_ge according to todo by @ducha-aiki in https://github.com/kornia/kornia/pull/2157
+coqui-ai/TTS,Deep Learning,cicd,run_bash_tests.sh,P5_CICD_Deployment,5,# TODO: move these to python
+scikit-image/scikit-image,Computer Vision,documentation,CONTRIBUTING.rst,P7_Documentation,145,"If your change introduces a deprecation, add a reminder to ``TODO.txt``"
+scikit-image/scikit-image,Computer Vision,documentation,CONTRIBUTING.rst,P7_Documentation,851,"- In ``TODO.txt``, create an item in the section related to version"
+scikit-image/scikit-image,Computer Vision,dependency,pyproject.toml,P4_Build_Packaging,254,"# deprecated, to be removed before v0.27"
+haotian-liu/LLaVA,Deep Learning,documentation,README.md,P7_Documentation,26,"- [1/30] 🔥 **LLaVA-NeXT** (LLaVA-1.6) is out! With additional scaling to LLaVA-1.5, LLaVA-NeXT-34B outperforms Gemini Pro on some benchmarks. It can now process 4x more pixels and perform more tasks/a"
+google-deepmind/alphageometry,Deep Learning,dependency,requirements.txt,P4_Build_Packaging,2067,# pinned when the requirements file includes hashes. Consider using the --allow-unsafe flag.
+Zulko/moviepy,Computer Vision,documentation,CONTRIBUTING.md,P7_Documentation,48,You do not have to have finished your feature or bug fix before submitting a PR; just mention that it still is a work in progress.
+QwenLM/Qwen,Deep Learning,documentation,README_ES.md,P7_Documentation,141,"Para utilizar Qwen-Chat para la inferencia, todo lo que tienes que hacer es introducir unas pocas líneas de código como se demuestra a continuación. Recuerda introducir los nombres o rutas correctos d"
+QwenLM/Qwen,Deep Learning,documentation,README_JA.md,P7_Documentation,105,より詳細な実験結果（より多くのベンチマークデータセットでの詳細なモデル性能）や詳細については、[こちら](TODO)をクリックして技術メモを参照してください。
+imageio/imageio,Computer Vision,dependency,pyproject.toml,P4_Build_Packaging,23,"""pillow>=8.3.2"",  # pinned to > 8.3.2 due to security vulnerability (GHSA-98vv-pw6r-q6q4)"
+google-deepmind/deepmind-research,Deep Learning,cicd,.travis.yml,P5_CICD_Deployment,12,"# - PROJECT=""cs_gan""  # TODO(b/184845450): Fix and re-enable"
+google-deepmind/deepmind-research,Deep Learning,cicd,.travis.yml,P5_CICD_Deployment,21,"# - PROJECT=""polygen""  # TODO(b/184847339): Fix and re-enable"
+google-deepmind/deepmind-research,Deep Learning,cicd,.travis.yml,P5_CICD_Deployment,22,"# - PROJECT=""scratchgan""  # TODO(b/184856293): Fix and enable"
+google-deepmind/deepmind-research,Deep Learning,cicd,.travis.yml,P5_CICD_Deployment,27,"# - PROJECT=""unrestricted_advx""  # TODO(b/184862249): Fix and enable"
+BlinkDL/RWKV-LM,Deep Learning,documentation,README.md,P7_Documentation,495,**Infinite ctxlen training (WIP):** https://github.com/Blealtan/RWKV-LM-LoRA/tree/dev-infctx
+LAION-AI/Open-Assistant,Deep Learning,documentation,CONTRIBUTING.md,P7_Documentation,101,"**Anything that is in the `Todo` column and not assigned, is up for grabs."
+salesforce/LAVIS,Deep Learning,documentation,README.md,P7_Documentation,135,|         Text-to-image Generation         |      [COMING SOON]       |                                            |
+salesforce/LAVIS,Deep Learning,documentation,README.md,P7_Documentation,312,"- **GUI Demo**: to run the demo locally, run ```bash run_scripts/run_demo.sh``` and then follow the instruction on the prompts to view in browser. A web demo is coming soon."
+NVIDIA/TensorRT,Computer Vision,documentation,CONTRIBUTING.md,P7_Documentation,95,"* While under review, mark your PRs as work-in-progress by prefixing the PR title with [WIP]."
+NVIDIA/TensorRT,Computer Vision,documentation,README.md,P7_Documentation,5,"TensorRT 11.0 is coming soon in 2026 Q2 with powerful new capabilities designed to accelerate your AI inference workflows. With this major version bump, TensorRT's API will be streamlined and a few le"
+microsoft/onnxruntime,Computer Vision,dependency,pyproject.toml,P4_Build_Packaging,54,"""B028"", # FIXME: Add stacklevel to warnings"
+microsoft/onnxruntime,Computer Vision,dependency,pyproject.toml,P4_Build_Packaging,57,"""G004"", # FIXME: Enable when the rule can be autofixed"
+onnx/onnx,Computer Vision,cicd,.pre-commit-config.yaml,P5_CICD_Deployment,20,# TODO: Enable this step which creates some churn
+onnx/onnx,Computer Vision,cicd,.pre-commit-config.yaml,P5_CICD_Deployment,62,name: namespace check (no hardcoded onnx namespace)
+onnx/onnx,Computer Vision,cicd,.pre-commit-config.yaml,P5_CICD_Deployment,68,# TODO: Enable this step which creates some churn
+onnx/onnx,Computer Vision,documentation,CONTRIBUTING.md,P7_Documentation,128,<!-- TODO(justinchuby): Get rid of the need for manually running stat_coverage -->
+bigcode-project/bigcode-evaluation-harness,NLP,documentation,CONTRIBUTING.md,P7_Documentation,152,3. To indicate a work in progress please prefix the title with `[WIP]`. These
+openvinotoolkit/openvino,Computer Vision,documentation,CONTRIBUTING_PR.md,P7_Documentation,26,"* For Work In Progress, or checking test results early, use a Draft PR."
+Stability-AI/StableLM,NLP,documentation,README.md,P7_Documentation,6,This repository contains Stability AI's ongoing development of the StableLM series of language models and will be continuously updated with new checkpoints. The following provides an overview of all c
+EleutherAI/lm-evaluation-harness,Deep Learning,documentation,README.md,P7_Documentation,549,| [Llama.cpp](https://github.com/ggerganov/llama.cpp) (via [llama-cpp-python](https://github.com/abetlen/llama-cpp-python)) | :heavy_check_mark:                                                        
+google-deepmind/gemma,Deep Learning,documentation,README.md,P7_Documentation,81,* Gemma 4 (Coming soon)
+OpenGVLab/InternVL,NLP,documentation,README.md,P7_Documentation,521,## TODO List
+OpenGVLab/InternVL,NLP,documentation,README_zh.md,P7_Documentation,461,## TODO 列表
+microsoft/torchscale,Deep Learning,documentation,SUPPORT.md,P7_Documentation,1,# TODO: The maintainer of this repo has not yet edited this file
+PaddlePaddle/ERNIE,NLP,documentation,README.md,P7_Documentation,190,| ERNIE-4.5-VL-424B-A47B-Base    | Coming Soon               | BF16 / W4A16C16 / W8A16C16 / FP8 |
+PaddlePaddle/ERNIE,NLP,documentation,README.md,P7_Documentation,191,| ERNIE-4.5-VL-424B-A47B         | Coming Soon               | BF16 / W4A16C16 / W8A16C16 / FP8 |
+PaddlePaddle/ERNIE,NLP,documentation,README.md,P7_Documentation,192,| ERNIE-4.5-VL-28B-A3B-Base      | Coming Soon               | BF16 / W4A16C16 / W8A16C16 / FP8 |
+PaddlePaddle/ERNIE,NLP,documentation,README.md,P7_Documentation,193,| ERNIE-4.5-VL-28B-A3B           | Coming Soon               | BF16 / W4A16C16 / W8A16C16 / FP8 |
+PaddlePaddle/ERNIE,NLP,documentation,README.md,P7_Documentation,210,* Post-Training Quantization (PTQ) [WIP]
+google-research/albert,NLP,notebook,albert_glue_fine_tuning_tutorial.ipynb,P2_Experimentation,94,# TODO(lanzhzh): Add support for 2.x.
+google-research/albert,NLP,notebook,albert_glue_fine_tuning_tutorial.ipynb,P2_Experimentation,144,#TODO(lanzhzh): Add pip support
+SillyTavern/SillyTavern,NLP,cicd,Dockerfile,P5_CICD_Deployment,24,# Create config directory and link config.yaml. Added hardcoded dirs(constants.js?)
+openai/jukebox,Deep Learning,documentation,README.md,P7_Documentation,175,"# TODO For the two lines below, if `--labels` was used and the model is"
+OpenBMB/ToolBench,NLP,documentation,README.md,P7_Documentation,651,## TODO
+OpenBMB/ToolBench,NLP,documentation,README_ZH.md,P7_Documentation,654,## TODO
+microsoft/JARVIS,NLP,documentation,SUPPORT.md,P7_Documentation,1,# TODO: The maintainer of this repo has not yet edited this file
+nerfstudio-project/nerfstudio,Computer Vision,documentation,README.md,P7_Documentation,289,| [Feedback Form](TODO)                                                                    | We welcome any feedback! This is our chance to learn what you all are using Nerfstudio for.        |
+bigscience-workshop/xmtf,NLP,documentation,README.md,P7_Documentation,36,<td>WIP - Join us at Project Aya @<a href=https://cohere.for.ai/>C4AI</a> to help!</td>
+openai/evals,Deep Learning,cicd,.pre-commit-config.yaml,P5_CICD_Deployment,39,# TODO: fix the evals and then reduce the line length here
+microsoft/graphrag,NLP,dependency,pyproject.toml,P4_Build_Packaging,207,"# ""FIX"", # fixme"
+PromtEngineer/localGPT,NLP,documentation,README.md,P7_Documentation,151,# - colpali-engine (multimodal processing - support coming soon)
+roboflow/roboflow-python,Computer Vision,documentation,CLI-COMMANDS.md,P7_Documentation,352,| `batch` | Batch processing jobs *(coming soon)* |
+pyro-ppl/pyro,MLOps,documentation,CONTRIBUTING.md,P7_Documentation,132,"For speculative changes meant for early-stage review, include `[WIP]` in the PR's title."
+pyro-ppl/pyro,MLOps,documentation,CONTRIBUTING.md,P7_Documentation,133,(One of the maintainers will add the `WIP` tag.)
+pyro-ppl/pyro,MLOps,dependency,setup.py,P4_Build_Packaging,73,"""visdom>=0.1.4,<0.2.2"",  # FIXME visdom.utils is unavailable >=0.2.2"
+catboost/catboost,AutoML/RL,documentation,CPP_STYLE_GUIDE.md,P7_Documentation,491,"To make it easier to search for your TODO comments in the code, use one of two formats:"
+catboost/catboost,AutoML/RL,documentation,CPP_STYLE_GUIDE.md,P7_Documentation,494,// TODO (username): fix me later
+catboost/catboost,AutoML/RL,documentation,CPP_STYLE_GUIDE.md,P7_Documentation,499,// TODO (ticket_number): fix me later
+lucidrains/imagen-pytorch,Deep Learning,documentation,README.md,P7_Documentation,689,## Todo
+tensorflow/probability,MLOps,documentation,README.md,P7_Documentation,160,currently supports is 6.4.0; support for 7.0.0+ is WIP.
+tensorflow/probability,MLOps,documentation,SUBSTRATES.md,P7_Documentation,186,# TODO(b/155501444): Remove this when tf.nn.softplus is fixed.
+google/neural-tangents,Deep Learning,documentation,README.md,P7_Documentation,33,Neural Tangents is a work in progress.
+sphinx-doc/sphinx,Non-ML Control,documentation,AUTHORS.rst,P7_Documentation,44,* Daniel Bültmann -- todo extension
+sphinx-doc/sphinx,Non-ML Control,documentation,AUTHORS.rst,P7_Documentation,59,* Filip Vavera -- napoleon todo directive
+sphinx-doc/sphinx,Non-ML Control,documentation,AUTHORS.rst,P7_Documentation,96,* Matthew Fernandez -- todo extension fix
+open-mmlab/mmtracking,Computer Vision,documentation,README.md,P7_Documentation,116,- [ ] [PrDiMP](https://arxiv.org/abs/2003.12565) (CVPR2020) (WIP)
+open-mmlab/mmtracking,Computer Vision,documentation,README_zh-CN.md,P7_Documentation,112,- [ ] [PrDiMP](https://arxiv.org/abs/2003.12565) (CVPR2020) (WIP)
+h2oai/h2o-3,AutoML/RL,documentation,Changes-prior-3.28.0.1.md,P7_Documentation,3468,<li>[<a href='https://github.com/h2oai/h2o-3/issues/11458'>#11458</a>] - Added an initial XGBoost topic to the User Guide. Note that this is still a work in progress.
+h2oai/h2o-3,AutoML/RL,documentation,Changes.md,P7_Documentation,2581,"<li>[<a href='https://github.com/h2oai/h2o-3/issues/8406'>#8406</a>] - Fixed an issue that caused h2oframe.apply to fail when run in Python 3.7. Note that Python 3.7 is still not officially supported,"
+h2oai/h2o-3,AutoML/RL,cicd,make-dist.sh,P5_CICD_Deployment,80,"# TODO improve (gradle calls script which then calls gradle, that creates problems with gradle daemon)"
+h2oai/h2o-3,AutoML/RL,notebook,single-decision-tree-benchmark.ipynb,P2_Experimentation,39,attempt_per_thread = 1 # number of runs of the algorithm in the thread # todo - change to 5
+readthedocs/readthedocs.org,Non-ML Control,documentation,CHANGELOG.rst,P7_Documentation,988,* `@plaindocs <https://github.com/plaindocs>`__: Tighten up and refactor the tutorial WIP (`#11316 <https://github.com/readthedocs/readthedocs.org/pull/11316>`__)
+readthedocs/readthedocs.org,Non-ML Control,documentation,CHANGELOG.rst,P7_Documentation,5997,"We're hoping to have another version of search coming soon after this,"
+readthedocs/readthedocs.org,Non-ML Control,documentation,CHANGELOG.rst,P7_Documentation,6740,* `@stsewd <https://github.com/stsewd>`__: [WIP] Remove comments app (`#3802 <https://github.com/readthedocs/readthedocs.org/pull/3802>`__)
+microsoft/Swin-Transformer,Deep Learning,documentation,SUPPORT.md,P7_Documentation,1,# TODO: The maintainer of this repo has not yet edited this file
+jupyterlab/jupyterlab,Non-ML Control,cicd,.stylelintrc.yaml,P5_CICD_Deployment,14,# TODO: fix all of these rules violated in stylelint-config-recommended
+jupyterlab/jupyterlab,Non-ML Control,cicd,.stylelintrc.yaml,P5_CICD_Deployment,25,# TODO: evaluate these unfixable rules violated in stylelint-config-standard
+jupyterlab/jupyterlab,Non-ML Control,cicd,.stylelintrc.yaml,P5_CICD_Deployment,44,# TODO: decrease max-compound to 3
+jupyterlab/jupyterlab,Non-ML Control,cicd,.stylelintrc.yaml,P5_CICD_Deployment,46,# TODO: decrease to 0
+MVIG-SJTU/AlphaPose,Computer Vision,documentation,README.md,P7_Documentation,144,## TODO
+open-telemetry/opentelemetry-python,MLOps,documentation,CONTRIBUTING.md,P7_Documentation,274,"* ""docs: replace TODO placeholders with API and SDK overview descriptions"""
+open-telemetry/opentelemetry-python,MLOps,documentation,CONTRIBUTING.md,P7_Documentation,297,"* If the PR is not ready for review, please put `[WIP]` in the title, tag it"
+open-telemetry/opentelemetry-python,MLOps,documentation,CONTRIBUTING.md,P7_Documentation,338,"Project managers can also exempt a PR from this by applying one of the following labels: `hold`, `WIP`, `blocked by spec`, `do not merge`."
+open-telemetry/opentelemetry-python,MLOps,documentation,RELEASING.md,P7_Documentation,70,* Run the following (TODO automate):
+open-telemetry/opentelemetry-python,MLOps,dependency,gen-requirements.txt,P4_Build_Packaging,2,# Pinning this to the oldest grpcio version that supports protobuf 5 helps avoid RuntimeWarning messages
+zuoxingdong/lagom,AutoML/RL,documentation,README.md,P7_Documentation,74,A graphical illustration is coming soon.
+pytest-dev/pytest,Non-ML Control,dependency,pyproject.toml,P4_Build_Packaging,496,# deprecated in an earlier release.
+DataDog/datadogpy,MLOps,documentation,CONTRIBUTING.md,P7_Documentation,94,| `do-not-merge/WIP`            | Pull Request Only        | Do not merge this PR.
+unslothai/unsloth,Deep Learning,documentation,README.md,P7_Documentation,57,"* [Multi-GPU](https://unsloth.ai/docs/basics/multi-gpu-training-with-unsloth) training is supported, with major improvements coming soon."
+unslothai/unsloth,Deep Learning,cicd,install.sh,P5_CICD_Deployment,1661,# TODO: uncomment rocm7.2 when the torch upper bound is bumped
+axolotl-ai-cloud/axolotl,Deep Learning,documentation,FAQS.md,P7_Documentation,3,"- Can you train StableLM with this? Yes, but only with a single GPU atm. Multi GPU support is coming soon! Just waiting on this [PR](https://github.com/huggingface/transformers/pull/22874)"
+axolotl-ai-cloud/axolotl,Deep Learning,documentation,FAQS.md,P7_Documentation,4,"- Will this work with Deepspeed? That's still a WIP, but setting `export ACCELERATE_USE_DEEPSPEED=true` should work in some cases"
+iterative/mlem,MLOps,documentation,README.md,P7_Documentation,14,"Wrap models as a Python package or Docker Image, or deploy them to Heroku, SageMaker or Kubernetes (more platforms coming soon)."
+aio-libs/aiohttp,Non-ML Control,dependency,pyproject.toml,P4_Build_Packaging,129,# deprecated in an earlier release.
+facebookresearch/Detectron,Computer Vision,documentation,MODEL_ZOO.md,P7_Documentation,20,- Baseline models and results for the [Cityscapes dataset](https://www.cityscapes-dataset.com/) are coming soon!
+twisted/twisted,Non-ML Control,documentation,NEWS.rst,P7_Documentation,4078,- todo parameter for IReporter.addExpectedSuccess and
+twisted/twisted,Non-ML Control,cicd,codecov.yml,P5_CICD_Deployment,28,# Temporary allow for a bit of slack in overall code coverage due to
+google-research/big_vision,Deep Learning,documentation,README.md,P7_Documentation,89,"Resources: [colab and models](https://colab.research.google.com/github/google-research/big_vision/blob/main/big_vision/configs/proj/image_text/SigLIP_demo.ipynb), code TODO."
+google-research/big_vision,Deep Learning,documentation,README.md,P7_Documentation,476,| GSAM       | WIP                                                                                           |
+oegedijk/explainerdashboard,MLOps,documentation,TODO.md,P7_Documentation,1,# TODO
+oegedijk/explainerdashboard,MLOps,documentation,TODO.md,P7_Documentation,35,- [M/L] add group fairness metrics (see refs in old TODO).
+crowsonkb/k-diffusion,Deep Learning,documentation,README.md,P7_Documentation,79,TODO: write this section
+pachyderm/pachyderm,MLOps,documentation,CHANGELOG-1.x.md,P7_Documentation,909,- Dynamic volume provisioning.  GCE and AWS users (Azure support is coming soon) no longer have to manually provision persistent volumes for deploying Pachyderm.  `pachctl deploy` is now able to dynam
+pachyderm/pachyderm,MLOps,documentation,CHANGELOG-1.x.md,P7_Documentation,918,- DeleteCommit (the original implementation of DeleteCommit is very limiting: only open head commits may be removed.  An improved version of DeleteCommit is coming soon)
+pachyderm/pachyderm,MLOps,documentation,CHANGELOG.md,P7_Documentation,71,- Address getLogsLoki project TODO - #8553
+pachyderm/pachyderm,MLOps,documentation,proto-docs.md,P7_Documentation,1851,| CLUSTER_CREATE_SECRET | 143 | TODO(actgardner): Make k8s secrets into nouns and add an Update RPC |
+pachyderm/pachyderm,MLOps,documentation,proto-docs.md,P7_Documentation,4281,TODO: Consider splitting this up into separate structures for each state in a oneof.
+pachyderm/pachyderm,MLOps,documentation,proto-docs.md,P7_Documentation,6229,| path_range | [PathRange](#pfs_v2-PathRange) |  | TODO: int64 size_bytes = 3; |
+pachyderm/pachyderm,MLOps,documentation,proto-docs.md,P7_Documentation,7520,TODO:
+pachyderm/pachyderm,MLOps,documentation,proto-docs.md,P7_Documentation,7557,TODO:
+pachyderm/pachyderm,MLOps,documentation,proto-docs.md,P7_Documentation,11544,TODO: Append?
+pachyderm/pachyderm,MLOps,documentation,proto-docs.md,P7_Documentation,11565,TODO: Decide how to handle datums.
+pachyderm/pachyderm,MLOps,documentation,proto-docs.md,P7_Documentation,11764,| ComposeFileset | [ComposeFilesetRequest](#storage-ComposeFilesetRequest) | [ComposeFilesetResponse](#storage-ComposeFilesetResponse) | ComposeFileset composes a fileset. Composing a fileset involves
+dagster-io/dagster,MLOps,documentation,CHANGES.md,P7_Documentation,2352,"More Airflow-related content is coming soon! We'd love for you to check it out, and post any comments / questions in the `#airflow-migration` channel in the Dagster slack."
+pgmpy/pgmpy,MLOps,dependency,pyproject.toml,P4_Build_Packaging,130,"""G010"",    # Deprecated log warn."
+OpenBMB/ChatDev,Deep Learning,dependency,pyproject.toml,P4_Build_Packaging,20,"""click>=8.1.8,<8.3"", # pin until click restores postponed annotations"
+mongodb/motor,Non-ML Control,cicd,.pre-commit-config.yaml,P5_CICD_Deployment,48,"args: [""--ignore-directives=doctest,testsetup,todo,automodule,mongodoc,autodoc,testcleanup,autoclass"",""--ignore-substitutions=release"", ""--report-level=error""]"
+deepchecks/deepchecks,MLOps,documentation,README.md,P7_Documentation,106,"To use deepchecks for production monitoring, you can either use our SaaS service, or deploy a local instance in one line on Linux/MacOS (Windows is WIP!) with Docker."
+flyteorg/flyte,MLOps,cicd,Dockerfile,P5_CICD_Deployment,1,# Todo(alex): We should add UI into the image when UI is done
+flyteorg/flyte,MLOps,documentation,README.md,P7_Documentation,144,"The open source backend for Flyte 2 is **coming soon**. This repository will contain the Kubernetes-native backend infrastructure for deploying Flyte 2 as a distributed, multi-node service. See the [B"
+tensorflow/tfx,MLOps,documentation,CONTRIBUTING.md,P7_Documentation,37,TODO(zhitaoli): Configure a CI/CD on Github so that each PR submission is tested
+apache/beam,MLOps,cicd,local-env-setup.sh,P5_CICD_Deployment,102,# TODO: Consider using pyenv to manage multiple installations of Python.
+marshmallow-code/marshmallow,Non-ML Control,cicd,.pre-commit-config.yaml,P5_CICD_Deployment,18,# TODO: Remove blacken-docs when https://github.com/astral-sh/ruff/issues/8237 is implemented
+D-X-Y/AutoDL-Projects,AutoML/RL,documentation,README.md,P7_Documentation,76,"<td align=""center"" valign=""middle""> coming soon </a> </td>"
+Textualize/rich,Non-ML Control,documentation,README.pt-br.md,P7_Documentation,98,Existem algumas formas de adicionar cores e estilos nos outputs. É possivel aplicar um estilo para todo output adicionando o argumento nomeado `style`. Por exemplo:
+kubeflow/katib,MLOps,documentation,CHANGELOG.md,P7_Documentation,1405,- Added version number and TODO descriptions to API proto ([#1017](https://github.com/kubeflow/katib/pull/1017) by [@sarahmaddox](https://github.com/sarahmaddox))
+alibaba/FederatedScope,MLOps,documentation,README.md,P7_Documentation,280,More supports are coming soon! We have prepared a [tutorial](https://federatedscope.io/) to provide more details about how to utilize FederatedScope to enjoy your journey of Federated Learning!
+yaml/pyyaml,Non-ML Control,dependency,pyproject.toml,P4_Build_Packaging,3,"""setuptools"",  # FIXME: declare min/max setuptools versions?"
+yaml/pyyaml,Non-ML Control,dependency,setup.py,P4_Build_Packaging,211,value = existing_value + value  # FIXME: handle type diff
+tqdm/tqdm,Non-ML Control,cicd,.pre-commit-config.yaml,P5_CICD_Deployment,22,- id: todo
+tqdm/tqdm,Non-ML Control,cicd,.pre-commit-config.yaml,P5_CICD_Deployment,23,name: Check TODO
+tqdm/tqdm,Non-ML Control,documentation,README.rst,P7_Documentation,1252,This is a work in progress (see
+Significant-Gravitas/AutoGPT,NLP,documentation,CONTRIBUTING.md,P7_Documentation,16,[todo's][roadmap]!
+Significant-Gravitas/AutoGPT,NLP,documentation,README.md,P7_Documentation,20,- [Join the Waitlist](https://bit.ly/3ZDijAI) for the cloud-hosted beta (Closed Beta - Public release Coming Soon!)
+Significant-Gravitas/AutoGPT,NLP,documentation,README.md,P7_Documentation,168,<!-- TODO: insert visual demonstrating the benchmark -->
+Significant-Gravitas/AutoGPT,NLP,documentation,README.md,P7_Documentation,178,<!-- TODO: insert screenshot of front end -->
+microsoft/qlib,AutoML/RL,documentation,README.md,P7_Documentation,47,| BPQP for End-to-end learning | 📈Coming soon!([Under review](https://github.com/microsoft/qlib/pull/1863)) |
+microsoft/qlib,AutoML/RL,documentation,README.md,P7_Documentation,618,You can find some impefect implementation in Qlib by  `rg 'TODO|FIXME' qlib`
+pypa/pip,Non-ML Control,dependency,pyproject.toml,P4_Build_Packaging,204,# Pinned to delay pyupgrade changes (https://github.com/pypa/pip/issues/13236)
+pypa/pip,Non-ML Control,dependency,pyproject.toml,P4_Build_Packaging,205,"target-version = ""py39""  # Pin Ruff to Python 3.9"
+googleapis/python-bigquery,MLOps,documentation,CHANGELOG.md,P7_Documentation,714,"* Revise delete label table code sample, add TODO to clean up sni… ([#1466](https://github.com/googleapis/python-bigquery/issues/1466)) ([0dab7d2](https://github.com/googleapis/python-bigquery/commit/"
+googleapis/python-bigquery,MLOps,documentation,CHANGELOG.md,P7_Documentation,736,"* Revise get table labels code sample, add TODO to clean up snipp… ([#1464](https://github.com/googleapis/python-bigquery/issues/1464)) ([b5ccbfe](https://github.com/googleapis/python-bigquery/commit/"
+crewAIInc/crewAI,NLP,dependency,pyproject.toml,P4_Build_Packaging,18,"""vcrpy==7.0.0"", # pinned, less versions break pytest-recording"
+dask/dask,MLOps,cicd,.pre-commit-config.yaml,P5_CICD_Deployment,37,# - pandas-stubs  # TODO
+dask/dask,MLOps,dependency,pyproject.toml,P4_Build_Packaging,119,"""B028"",     # FIXME: No explicit `stacklevel` keyword argument found"
+dask/dask,MLOps,dependency,pyproject.toml,P4_Build_Packaging,173,# FIXME spurious shutdown of distributed workers and/or sqlite3
+DLR-RM/rl-baselines3-zoo,AutoML/RL,documentation,CHANGELOG.md,P7_Documentation,1,## Release 2.9.0a2 (WIP)
+pyinvoke/invoke,Non-ML Control,documentation,THOUGHTS.rst,P7_Documentation,162,# TODO: handle non-None parameter w/ None values (error)
+vaexio/vaex,MLOps,documentation,README.md,P7_Documentation,73,* Remote DataFrames (documentation coming soon)
+rapidsai/cuml,MLOps,cicd,.pre-commit-config.yaml,P5_CICD_Deployment,173,- id: verify-hardcoded-version
+rapidsai/cuml,MLOps,documentation,CHANGELOG.md,P7_Documentation,3274,- PR #1534: Removed TODO comment in create_ucp_listeners()
+rapidsai/cuml,MLOps,documentation,README.md,P7_Documentation,111,"| **Preprocessing** | Standardization, or mean removal and variance scaling / Normalization / Encoding categorical features / Discretization / Imputation of missing values / Polynomial features genera"
+rapidsai/cuml,MLOps,cicd,dependencies.yaml,P5_CICD_Deployment,589,# TODO: remove this block once `onnxruntime` has Python 3.14 support (and conda packages built)
+rapidsai/cuml,MLOps,cicd,dependencies.yaml,P5_CICD_Deployment,600,# TODO: we're seeing test failures with openblas > 0.3.30 on aarch64. For
+rapidsai/cuml,MLOps,cicd,dependencies.yaml,P5_CICD_Deployment,621,# TODO: uncomment these two lines once `onnxruntime` has Python 3.14 support (and conda packages built)
+rapidsai/cuml,MLOps,cicd,dependencies.yaml,P5_CICD_Deployment,666,# TODO: always install xgboost-cu13 once there are xgboost-cu13 aarch64 wheels
+google-deepmind/launchpad,AutoML/RL,cicd,run_python_tests.sh,P5_CICD_Deployment,62,# TODO(b/205923232): enable PyType once they address the typed_ast problem.
+rapidsai/cudf,MLOps,cicd,.pre-commit-config.yaml,P5_CICD_Deployment,168,# TODO: Remove FindCUDAToolkit once we require CMake 4.4
+rapidsai/cudf,MLOps,cicd,.pre-commit-config.yaml,P5_CICD_Deployment,183,# TODO: Remove FindCUDAToolkit once we require CMake 4.4
+rapidsai/cudf,MLOps,cicd,.pre-commit-config.yaml,P5_CICD_Deployment,243,# TODO: Remove FindCUDAToolkit once we require CMake 4.4
+rapidsai/cudf,MLOps,cicd,.pre-commit-config.yaml,P5_CICD_Deployment,297,- id: verify-hardcoded-version
+rapidsai/cudf,MLOps,cicd,build.sh,P5_CICD_Deployment,83,"#  FIXME: if INSTALL_PREFIX is not set, check PREFIX, then check"
+rapidsai/cudf,MLOps,cicd,dependencies.yaml,P5_CICD_Deployment,338,# TODO(26.10): Remove this alias in favor of dask
+rapidsai/cudf,MLOps,cicd,dependencies.yaml,P5_CICD_Deployment,923,# TODO: remove pinning once cuPy cuts a patch release
+robusta-dev/robusta,MLOps,cicd,Dockerfile,P5_CICD_Deployment,84,# Temporary setuptools CVE fix untill python:3.12-slim image will be used.
+robusta-dev/robusta,MLOps,dependency,pyproject.toml,P4_Build_Packaging,59,# Pin to fix CVE-2026-39892 (Critical): cryptography buffer overflow with non-contiguous buffers
+robusta-dev/robusta,MLOps,dependency,pyproject.toml,P4_Build_Packaging,80,# Pin to fix cve https://github.com/robusta-dev/robusta/security/dependabot/85
+robusta-dev/robusta,MLOps,dependency,pyproject.toml,P4_Build_Packaging,82,# Pin to fix CVE-2026-30922 (transitive via google-auth)
+chroma-core/chroma,NLP,documentation,DEVELOP.md,P7_Documentation,84,Not yet implemented.
+chroma-core/chroma,NLP,documentation,DEVELOP.md,P7_Documentation,118,Not yet implemented.
+chroma-core/chroma,NLP,documentation,README.md,P7_Documentation,47,# Add docs to the collection. Can also update and delete. Row-based API coming soon!
+behave/behave,Non-ML Control,documentation,CHANGES.rst,P7_Documentation,444,* issue #216: Using --wip option does not disable ANSI escape sequences (coloring).
+behave/behave,Non-ML Control,documentation,CHANGES.rst,P7_Documentation,652,* issue #111: Comment following @wip tag results in scenario being ignored
+behave/behave,Non-ML Control,documentation,CHANGES.rst,P7_Documentation,757,"* Added work-in-progress (""wip"") mode which is useful when developing new code"
+pypa/setuptools,Non-ML Control,dependency,pyproject.toml,P4_Build_Packaging,117,# Deprecated rules must now be selected by exact rule code
+pypa/setuptools,Non-ML Control,dependency,pyproject.toml,P4_Build_Packaging,137,"# pin mypy version so a new version doesn't suddenly cause the CI to fail,"
+milvus-io/pymilvus,NLP,dependency,pyproject.toml,P4_Build_Packaging,71,"# Pin grpcio-tools to 1.66.2: generated code in grpc_gen/ embeds GRPC_GENERATED_VERSION,"
+qdrant/qdrant-client,NLP,cicd,.pre-commit-config.yaml,P5_CICD_Deployment,19,# ToDo: re-introduce ruff linter later
+python-poetry/poetry,Non-ML Control,cicd,.cirrus.yml,P5_CICD_Deployment,15,# FIXME: Python 3.12 is not available in Ports.
+python-poetry/poetry,Non-ML Control,cicd,.cirrus.yml,P5_CICD_Deployment,20,# FIXME: use pipx for install. pipx is currently broken in Ports.
+python-poetry/poetry,Non-ML Control,cicd,.cirrus.yml,P5_CICD_Deployment,32,# TODO: caching
+celery/kombu,Non-ML Control,documentation,Changelog.rst,P7_Documentation,1925,- Async hub: Fixed potential infinite loop while performing todo tasks
+jax-ml/jax,Deep Learning,documentation,CHANGELOG.md,P7_Documentation,3109,Pruning is still a work in progress.
+astral-sh/uv,Non-ML Control,cicd,Dockerfile,P5_CICD_Deployment,65,"# TODO(konsti): Optimize binary size, with a version that also works when cross compiling"
+Trusted-AI/AIF360,MLOps,documentation,CONTRIBUTING.rst,P7_Documentation,191,Draft/WIP
+Farama-Foundation/PettingZoo,AutoML/RL,cicd,.pre-commit-config.yaml,P5_CICD_Deployment,64,"# TODO: Remove ignoring rules D101, D102, D103, D105 (add docstrings to all public methods)"
+conda/conda,Non-ML Control,documentation,CHANGELOG.md,P7_Documentation,7090,* conda build adds .pth-file when it encounters an egg (TODO)
+astooke/rlpyt,AutoML/RL,documentation,CONTRIBUTING.md,P7_Documentation,10,* Well-established algorithms which are not yet implemented (we have some compute capacity to use for running verification learning curves).
+astooke/rlpyt,AutoML/RL,documentation,README.md,P7_Documentation,38,"**Deep Q-Learning** DQN + variants: Double, Dueling, Categorical (up to Rainbow minus Noisy Nets), Recurrent (R2D2-style).  *Coming soon*: Implicit Quantile Networks?"
+astooke/rlpyt,AutoML/RL,documentation,README.md,P7_Documentation,40,"**Q-Function Policy Gradient** DDPG, TD3, SAC.  *Coming soon*: Distributional DDPG?"
+EleutherAI/gpt-neo,Deep Learning,documentation,README.md,P7_Documentation,266,TODO
+EleutherAI/gpt-neo,Deep Learning,documentation,README.md,P7_Documentation,373,## TODO:
+ikostrikov/pytorch-a2c-ppo-acktr-gail,AutoML/RL,documentation,README.md,P7_Documentation,63,"Contributions are very welcome. If you know how to make this code better, please open an issue. If you want to submit a pull request, please open an issue first. Also see a todo list below."
+ikostrikov/pytorch-a2c-ppo-acktr-gail,AutoML/RL,documentation,README.md,P7_Documentation,71,### TODO
+vllm-project/vllm,Deep Learning,cicd,.pre-commit-config.yaml,P5_CICD_Deployment,160,- id: mypy-3.10 # TODO: Use https://github.com/pre-commit/mirrors-mypy when mypy setup is less awkward
+vllm-project/vllm,Deep Learning,cicd,.pre-commit-config.yaml,P5_CICD_Deployment,165,- id: mypy-3.11 # TODO: Use https://github.com/pre-commit/mirrors-mypy when mypy setup is less awkward
+vllm-project/vllm,Deep Learning,cicd,.pre-commit-config.yaml,P5_CICD_Deployment,170,- id: mypy-3.12 # TODO: Use https://github.com/pre-commit/mirrors-mypy when mypy setup is less awkward
+vllm-project/vllm,Deep Learning,cicd,.pre-commit-config.yaml,P5_CICD_Deployment,175,- id: mypy-3.13 # TODO: Use https://github.com/pre-commit/mirrors-mypy when mypy setup is less awkward
+huggingface/evaluate,NLP,documentation,CONTRIBUTING.md,P7_Documentation,232,3. To indicate a work in progress please prefix the title with `[WIP]`. These
+scipy/scipy,MLOps,documentation,CONTRIBUTING.rst,P7_Documentation,16,It's also OK to submit work in progress if you're unsure of what
+scikit-optimize/scikit-optimize,AutoML/RL,documentation,CONTRIBUTING.md,P7_Documentation,18,"* create a PR as early as possible, marking it with `[WIP]` while you work on"
+scikit-learn/scikit-learn,MLOps,cicd,.pre-commit-config.yaml,P5_CICD_Deployment,26,# TODO: add the double-quote-cython-strings hook when it's usability has improved:
+lm-sys/FastChat,Deep Learning,cicd,format.sh,P5_CICD_Deployment,61,# TODO(suquark): disable 'pylint_quotes' for now due to too many inconsistent quotes
+statsmodels/statsmodels,MLOps,dependency,pyproject.toml,P4_Build_Packaging,116,# Pin on Win32
+lucidrains/bidirectional-cross-attention,Deep Learning,documentation,README.md,P7_Documentation,43,## Todo
+psf/black,Non-ML Control,cicd,action.yml,P5_CICD_Deployment,77,# TODO: Remove once https://github.com/actions/runner/issues/665 is fixed.
+dmlc/xgboost,AutoML/RL,documentation,NEWS.md,P7_Documentation,1609,* GPU support is work in progress (#5714).
+dmlc/xgboost,AutoML/RL,documentation,NEWS.md,P7_Documentation,1885,"* See roadmap at #4753. Note that this is work in progress. In particular, the feature is not yet available from XGBoost4J-Spark."
+dmlc/xgboost,AutoML/RL,documentation,NEWS.md,P7_Documentation,2134,* Coming soon: GPU training (`gpu_hist`) with external memory
+astral-sh/ruff,Non-ML Control,cicd,Dockerfile,P5_CICD_Deployment,32,"# TODO: Optimize binary size, with a version that also works when cross compiling"
